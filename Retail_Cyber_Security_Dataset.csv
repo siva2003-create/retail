@@ -1,0 +1,1001 @@
+Timestamp,Transaction ID,Customer ID,Product ID,Product Category,Amount,Payment Method,Transaction Status,IP Address,Location,Device Type,Session Duration,Anomaly Indicator
+01:47.5,32d3d0c1-fe44-4cb2-8c43-a232cf04648f,de745b60-1988-4479-a3e1-a512f8cce0a0,ae7fe110-9a74-48b3-8c0d-6c272799853f,Apparel,301.38,Credit Card,Completed,97.239.8.82,Phoenix,Tablet,667,Yes
+56:32.2,1cdd8017-320f-4911-95a0-6ea4bd41bfbb,6407892a-608f-4d8d-b365-12afce2d5b4a,2f29dc27-4c45-4ed1-814d-7ce66cc6e556,Furniture,611.88,PayPal,Completed,203.145.128.42,Houston,Mobile,1973,Yes
+43:28.8,c86c2a93-b5f7-45f8-ac6e-e48bb0dbbf2c,e417e111-b0d3-4bf2-a184-c47e98f5eeec,59f94840-3d23-4373-bd7a-26a22cf748c4,Toys,845.26,Debit Card,Failed,64.140.94.135,Los Angeles,Desktop,363,Yes
+51:05.9,b6fac515-76d7-492a-a7fc-b253a6872701,02a2eeae-f09b-4345-817d-4164e8cd8d65,35a221f7-8166-4d53-ad7f-d64260ebd5be,Groceries,104.78,Debit Card,Pending,84.49.207.125,Chicago,Tablet,723,No
+45:19.6,267f34b4-5135-4aa2-a3d2-7308ea296c67,34fd96b4-5a84-47b6-91b8-5375a12e10bb,f4fb3402-4dbe-404e-8c2e-ad8eef6b9543,Groceries,502.98,Bank Transfer,Pending,208.178.132.250,New York,Desktop,2436,Yes
+36:16.0,d6be880f-8d8e-4c49-8f8c-a6d59d908165,d1f0c8a4-c62f-4594-9c04-42d9a5611e18,75c6c3b8-28b1-42d8-941d-a2a27dd5615c,Furniture,423.63,PayPal,Completed,85.242.72.43,Chicago,Desktop,1735,No
+11:23.2,e7f1c028-08ce-4049-9245-1dbd9fa295ee,f8b4a12d-968e-4ff0-8e23-46824ace6210,78d31582-b181-42fe-8102-62c2a791336d,Toys,551.33,Bank Transfer,Failed,215.21.189.25,Phoenix,Mobile,2156,No
+33:18.7,e5131026-d3a8-4bda-9f3f-2a44b1773a75,d6f17357-8bb7-42ab-ba96-11a5c8e364b7,97188f19-cd04-4415-b317-de0ed011dd82,Groceries,770.91,Debit Card,Completed,107.78.85.79,Los Angeles,Mobile,3568,Yes
+24:58.3,6a4e7e5e-8ff5-4124-8c39-a3f8f8f4bef5,44f8b587-1b00-46d9-a1c5-0a9775bfbcf9,75884c30-d1d9-4e48-b89f-19e7b44b7407,Toys,770.03,Debit Card,Pending,20.202.144.239,Chicago,Mobile,3368,Yes
+57:34.4,d03dd11d-181a-405b-a0eb-f2a6c0244c2b,2a3024ef-f5be-41c4-8f7e-35df425beda6,f30feefb-dd26-4d3b-8f37-f7a3415e1f3c,Furniture,924.31,PayPal,Completed,37.216.12.139,Houston,Tablet,1918,Yes
+06:57.6,077c5ccc-e0b0-4dba-8093-0d9be68a9e54,06887e46-6c0e-44be-b466-5e60beddbcb4,b6b2506c-3f2c-4c9d-93f2-a420d84e2e88,Toys,654.19,Credit Card,Failed,65.112.133.49,Phoenix,Desktop,2056,Yes
+54:19.4,d45753aa-331f-4f22-aadc-5cbd83a6c77a,a71e9217-c5f5-40c8-a728-ec1e1f7cebc4,877f851e-92ca-4d81-8e23-7d8a8b9398c5,Apparel,438.15,Bank Transfer,Failed,211.111.187.242,New York,Mobile,31,Yes
+52:42.1,59e29ed7-282e-4875-9c46-9467b7334146,46c9db2b-cc17-4722-8977-99ecbf532d5b,8d884f49-916b-4146-9560-df91370f3351,Toys,26.39,Credit Card,Failed,70.229.114.53,Los Angeles,Tablet,3275,No
+40:58.7,203210a5-91c1-4c82-b736-5d3c1595b5c3,bb5cb27d-1466-464d-97b6-95184d5d3a47,b2fab3be-c448-412a-ba53-ecd804e07046,Furniture,536.71,Debit Card,Completed,84.150.34.22,Phoenix,Mobile,235,Yes
+10:26.7,69b1fcbc-0b3c-4a69-b849-89d977f4dc16,9ff467e0-d53a-45d9-83ce-a8d24d13dc52,50f0de5e-62fb-4b17-992d-3c7a119358c5,Furniture,372.02,PayPal,Pending,43.172.208.68,New York,Desktop,605,No
+22:30.3,513846f0-3b7c-4079-8dfe-d7f3daccf6cb,aeb460b6-07c5-40cc-9e15-99f11d171866,966b97bb-2404-489d-b635-6e219d33e726,Apparel,27.4,PayPal,Pending,6.42.235.180,Los Angeles,Desktop,1253,Yes
+04:41.2,5deffbb9-6e53-4604-a085-a039c8ff3ee1,27e532e3-c900-41ac-a017-dd91650f5a55,4c4790f7-d496-47ac-9488-da0e4381717d,Furniture,428.25,Credit Card,Failed,13.142.142.67,Houston,Mobile,126,Yes
+51:18.6,a403f089-8010-45a0-9eba-7035179bb17e,2fcfb2d7-0194-4c83-a716-3f7420dbf5f2,ac5f791c-5e8f-4f7d-a588-1404d884cc48,Apparel,888.32,Credit Card,Completed,67.226.177.61,Los Angeles,Desktop,2120,Yes
+51:37.9,1723d55b-7ef4-4568-8591-e0f33ad8aa66,1ea28139-d15e-46cc-b0da-f7e3083bd177,fdc7a96f-1e2b-4165-b5e1-a7bf6b3fc523,Electronics,335.28,Bank Transfer,Failed,149.200.165.236,Houston,Tablet,170,Yes
+22:06.7,1242b98a-ea35-4fa4-8c07-0577b2eeec97,9312268e-0766-4dee-9d83-14e2972f46e1,8bd56c54-61d6-4c46-a752-5a67e4762e2d,Furniture,428.56,PayPal,Failed,209.205.116.40,New York,Desktop,819,Yes
+09:39.5,309d3674-2816-48ac-af4c-1707715d34ea,7a01771f-d74e-4735-bc2c-69acd55bdaca,b74701f3-65b7-4cd4-8c42-e5da16ee4483,Toys,410.28,PayPal,Pending,49.239.118.5,New York,Mobile,64,Yes
+35:26.2,e9bedc90-b125-4437-913c-3b49e82653e3,1f7f1fcf-feaa-4e8d-b1ac-6816a6d2e138,c2753534-c4f9-4d3b-b2e5-07c91cf67c8b,Furniture,642.49,Bank Transfer,Failed,54.244.178.55,Houston,Tablet,2754,Yes
+03:37.0,9a04f358-5754-4570-9881-59a12184a6c5,45188a78-cc5f-43ae-954e-26dc8d374c86,d320d7eb-d42a-4427-b259-e6ec4c3012a1,Apparel,497.76,PayPal,Failed,214.235.231.105,New York,Mobile,2321,No
+23:41.8,05678baf-5041-4324-abc7-271bf3c846f4,6fee1fc8-56e9-4af7-b666-7b564c803ca0,0ae058d1-2ade-4038-99b5-4efdb1715cca,Electronics,334.61,Credit Card,Completed,71.182.185.153,Chicago,Desktop,1070,Yes
+49:01.9,f5ac5cd3-75ef-4bee-a914-0ebf05dc9784,e861e40e-31e6-46c0-bfc4-3330dccbf1de,585afe88-3135-4a7f-83e0-de3087254aac,Apparel,24.94,PayPal,Completed,136.77.7.14,Los Angeles,Mobile,1167,No
+36:30.1,f0ebe438-c811-4a4b-97ec-819c96295dfe,75b338e1-eee6-4774-ad33-4b8c2aaf3738,9f6dc060-e28c-41d2-84cc-a1b782c56f62,Electronics,312.46,Credit Card,Failed,144.243.245.103,Phoenix,Tablet,712,Yes
+35:05.2,3dbf795a-7ef3-4843-ba7e-4ee7134cd142,4425b71c-1578-4b27-a0c2-583bbc9276af,ba63a5c7-a7fa-4fd6-8885-c25910e55f5f,Toys,607.81,Debit Card,Failed,118.149.134.200,Houston,Mobile,1131,Yes
+03:16.1,22abe2c0-cb29-463b-afa5-bd90aeee2d98,5047652e-bcc1-4359-8436-3195a5bb8729,cab96d14-de54-4940-bf87-30a5cd654952,Electronics,608.04,Bank Transfer,Failed,216.170.180.255,Chicago,Tablet,1885,Yes
+56:00.1,84a51320-da82-416d-97b9-ce058e98e0f3,a928394d-29de-4050-9015-68ac4309b852,a5197b34-0b69-44aa-81c8-29ed27b031bb,Toys,397.71,Bank Transfer,Failed,151.129.246.142,Phoenix,Mobile,704,No
+01:54.3,2121c238-f6d9-4c84-b0ab-d62e8e428ae8,f0014602-3546-4a62-8120-c6c335818566,1eadf60f-cb8f-4e01-810d-cff37ba60d56,Apparel,456.03,Debit Card,Failed,141.176.82.132,Chicago,Desktop,3143,No
+15:08.5,88450217-cda5-474e-8a4b-7a598625c09b,be3cab68-4e5d-4abf-8838-899f7faa44d5,d3694bdf-8bd9-45e5-8d2d-df46ef41bb3b,Groceries,195.24,Debit Card,Pending,202.213.47.192,Los Angeles,Mobile,854,Yes
+30:32.2,8ea75243-f91e-40ac-bdee-e7f6019811aa,819b559b-4557-42ee-be88-00b1341a784d,fb4f667a-0aa9-42f3-85bb-8b2ebb177e1a,Electronics,769.62,Bank Transfer,Failed,77.55.235.110,Chicago,Mobile,836,No
+24:51.9,128cdde5-58f2-4060-afd6-c097f9dd4b77,8d37a819-29fe-48d5-8c9c-3c1a2a4a06a1,d38d9f95-5ef2-4f98-bc77-c714efebfaf5,Toys,443.64,Credit Card,Completed,148.80.22.52,Los Angeles,Tablet,2369,Yes
+11:42.6,425f6560-3dcd-4528-b52d-3f8cd7b62fe3,9a92bbc0-3175-47ef-a55c-895191317fda,6a5e2b01-51d2-4a96-83cc-0be0835b9c0b,Apparel,183.45,Bank Transfer,Failed,118.14.41.163,New York,Desktop,1215,No
+56:08.5,5e5ab54e-77b4-478f-b51f-8f755339a985,eb148f56-8165-4951-af35-bea27c4854f6,b1eedb8e-6773-429b-9395-48e2a02ea90f,Groceries,301.9,Debit Card,Failed,202.38.115.84,Houston,Mobile,1037,No
+04:42.3,76b52350-da69-49a0-ab9a-92037902f99c,62fc0389-04d9-479f-b043-db6cdaeca590,2ff6672c-46d0-4f11-bcd5-feb37adc3d17,Apparel,450.03,Bank Transfer,Pending,59.135.158.45,New York,Tablet,1715,No
+59:11.0,5d77b874-1efe-4b48-ba0a-5dd12e996a38,cf523dc0-4b23-4d23-a538-d3688dd6204a,937a728b-6cc3-4416-949d-5558e644ba30,Groceries,158.14,Bank Transfer,Failed,221.182.228.31,Phoenix,Mobile,1129,No
+31:58.4,9775664d-3042-4e45-8576-59871e617096,eacf5915-74f9-473f-a952-7ebb677543a2,5144c44f-e110-4390-bf77-3e73fdaa7492,Furniture,614.64,Debit Card,Completed,21.141.99.89,Chicago,Desktop,3111,Yes
+27:48.4,60f0f425-6c2c-41f7-841c-919714af3e89,a85fc269-b02c-45b5-8f0b-dc3439adec64,500f3aa0-8546-4238-8bd4-f4a161e6bdf5,Furniture,776.98,Debit Card,Pending,176.164.81.96,Houston,Desktop,660,Yes
+54:08.4,2fd1dd97-b2ad-42bc-b67f-51e220e3584b,325ab364-87bb-4628-85f1-c41fb3b62f99,0adb6781-42f3-4a41-a996-6f117f41113c,Furniture,852.3,Debit Card,Completed,34.98.152.98,Los Angeles,Mobile,292,No
+56:25.4,8b04c7ef-8b1a-497f-8870-45d05a1928f7,c099c829-45de-4fb7-8b53-7e9336f870e7,c11a0d5a-a55b-4ec1-8449-89ce174de3b7,Apparel,824.92,PayPal,Failed,94.105.81.93,Los Angeles,Mobile,906,No
+04:32.1,96556edf-0d39-43a0-85bc-342ff1c076e5,e6dce557-e868-4178-8f77-988d7b46fa0e,86d57ed0-8749-4759-9576-f05c6b3fa37e,Groceries,836.96,Credit Card,Completed,19.9.56.235,New York,Desktop,3143,Yes
+36:14.5,3a9e1a59-b154-4ac5-aa76-4edf389ef9ef,fbf95abc-c608-4bca-965e-3382fae5b845,a6ab3013-687c-4d1a-b8e4-e4f48b1c25f1,Furniture,899.56,Debit Card,Failed,105.74.199.118,Phoenix,Tablet,2116,Yes
+16:35.6,7c21a14a-3909-4626-99b2-8411be336d18,5cea99ea-8223-4daa-8b49-59e8f7ae2979,9be841f1-9a5d-4ccd-b4c6-b0b2a80ef33a,Electronics,99,Debit Card,Failed,45.252.84.230,New York,Tablet,1919,Yes
+40:08.3,a06a93f9-0170-4ea0-ad4d-d085ab5c1bcd,6c7ec724-b289-4ccc-aa5e-b3562c6c8dbc,2c4b9310-a5ba-4a10-b47a-234c2641f655,Electronics,220.67,Debit Card,Failed,19.86.34.214,Chicago,Desktop,2128,No
+38:20.4,de504794-5c2b-48d9-b52c-f803d7ee646b,b166b86b-c084-4b28-b4d7-844934d5778a,5e554581-fcb0-4f81-953e-2d19b09f9338,Furniture,723.37,Credit Card,Completed,67.245.99.203,Chicago,Mobile,2982,No
+18:48.7,98d057c5-a03e-47b4-a434-a971f5536091,6a9a9f34-8789-4e6e-8d5f-b5c4e378e647,3a8df9b5-1d86-4094-bbf5-f07094604921,Toys,499.63,Credit Card,Completed,156.133.233.32,New York,Desktop,3226,No
+06:00.7,f4eed63b-701f-4c3b-b9f5-9bef981208c4,064f1db8-1da8-4917-af1d-006b5a47236d,6c1df572-e045-4676-9e9b-caf30b25d92d,Groceries,233.32,Credit Card,Pending,47.83.169.4,Chicago,Desktop,2291,Yes
+42:34.8,5300a761-ebd3-4115-9e38-3cc7ae0f2aa6,15a4898b-6c53-48b8-b878-521c35fec4e2,e63f4df2-513c-4947-9303-45e47bf11bc3,Toys,205.09,PayPal,Completed,161.90.143.89,New York,Tablet,1976,Yes
+52:39.1,602e9a24-b569-49b5-b9b2-b067f47016f8,47accf90-8031-4e1b-8afd-c5cb408e5662,4924af67-841b-4300-8120-61871f08345e,Toys,751.18,PayPal,Completed,66.182.200.23,Houston,Tablet,1354,Yes
+42:03.4,71eacd84-46f5-43ab-80c1-317ee78892b1,3e172825-fd33-417b-b28d-6961819ecdba,63a210fa-ea8e-43f7-ae14-ac94b95c00b0,Apparel,422.83,Credit Card,Failed,55.166.5.197,Los Angeles,Mobile,2463,No
+34:23.7,22552953-fa09-4c5e-88bc-6935af2fe49b,ca704fec-38e0-4c2b-9ff8-30fdc5748517,25dda6d9-3623-4d04-9ad6-05c54e2568ff,Apparel,852.23,Credit Card,Pending,216.197.43.66,Houston,Desktop,1880,Yes
+44:15.5,3efa4ade-6aeb-424b-a631-7815983ccafd,24edcbfc-4769-49c3-9c7e-411eb8953fe1,aca15fc5-71d6-4199-8449-38b5f84f2d80,Electronics,370.31,Bank Transfer,Completed,82.86.88.177,Houston,Desktop,2238,No
+41:50.6,30406917-7607-4790-bf2c-a49cd18b12b8,ff0ddd3e-d1bb-4fdd-84df-476527fe16cd,ce81cd72-21f0-44ab-a0f7-ce6866ed80a4,Furniture,290.09,Bank Transfer,Completed,25.229.230.55,New York,Tablet,2853,Yes
+46:03.0,4100960f-2bf1-487c-a9e2-43c4108382fb,2d91c677-7692-4f4a-81fb-628eafbc1156,3c4680f9-3390-4e39-82dd-5f3901cbd04b,Toys,534.68,Bank Transfer,Completed,7.106.81.36,Chicago,Desktop,1984,Yes
+23:58.8,4a272e0c-aaa3-451b-b522-1680f54a670e,51e9ea1f-26f3-4601-bd29-8c4ec3bda944,5463898a-a1f8-4949-a9c2-1491827f2733,Apparel,399.44,Debit Card,Completed,165.208.218.228,Phoenix,Tablet,2309,No
+06:55.9,666d614d-4595-4934-bbba-52d5260d55a8,f0ec28a9-a51f-4604-b29d-a3a7f50b03d1,257504d2-bc80-4c27-b270-823d14ea3c17,Apparel,23.62,PayPal,Pending,193.183.3.69,Los Angeles,Desktop,684,Yes
+32:42.2,9dc66159-f25e-4b90-9290-462fb588c335,c5e151b5-54a3-4e3b-8936-e3acfd72eec8,197741d9-078d-4284-acbf-ce47178891cc,Apparel,288.49,PayPal,Completed,119.183.223.28,New York,Desktop,1373,Yes
+16:30.2,a188a533-012a-478a-acd8-9957cda6a5f2,d063134f-71b3-4595-a4af-dcfb4917d096,8901a0a2-ec58-4af6-8b55-3245c9ba06bf,Electronics,520.55,Debit Card,Completed,23.92.0.18,Phoenix,Tablet,2289,Yes
+01:10.0,47a52104-fdf6-4ee6-93d8-4efc5b36c29d,f5647f52-08e4-4f98-bcce-6552d237009f,42f10240-5e1f-47dc-beee-83f51a1dee38,Electronics,837.05,Credit Card,Pending,211.174.64.221,Los Angeles,Mobile,1475,No
+18:03.2,dc48893b-2539-4632-8072-590f6a79f9b9,ed305e25-62b4-45f9-a865-f23378870cfb,6a471cf2-9c1f-4775-95ee-927adc5dc40b,Apparel,223.2,Debit Card,Completed,136.136.39.134,New York,Tablet,2590,Yes
+07:42.9,707a6f3a-d81c-4402-97c2-67c643711379,56255219-dc59-4f27-a64e-c30d290d37d7,a44e0ea3-9d46-4443-a6a8-79b3315e6ee8,Furniture,523.33,Debit Card,Failed,118.153.35.192,Phoenix,Desktop,429,Yes
+17:53.3,7b8a41ec-615e-4550-b191-47633fb540f2,cd2affd5-97e9-4b37-a2c8-5fc2d7bc2a3d,bb8a267f-da88-4e6b-8696-0c83770c19fe,Groceries,861.46,Debit Card,Completed,91.145.106.76,New York,Desktop,3432,Yes
+12:09.3,a4c41b99-024b-4c04-969c-5308efb49c31,e4820df7-6cf6-44e5-a956-fc26ae0f6070,96b8abae-507f-4b07-9525-2005f2a6813e,Electronics,980.76,Debit Card,Failed,112.111.142.241,Los Angeles,Mobile,1569,Yes
+14:17.9,cd0f4ff4-e0ea-4c78-bc06-cc611335a5c9,dee844bd-1297-4f12-8d87-b33846a577c4,a5f111d2-01c5-4522-8300-c2a895a4f2de,Toys,547.05,Credit Card,Pending,219.69.37.103,Phoenix,Tablet,3348,Yes
+33:09.1,93e8a895-ca10-405c-be69-3db6cbffce25,56dca662-5a0e-40b8-a40e-98876cb7048f,316d9ae5-ec8d-4e43-bac9-6e0265d18409,Furniture,158.31,Debit Card,Pending,116.78.155.90,New York,Tablet,2385,Yes
+46:21.7,0aef11db-9361-4263-b48e-9c5b418f1188,66d216cb-b6ec-4f85-affd-69e28cdb6048,6e69b21c-6a4b-4e58-8408-fa3d447d6682,Furniture,846.82,Credit Card,Pending,202.35.234.109,New York,Mobile,3432,Yes
+52:34.8,1c674fc4-c748-4723-ac5a-35b9e5339e72,b81573dc-9122-4028-898e-9a9573a0074b,e7d085d2-f824-4874-bc57-62fd6b2aeffb,Apparel,960,Credit Card,Failed,58.174.92.0,Los Angeles,Desktop,2995,No
+21:09.8,1009fdd4-598f-4426-b14c-2cc1a2daf2af,41949d0a-e012-4f98-a9a7-b08264d3a360,ac14f56e-bb06-4b8e-887b-642a19139614,Electronics,469.76,PayPal,Failed,45.210.182.30,Phoenix,Desktop,3207,No
+18:32.5,ea1813f8-b946-4813-8154-0d4cb0fcb673,ec93c9b7-4a72-4be5-b197-89dc8fe71af5,9bd4a063-b018-4e8f-8317-ee96d7cdc153,Groceries,203,PayPal,Failed,5.114.158.15,New York,Mobile,1186,No
+28:15.3,37661ebe-80bf-4fc9-9f76-ce219a5cf050,070a86c5-f1ee-4c8e-8f34-f97110ecdeec,8b399d83-589f-4f4f-b8de-1b46c59436a3,Groceries,269.35,Credit Card,Failed,126.213.117.205,Houston,Desktop,2178,No
+43:41.2,00588fbf-88bb-4256-8867-f750a708c717,72686887-d9fc-4ec9-8eab-975f8a8e6ab4,a3f19fad-7845-4bbd-93b3-cf478a64cb3e,Groceries,272.43,Debit Card,Pending,16.234.78.203,Phoenix,Mobile,1778,No
+07:49.0,557c950b-df02-4c1b-aced-4043a1e85605,28bfbc71-be17-4ee2-9518-55a1267513cc,076e0d15-a933-41c1-b625-082ccfcfba3e,Electronics,145.86,PayPal,Failed,138.169.50.63,Houston,Tablet,422,Yes
+21:12.2,39474e04-852a-4ae9-aac7-dd6cd21bbe08,af1374f7-95ce-4dbd-a27b-33b483d94b36,14833d93-b12f-446e-ab4a-665ddf22b2ea,Toys,475.96,PayPal,Pending,85.74.197.189,Phoenix,Tablet,1206,Yes
+27:02.6,ab7ce17a-c4a5-441d-9398-f8907ba69a65,c864bd16-e1f9-4ee9-8ec7-408b281a3fdc,2e63774c-216f-46c6-8f8a-040462afdda5,Electronics,454.55,Bank Transfer,Failed,128.151.225.37,Los Angeles,Mobile,1156,Yes
+12:28.8,5aa71b44-4c77-43e4-ab9b-cae551b09638,7337ad5c-1b0d-4764-8f89-c4e57e5d0aad,f57c0a33-daad-4fbf-ae4d-ff2059891840,Toys,688.49,PayPal,Pending,115.240.177.187,New York,Desktop,1721,No
+56:30.4,06b999dc-3910-4339-b5b5-b13681e985d1,f5f6d262-c125-404a-b291-114e3c42c7f2,6638fc49-5063-4d7a-a9c5-d4f1bd6f981d,Furniture,152.6,Credit Card,Completed,151.81.187.7,New York,Tablet,2122,No
+32:30.7,02f34fb1-7311-410d-b542-4937f85ce6b5,576c6122-f235-45f9-840d-14c461e4ee78,3cb2fa52-6056-483c-ba16-172632498021,Electronics,857.83,Debit Card,Pending,167.230.232.204,Phoenix,Desktop,3137,No
+23:21.2,58e08abd-b0d9-4f9e-8f8d-3dafef796f54,1e2f76a4-e4a3-41e7-bc22-0243efc51560,352333f7-90c5-4213-8f20-631faad49777,Electronics,388.67,Debit Card,Pending,99.88.79.157,Phoenix,Tablet,1601,Yes
+12:12.7,9c83bd20-9da9-49e5-af6a-7f4ad638f278,2c0ce392-06f4-45b6-b968-d5ac0376c9a4,ce42ca34-6e42-4ad8-b6b5-969107c0a464,Electronics,706.87,PayPal,Completed,33.89.103.140,Houston,Tablet,486,No
+33:46.6,0ea8a2bb-2dd7-4398-90fd-1ae6073fd92a,adb80c15-f056-4325-95d9-47c396c74b24,39ee7b27-ca0d-4364-a010-33a1995721d7,Toys,161.67,Debit Card,Pending,201.195.74.148,Los Angeles,Desktop,2850,Yes
+52:01.9,3e75d27f-6abb-48b8-b41f-ca88be1f4be0,74f29e6c-ed4f-467f-9948-f6c732c61fb4,97226ca7-8479-4fec-bad5-124b85cc922f,Toys,285.81,PayPal,Completed,57.53.128.1,Phoenix,Desktop,2662,Yes
+57:58.0,ecc47e68-858b-41b1-ae24-23690c39d3f2,713de298-05b1-4b6e-977f-e0b8fe9e2880,5cba20ff-0a88-44d6-a054-d327c16cfb1c,Apparel,825.45,Debit Card,Completed,48.234.246.142,Los Angeles,Tablet,3066,No
+05:57.7,9004ed8a-7e0f-4863-aa61-bcd673aad0e6,ebe2009b-0c93-49fe-ae10-31caf2689eb5,86416d5e-99b8-4b46-86fe-9e5534edaecb,Apparel,204.67,Credit Card,Completed,46.122.33.12,New York,Mobile,1225,Yes
+51:33.4,aaff8e7a-604a-4de1-abb4-6bacc8721afd,1c9d8648-622b-48ca-aff7-c19ac847912e,702059c3-bbc4-4e17-b974-ddf71a491e75,Apparel,518.7,Bank Transfer,Pending,88.74.56.223,Chicago,Desktop,2508,Yes
+04:05.7,64e14480-a70a-462f-bcfc-aa5388f99ab4,051dd3e8-903d-4c39-bde8-9ea06271e815,edefd97e-46f3-4162-9748-5988215ae304,Toys,788.1,Debit Card,Completed,34.173.23.253,Houston,Tablet,1532,Yes
+21:34.0,71e8bffe-527f-4b13-8862-91d3f1fd248c,48b5b35e-3e11-4848-afb0-c9db697d6685,6d00fac5-eb55-421c-8e20-e06df71d4d19,Groceries,822.24,Debit Card,Completed,201.38.100.181,Houston,Tablet,1310,No
+33:01.7,fbe6d9db-e566-4e42-b0f9-4f7ba0374a66,9ba9f079-1105-4844-a82b-746016fef304,5609ca59-9903-4c6c-9c5b-d9c505301f0a,Toys,819.1,PayPal,Failed,34.178.162.122,New York,Desktop,872,Yes
+16:17.6,a152a154-bd9b-41c6-ac08-6a7be2649686,592fb91e-40a0-41df-bccb-41c0484b840a,c4331688-636d-4f8e-8d97-51aa63c5d1a2,Toys,845.17,Credit Card,Failed,106.5.21.149,Los Angeles,Tablet,983,No
+41:47.6,6c9022f6-7b63-4c3a-8983-59a2453de4e7,11eb1546-831f-4755-89f5-b5aab0ebfe19,87b899ef-f99f-4a21-aa73-80afa2692ad3,Electronics,519.62,Bank Transfer,Pending,119.32.81.110,New York,Mobile,1213,Yes
+14:20.6,eacbb04d-7299-4655-94f8-0d8ba37c8103,e7d78875-14b5-4e9d-ba9d-1204856c9cc0,476cfcfd-eb29-48d7-9b5b-8fa7fc54f65e,Groceries,864.1,Debit Card,Completed,117.24.194.122,Chicago,Tablet,2019,Yes
+00:11.0,0435a11f-bf75-4075-bb1f-3db26621a1f7,0c7bb364-942c-4e92-a7ac-930291091d71,0d4a2b59-df08-4b63-ac22-30a62f2a0efe,Electronics,260.5,Bank Transfer,Failed,44.56.217.239,Phoenix,Tablet,91,Yes
+42:51.6,733ddf33-4906-4044-811d-c4a60b4f9b07,294cf7c6-a3fb-43dd-bee1-889a4276b988,340cfd9c-226c-40a6-9d33-d907014859b5,Electronics,848.61,PayPal,Pending,184.143.52.0,Phoenix,Tablet,988,Yes
+25:58.2,141b683f-159c-4802-aada-75d8d7ebbf69,ca1e83f2-317b-40b0-881c-b7f01ce765ac,2eb74f1f-d99b-4332-9380-0505d45ae50f,Electronics,720.38,Bank Transfer,Failed,90.230.129.45,Phoenix,Desktop,2530,No
+33:25.4,b9f630cf-3543-40b4-826a-8d609a5190c2,550ee25e-b90d-4bc9-a0ba-565784d828a3,f311d15e-6f70-4cb5-89c9-3893623e0876,Apparel,663.69,Debit Card,Failed,71.132.76.35,Phoenix,Mobile,2673,No
+27:53.7,add9bb97-ea1b-4fd6-870d-c2a650235abc,25f7bce3-c981-4938-986f-96a1a4bc0204,c7d901dc-3215-4afe-8e22-87611b97e078,Apparel,945.39,Debit Card,Completed,81.120.66.6,Chicago,Tablet,1590,Yes
+51:28.5,60a7375b-05fa-4483-a830-1f3a6a35b6c8,a0dde035-6800-49be-b8a7-d331c9b8b7cd,c5d4258a-e352-428d-a937-412f88e8e0a0,Furniture,599.2,Credit Card,Failed,170.139.123.48,Houston,Desktop,3251,Yes
+43:43.6,4ff96bf0-8c65-4850-bafb-6ccfc62c2186,5b32142d-6aae-40e6-b5b2-b504a775691a,0e6cfcbe-8bcd-4f33-a5b3-39ff6a946e20,Toys,638,PayPal,Failed,95.164.194.135,New York,Tablet,1350,Yes
+04:23.8,33f3d124-61a5-400e-bec4-ce1d31dc6e5c,bdc52e27-49b3-40c4-b9ed-6b96a34811bc,987218f4-95a0-4709-b553-a545725c78e9,Furniture,267.6,PayPal,Pending,103.71.243.93,New York,Tablet,3332,Yes
+15:05.4,828eece2-8d93-453a-878f-f3222e7b6e0b,7258af83-9d88-487d-bf9b-66467ff7ba6b,ffd9664c-48a3-4aa9-ac26-3ab239e4c4f6,Toys,393.07,PayPal,Failed,186.188.144.102,Chicago,Mobile,2860,No
+27:51.1,078e0f45-6cfc-4a16-8f3b-ec7e8350d4a9,8126d6e4-196b-488f-b620-d98fffd3250e,2fbc6e91-bbe3-4a95-bb0d-e03d629fa8c1,Electronics,265.32,Credit Card,Completed,156.188.205.118,New York,Mobile,3113,Yes
+24:43.8,f8b96962-fd1f-46b6-a520-080c45c6234b,1ff7a08e-d1b7-42c7-bc5a-82323f59738e,57ff8722-e6f8-4bb3-be09-503818e8de7c,Electronics,808.51,PayPal,Completed,78.49.61.52,New York,Mobile,398,Yes
+51:12.6,2baae5f2-d1b3-4aec-b8bf-b31697a1d5be,1d0a4750-7382-48bd-a47e-493456dc789a,62914f56-0c8d-4831-9920-d91e7dbc2a7e,Electronics,289.02,Bank Transfer,Completed,222.211.243.173,Phoenix,Mobile,1288,No
+27:56.5,387028e8-3d09-4a2f-b9c1-eff2e7e56f54,5ffd0e4d-cf93-4d64-aab8-5bfe1ad5ea40,df4c5445-bd30-4f88-9079-55d0bab4a0dc,Furniture,509.1,Credit Card,Pending,16.126.148.212,Phoenix,Desktop,1473,Yes
+38:09.4,ef2063b0-3f94-4d37-ac89-ec3b41cabaac,f3bb4205-a516-4ab0-b468-b6e4d8fd2b07,a8a936c9-e077-4d01-8cbc-e4032256ac82,Furniture,970.75,Bank Transfer,Failed,76.217.97.123,Los Angeles,Desktop,1625,No
+35:36.3,a2749b3e-e1b0-4449-8a91-40c1a22e540f,2b92ae74-9ed1-4669-ae5c-65f5641c5cd2,bf13e496-9370-4cab-87e3-705dd9591331,Toys,766.36,Bank Transfer,Failed,204.89.189.59,Houston,Tablet,3388,No
+25:41.8,b85ff4ab-0dbb-495d-89c6-aa34b57fa139,17057e99-c011-4d35-bddc-3e79080a1b6b,7b8974d0-0d3c-4410-afec-58e6050167e8,Apparel,320.7,Bank Transfer,Failed,161.48.179.60,Los Angeles,Mobile,1521,Yes
+57:19.0,7b12e68b-bc9b-4e10-9335-104271613c74,d46a8e02-5798-43c8-a251-ae80c924de8c,f825aedc-2067-40f2-a5cf-fabde44e636f,Toys,409.29,Debit Card,Pending,82.152.132.181,Chicago,Tablet,818,No
+18:35.0,0a5e532e-74a7-4e64-a7c3-793c8adf0e68,ad3ad7ea-5f8c-47fa-a066-11a45e177537,ead19e0d-2aff-4c02-a3cd-b7602f0aa64c,Groceries,946.59,Credit Card,Completed,187.26.144.2,Los Angeles,Desktop,2591,Yes
+46:07.5,3be5a9e7-fbef-4eef-afd5-1689996d3953,30c18a80-f564-4449-9c43-a8bb9eed6619,bc8acd78-79c1-4b0b-b3d1-0fade1543360,Groceries,627.15,Debit Card,Completed,59.215.238.27,Houston,Tablet,2572,No
+36:42.3,d8655f00-451c-44bd-bd46-b420a688f601,e13fc71a-e638-4597-89c7-f10ba42a3ea6,f5fe22a6-0ea8-4839-86ac-52cec831cb17,Toys,578.59,Credit Card,Completed,192.65.50.77,New York,Desktop,389,Yes
+07:26.8,4cba81bf-7913-4cea-980b-4c6bbdc34487,b6bb4c7c-92d8-4425-84ac-644239cae02b,3649608c-18e2-4776-9b4e-58ab5fb47881,Furniture,651.74,Debit Card,Pending,208.49.68.220,Chicago,Tablet,828,No
+32:48.5,1d3d6f53-fb8d-4949-934d-3ca5de4778a7,e048b8a0-be0c-422a-940f-8c3055fb47c7,bd61df41-37e6-47ed-9745-75125538776f,Furniture,173.44,Bank Transfer,Failed,1.38.117.148,Chicago,Tablet,1175,No
+06:35.6,3cad46c7-f3cd-447f-906e-4c1106ab14b9,e9c60385-24f9-452c-a899-5d1f7bf56070,247b4783-8dd5-490b-af95-9fa1d25c0d9a,Furniture,655.24,Bank Transfer,Failed,63.254.136.149,Phoenix,Desktop,279,Yes
+31:48.6,fb9c5f2b-e4b4-4bc6-9869-b1f0782fa7c2,9ef9d3d4-c275-42c1-8dbe-e4ae7a2b5841,ddc2de80-7b87-408d-a4bd-5c03c9262751,Furniture,925.76,Credit Card,Failed,30.120.34.207,New York,Mobile,1210,Yes
+31:23.7,f1d89430-0f07-4687-8241-125d897a7768,0232e699-b405-4ffa-99e7-5fb80d173d2a,aea76f6c-ea76-42ad-8632-366a54892030,Furniture,958.03,Debit Card,Completed,71.5.87.209,Phoenix,Desktop,1462,Yes
+43:35.6,ed857f61-82dc-4a9e-8dad-923bde5e6221,c0b9da34-2cdf-4f5d-a3cb-2536581b780b,7a6fb354-643c-4be8-acbf-f73d2f7e6c45,Electronics,54.44,Credit Card,Failed,207.243.176.33,Phoenix,Desktop,2147,Yes
+58:53.4,b63f8d9e-d22b-489d-a4f4-7a8e36699ff4,767730f4-3891-4af8-b4e0-4652045e5958,0465b07c-7ee3-4037-a9c0-ae4bc639fafa,Furniture,50.51,PayPal,Failed,63.112.180.235,New York,Desktop,3290,No
+20:11.5,e1d2842c-bf88-44d7-a732-300324d916a6,dcb99621-9679-44b0-8185-18b2e4895fc1,d854036f-af6f-4935-83fb-7f035542fbbb,Furniture,114.85,PayPal,Completed,20.242.5.117,Los Angeles,Mobile,1411,No
+37:13.6,6951219d-250c-4bea-b8d2-0ec2b6938498,2d59baed-69d8-4f9d-99ec-34418dabf2a9,a0b0e050-cd39-4c52-91ee-426a80ddb662,Apparel,917.84,Debit Card,Failed,40.244.19.181,Houston,Mobile,207,No
+02:05.1,4264408d-fb06-4136-a90a-ea8465fd6679,f68304df-a40c-403e-9330-8919403f23fb,9c7cf1bc-7584-4f40-b618-70b002c34f0d,Furniture,598.56,PayPal,Failed,210.61.127.231,Chicago,Tablet,1991,No
+32:19.7,276cc513-29c9-494e-9763-b57e0387b2f6,e5217afc-2906-489f-ba05-2900500b7ce5,f7d9de80-5779-4c98-abb8-bdb795a0e8f6,Groceries,867.02,PayPal,Failed,183.105.44.253,Los Angeles,Tablet,3003,Yes
+31:32.3,13a92c28-7d5e-4dc5-834f-8ced835444f1,b25254b1-951d-442d-877d-8904e8537d88,6d3c16a6-396e-43c2-9a5b-0c3c44d10bf0,Toys,517.44,PayPal,Completed,91.69.209.190,Chicago,Tablet,184,Yes
+09:30.5,9c92f52d-91cd-4ac9-95c1-0d22cc033679,06ea1657-83f6-428b-8b32-3695cb7eebd7,69e31918-9a30-4943-ae02-1674aad588aa,Electronics,27.08,Credit Card,Pending,114.127.136.160,Houston,Desktop,533,No
+07:47.6,15076663-dd77-49e0-88ba-d7f05562da44,65e1e70a-4a3c-4ef3-8683-2fff7f6bc4af,d096d8bb-e3ec-4253-8fbc-f1ccaba49452,Electronics,893.45,Credit Card,Failed,82.143.165.191,New York,Mobile,3559,No
+46:05.2,9efd7a8d-2056-41a0-b280-6cb8f9d87669,a35a4f81-de01-4a32-abd6-7af616fa4037,9d49622e-0369-4841-a25d-27d68395dfa9,Groceries,655.28,Bank Transfer,Pending,53.172.222.181,Chicago,Tablet,1144,No
+12:54.0,5da70cc7-cd10-4440-b0b4-f4ac73e7c654,e2babea9-e86a-47a4-a7fb-0d2bbb76614a,1ae9df92-14af-4c9c-8f91-11ce2f48b449,Furniture,793.67,Bank Transfer,Pending,18.83.208.220,New York,Tablet,1579,Yes
+59:19.0,747edfc7-cf94-4deb-aa70-11d85b12fb1f,7bb15a63-11dc-40ed-aaa9-467749bce214,e529da5a-750a-4045-a06b-0343b3f90487,Toys,259.27,Credit Card,Completed,65.104.143.34,New York,Mobile,2614,No
+01:17.2,ee16e866-99f8-45a8-955f-cfbbb5a04617,45b2a3a2-02ee-48cf-934a-8c1f3bee0100,109ff5e7-f7db-4607-8dac-a0b97a564ec2,Furniture,350.61,PayPal,Completed,124.115.57.112,Chicago,Mobile,668,No
+09:34.1,ba4bf8df-926c-4546-8263-04f8f7ed7c71,5a3ed218-f592-4214-bc30-0ab6abc679b7,f65fcde3-898a-4adf-abe3-8aa5c8f5ec68,Toys,52.42,Debit Card,Failed,16.175.76.246,Houston,Mobile,1190,No
+56:17.7,1ff6c558-24ba-470d-a7aa-9c57cc4f1e32,ecb6dbc4-9a23-4345-b096-550f02651d0a,f1446a56-10bc-423c-9ece-0792674cf31e,Furniture,343.56,PayPal,Completed,60.98.32.26,New York,Mobile,2294,Yes
+25:54.5,2db68c35-f205-4177-afde-23a9c94e72a1,627ede15-5659-4504-b122-c771b779de6b,8b5be432-5792-4286-8ad7-daaf52f3dd70,Groceries,397.31,PayPal,Completed,102.79.172.36,Houston,Tablet,127,No
+51:07.2,48e08006-4a2a-4579-ba25-779a4b74b1ed,0b08adda-7ad3-46e6-a67f-509f50e7b046,b50fcb24-1b33-44e2-8b73-3a9cb312dfcd,Toys,105.51,PayPal,Completed,121.216.253.64,Chicago,Tablet,2841,No
+31:16.3,8486cbd7-6ce6-4109-becd-60d751fd93d9,7362311e-aa1b-4ea5-b62b-fc43f813c229,a493c9c6-7b85-4058-ae0c-e9d2009ec91c,Electronics,610.82,Credit Card,Failed,159.143.119.121,Los Angeles,Mobile,129,Yes
+11:32.9,ef36e4ec-9eca-4393-8096-8ef8b237526d,aff3c4a9-39e2-4785-a11e-65b42e089e03,3968b732-9707-46ef-9fec-550a9a560a7b,Groceries,298.89,Bank Transfer,Pending,97.99.234.103,Phoenix,Desktop,3203,No
+36:58.8,af68c1e7-cbf8-41df-8f45-cdf94846fc1f,7ced14aa-49f6-428c-a2f6-df59a633c566,f433a001-7fa0-41fd-94a9-e2329dfd49c2,Apparel,952.02,Bank Transfer,Failed,65.108.94.72,Houston,Desktop,881,Yes
+26:50.2,1d9da8cd-2fc2-4a33-975d-0b196b8d0008,44a677c2-dc1b-4c17-a377-5cc2f8143450,cb7b09bf-317f-4476-8bb6-878d8d71b9b9,Furniture,246.08,Debit Card,Failed,14.180.125.244,Houston,Desktop,1282,Yes
+48:49.8,edf84889-e585-4d43-9b46-35ca660169dc,cc912a34-2561-4ea5-9cda-3de0a79070b6,fcb03774-0fa9-4bab-ae07-db926f03c13b,Electronics,293.31,PayPal,Pending,192.104.143.99,Los Angeles,Mobile,990,No
+12:15.6,a2a18261-3db5-4ef7-b923-3cc72e8d55c1,a1934b03-5e07-49b1-8f6d-05111ac153a3,21c06916-82c1-4cf4-bde6-3e9a709e672d,Groceries,395.08,Debit Card,Completed,148.145.88.57,Houston,Tablet,244,No
+10:46.1,1468f082-e7a5-441d-93f6-46f05fec9d3b,a6b493d8-264b-4fbb-8260-5bb53f5be94e,7f64791d-3a30-4f5e-9141-e10cd8dd8aa6,Furniture,183.95,PayPal,Completed,31.207.88.101,New York,Desktop,2913,Yes
+52:16.1,d0a79d8d-ac9d-443b-bee9-a53359112671,49294da3-5f63-4804-877e-e1432b0af7ab,9f57bfea-fa83-4199-9981-c2ab546e6d4f,Apparel,604.86,PayPal,Pending,11.217.218.102,Los Angeles,Desktop,2765,No
+46:33.1,736f9bf9-6668-4661-b88b-9c84ec349a5c,71d17a1d-d349-40fa-aac8-af91dc2e70a6,3bc6e78c-d1a1-4b6a-be12-fcf51e41e190,Electronics,908.23,PayPal,Pending,81.223.171.123,Houston,Tablet,2532,Yes
+14:44.3,096b0b8b-e1d9-4578-8872-71aa690963c5,1f2c552b-3018-40f6-8e2a-6cc46cab271c,f91888cf-c3f8-486c-a747-b9038afc6fc8,Toys,803.06,Debit Card,Completed,139.129.233.241,Houston,Desktop,1859,Yes
+21:48.9,473d0350-e7db-49d9-93f9-40f3c386bad4,964f78d5-fda3-4c1e-bee4-667dc5e0e6d6,9a0749b7-1913-4537-a965-0e1b1071a1eb,Toys,910.45,PayPal,Completed,158.215.109.237,Houston,Tablet,114,Yes
+48:59.6,049c61f6-ffc7-4f76-8ec5-3f80c71a8b75,0b1e952d-8c34-4c02-a8e5-2ba43f7e8a13,7d220ea3-7c97-493b-8e92-65f0572f3c77,Toys,425.69,Credit Card,Pending,146.232.114.51,Chicago,Mobile,3214,Yes
+59:16.1,902a863e-2c65-43d7-8261-40fedf42bf2c,e2417a9c-819a-4b1b-903b-0c898770dc0b,c90230c9-8c17-4ea5-a979-44749d0b2f86,Electronics,19.11,Debit Card,Failed,203.48.241.214,Phoenix,Tablet,2746,Yes
+02:49.6,7e097000-07f8-43f5-9203-82d748cfee99,5da3ad13-4ccf-4135-86fa-8d7f63dcc144,68a2d9f6-5dd3-4232-ab2a-c9bb63396035,Groceries,725.31,Bank Transfer,Pending,43.34.199.158,Phoenix,Mobile,3483,No
+26:07.7,cfd50bdf-21bb-4de2-a696-831e911379e7,be1a5168-761e-4e61-b0ea-807eca9d267f,d5992457-d2d1-47cf-b2f2-3a0a3f477523,Apparel,607.29,Debit Card,Pending,213.176.31.63,New York,Desktop,2127,Yes
+18:05.3,80aa59d4-1ddf-4d5c-84aa-35d34e58b9a0,c61b35f2-39e8-429e-ab22-a99296b8db07,427f541f-7268-4584-ae88-a8e9acb770b3,Apparel,724.67,Credit Card,Failed,119.162.102.104,Houston,Desktop,2608,No
+49:32.2,3a43f301-654f-4a64-a563-6b8819aed58b,4d0c9e47-770e-41dc-9934-0bc8249911d0,d613ced8-3cb4-43a0-b874-d5550785a7aa,Furniture,715.23,Bank Transfer,Failed,131.128.57.110,Chicago,Mobile,1500,Yes
+05:15.5,c8009c46-6d7a-4403-bb01-de4d661e2757,c0ff01d0-5907-4c5a-84be-dbc345b07640,e647839b-73eb-4646-927f-0ae3d6816ade,Electronics,200.04,Debit Card,Pending,125.99.26.170,Chicago,Desktop,1217,No
+32:27.3,b8c2b890-792b-42cc-8bae-ff8a7494ae38,63ba0b93-ee0a-4435-8423-f739813cca9e,0b389a24-f4d0-4b27-a0de-efdce2e74705,Apparel,868.88,Debit Card,Failed,20.60.179.250,Chicago,Mobile,2508,No
+38:35.0,d894ca2f-d40c-4b28-ae56-f1cd08f66884,66db6313-c000-4d8c-8a4e-134061361605,6d781d85-c370-4940-85a6-42531c2012e6,Toys,510.85,Credit Card,Failed,175.1.68.5,Los Angeles,Desktop,1696,Yes
+43:51.9,30757d73-6ca0-4046-b333-d3b50e219167,77763d73-1003-4168-8de1-2ab5c81d916f,d7fd5d88-2234-42cb-a20a-a54fadf6ffb7,Electronics,545.04,Bank Transfer,Failed,135.49.55.238,Los Angeles,Tablet,3467,No
+02:31.8,449395f3-af32-4051-917a-d57342f4334e,2b92e7b5-a8e3-4258-9eeb-77bf9b174032,82718fd6-22fc-40a7-a08c-2e00ec3bfb0a,Electronics,672.37,Bank Transfer,Failed,22.254.25.244,Phoenix,Tablet,771,No
+12:43.5,d450c657-cb4d-4f31-8cd6-4bbc29dcf4e0,3ea0cae2-fc54-4f41-8add-567813075ec2,a3b651f8-6cea-4a9b-b0b7-78293f8db431,Apparel,138.34,PayPal,Failed,46.124.108.172,Chicago,Desktop,968,No
+32:20.8,490a7139-83b0-4cb0-b1db-2bf59784f55a,7d99bed8-2379-46de-a8a6-6c9ddcb1a681,73f347e9-1e0d-485d-81e5-238d89760813,Apparel,832.86,Credit Card,Pending,79.228.95.194,Los Angeles,Desktop,1098,Yes
+15:38.1,2a0c3ce5-48c7-41ca-9a12-32ade7ba2dad,d5074b87-81e7-4ca2-8a12-81614d06ecf1,a8548a68-e9bc-4aa6-8414-b27c95cbfd50,Toys,955.29,PayPal,Completed,20.35.19.103,New York,Tablet,324,Yes
+41:43.8,3c00263c-c59a-41a7-b51a-31b1f6e80328,e16fa5c9-24b1-4e51-89df-47dbcd2439e6,0ce705fd-8040-41b8-b856-434dd112976b,Electronics,226.3,PayPal,Completed,61.133.39.111,Los Angeles,Desktop,3505,No
+13:20.9,e0a4d979-2d00-4d1b-bee5-11a12056b81f,334fa49c-d9d0-4a3f-b6c0-541532331547,95b08634-1318-4dc4-91a5-c7bd6123f7f4,Furniture,303.53,Debit Card,Failed,215.15.224.102,Los Angeles,Desktop,1501,No
+02:29.2,07b30a35-93ad-415c-8633-bb8b5f4bb886,70d79895-4862-4fd7-86a8-012c3ccc14ff,59015d17-51b9-45aa-b1c2-7ee2043e6160,Apparel,577.17,Credit Card,Failed,63.142.152.214,Los Angeles,Desktop,2765,Yes
+04:38.3,95dbdc98-def9-46f8-9ec8-0209ad1e68e8,1d220a69-a6a4-411a-b6e2-ac5328c27045,af11e389-1fb4-4bfd-9973-05a7b37066c7,Furniture,691.56,Debit Card,Completed,211.90.176.108,Houston,Tablet,2823,No
+57:00.0,23e2584f-bb04-4dee-80c1-da4200265dff,13844768-b975-4d2e-91d3-98ae7dbb812e,427a2d38-3f7d-46ae-97a7-aa7a4fd8e659,Electronics,502.1,Debit Card,Pending,138.63.24.2,New York,Desktop,2306,No
+04:50.5,99b2d857-6978-47fb-bfbe-3eb2e6778951,44211bf9-0c2c-4840-b6bc-4c871c56d34e,87de82d5-d851-4225-bd52-6d4a5a407119,Furniture,288.02,Debit Card,Failed,206.74.254.122,Los Angeles,Tablet,241,No
+59:33.2,3c1633bf-c480-4145-a113-34565d3ff828,021237b2-9a3c-4315-bd81-2e22000c43ce,6e155f0c-5114-4c71-9891-fa5d38f96c42,Toys,107.03,PayPal,Pending,73.97.16.112,Los Angeles,Desktop,2563,Yes
+06:24.4,8e539a20-7f26-463b-8a4f-823eb0bb6cc1,492d83a5-29c4-4d58-aa94-fc6cbc1cd607,527aaabb-f090-423f-a60d-31124f9e684a,Groceries,72.58,PayPal,Completed,27.41.48.236,Phoenix,Desktop,3593,No
+40:13.3,67a744ab-7b0c-4719-9240-27f3cee14bc6,8dd503b7-9dc1-453f-bb31-3a29fb33a583,0b937e58-2576-40f3-a0aa-32ddcc5e0848,Groceries,97.76,Credit Card,Failed,177.187.27.163,Phoenix,Mobile,2916,Yes
+30:13.1,1039036d-e570-40c0-a5c5-5fb98164566f,4201cd66-0664-418b-84e9-df683ae97155,2c61311f-f46c-4290-bc7b-ef0d114b41d0,Electronics,885.06,Bank Transfer,Completed,117.37.58.10,Phoenix,Tablet,2921,No
+40:32.5,38676f1c-5015-4757-b901-fd69da5df2c5,88b0d0bc-79ce-435c-805a-41d7c4f427b0,97f1bd54-537d-498b-b88b-582dfd92f5fc,Groceries,30.48,Debit Card,Failed,107.100.48.111,Chicago,Desktop,2019,No
+04:39.0,ab03ae44-ae72-4b52-bea0-99c6eeb427fd,9d0ddcfa-d2a0-4bb4-bd3a-23f8207b867e,64afd7c8-77f2-425e-9107-701a43890a81,Electronics,984.01,Debit Card,Failed,97.239.5.153,Houston,Mobile,2350,Yes
+11:11.4,441007d3-7603-4e51-9e0b-8a89a4827dd1,2e609063-f604-4c74-b274-d525caeebb30,365416cb-bdba-43d2-88a6-8738dc024a24,Apparel,347.64,Bank Transfer,Completed,13.47.45.4,Chicago,Desktop,741,Yes
+12:32.1,c8640ef9-1772-4824-932d-5ce38041e0d4,96cc3b7b-c354-4223-a4eb-0327e1f5eced,6c7a19f3-4304-469b-9aa4-9628558a2ea2,Apparel,647.41,PayPal,Completed,213.168.142.250,Houston,Desktop,430,Yes
+41:32.2,aac17e73-48bf-4a0c-9a2e-249567461cfe,5daf1d85-0420-49ad-998c-a35112708330,1e116f5d-c32b-4903-af24-6c741e38faf7,Electronics,183.66,Credit Card,Pending,26.55.145.228,Houston,Desktop,2473,No
+08:48.2,8d261fb7-e8f0-46ff-a7f8-c2745df35d95,e260fc4b-2047-469e-b0c6-af6d2603ea9b,a0481f14-2a9a-4403-b952-ea358cf095d5,Furniture,23.91,Debit Card,Failed,38.197.9.30,Chicago,Tablet,1043,No
+31:58.9,11189455-4847-4f4a-b809-ade5a1461825,e23380fa-0582-4b4f-9057-312588715300,e8104b30-8c5b-4fff-848f-dcd026110f82,Groceries,463.02,Credit Card,Completed,124.136.158.177,Chicago,Desktop,2955,Yes
+54:02.8,bd73aaac-098a-4edf-8643-2e800a3e3cee,c887344f-6d1b-4a7f-924b-acc77ce53eef,64974080-e840-45cd-b7ce-8410b236e060,Groceries,307.87,PayPal,Failed,190.60.15.208,New York,Mobile,1012,No
+30:01.7,4b3b55af-a3b6-47c2-9ba1-f78e4c64e4ed,0330b087-1893-4d1a-af14-637cd71e7e3d,0180859c-9b74-40ae-bafd-4dac6846cb21,Groceries,637.96,Credit Card,Pending,162.126.187.44,Phoenix,Mobile,2984,Yes
+23:42.6,e41d98a4-28ab-4910-8755-c176791b642e,f0981f16-9cb4-46d4-a28e-863657bcaceb,ed2d26b2-4dab-4ca1-81c8-c0ab6ec49e18,Electronics,130.68,Debit Card,Failed,23.62.224.161,Houston,Desktop,558,No
+28:01.2,dd525936-abad-41bc-bba0-1bd3d93ae66b,15687a23-dd7c-4680-aad9-647b3fd834e4,99db36d0-2a00-4963-9939-a739fc4a7139,Furniture,733.39,Debit Card,Failed,25.71.189.196,Los Angeles,Desktop,1105,No
+38:53.8,e090542c-b3f1-48de-8a15-9a2c20dd715d,87e8a6db-d376-4000-9c7e-d59e881de4f9,e13f1f14-3f0c-4e82-b40a-b69188e20eb1,Electronics,548.48,PayPal,Failed,60.129.87.185,Los Angeles,Mobile,1423,No
+58:21.8,0e47988c-5693-4ab5-9750-6a7d539f9650,0d52d243-75ea-4628-bcef-5548575a20a6,0709fe49-30f5-4bc5-9a0f-45184dc8fc7a,Electronics,582.83,Debit Card,Failed,52.50.98.105,Chicago,Tablet,1082,No
+01:04.7,72bbd475-2875-4a21-81e5-1b3ef0980b03,66673d32-dd80-4049-8d15-8fb7551e3f66,d0ca3c71-25fc-4c13-91b3-e17e03d8480a,Electronics,342.34,PayPal,Pending,170.0.32.203,Los Angeles,Tablet,3127,No
+51:40.0,ac81ee42-657a-42f2-a0d4-32744e0a18d8,02491f93-9d33-430d-a148-7d98c585be7f,66628591-e2a6-469e-8089-17b6b511fb4b,Toys,503.69,Bank Transfer,Failed,168.125.115.135,Los Angeles,Mobile,2093,Yes
+31:28.4,06cb6665-85b0-48d6-9ffc-517d7b8e0553,0219224e-3d98-4451-be31-28dd8f6927f1,4f32138a-431c-48e6-bb63-855b232a4a19,Electronics,386.44,Bank Transfer,Completed,162.15.103.39,Chicago,Tablet,387,No
+41:22.5,965cc2c5-1dce-4bc2-9fcf-11a8ba1c61a8,7168a2d3-e1ac-45c9-b0ab-4a0d3712a143,ff631a34-1aeb-4498-bd4d-76897bd8c243,Groceries,714.27,Bank Transfer,Failed,47.142.176.87,Phoenix,Tablet,2945,No
+12:12.0,0f342cc1-39f0-4ea6-92c0-440da7ea4014,dcd3f176-d9f3-4c20-b16e-cb301be54b4b,b719ebef-3e8e-46bd-a439-3da86383d6ba,Electronics,961.55,Bank Transfer,Failed,78.89.77.76,Chicago,Desktop,3390,Yes
+16:04.8,e3a13b49-5eda-417f-aae7-357dbf81059a,fd253e18-5844-46dc-bd19-d707efe0c367,0f97d909-1c76-4113-86d9-2a1672386f1e,Electronics,822.48,Bank Transfer,Completed,219.227.115.2,Los Angeles,Tablet,2326,Yes
+35:49.6,2bbc218f-2356-4c37-833b-3c3fff8588d3,0498f133-7470-4955-8a5f-067430717ca7,08ca082d-157a-40a6-97d9-4e2e38767a6c,Groceries,461.8,Debit Card,Completed,189.40.58.186,Los Angeles,Tablet,2431,Yes
+34:35.8,bf5824f5-2271-4646-a7e3-b9de90572690,0d78ed7c-0f99-405d-9055-ab602b058fd1,3aeac402-4745-480b-9b3a-8e4a1c3803af,Toys,685.65,Credit Card,Completed,207.60.226.69,Los Angeles,Desktop,1601,No
+10:44.4,ba52c73e-321c-4d4a-93fb-ada6ee2efadd,333dfc49-06ae-4a4e-99b3-d9282627ea61,aaacf183-f67b-4fb6-87a6-6cc99349ffdd,Electronics,285.55,Bank Transfer,Pending,6.10.103.88,Phoenix,Desktop,572,Yes
+59:27.9,d4ab6791-2fd2-41ef-b9b6-3a2f04bdb5bf,a553d349-a095-4451-acfa-63a50c549295,844b4197-b24e-431c-9a74-1f385a03d085,Groceries,55.33,Bank Transfer,Completed,153.196.245.158,Houston,Tablet,1154,No
+09:26.9,469e6622-a759-478b-bb7a-e275e6dd4107,519e647e-9d09-4bb6-8924-bc6a2cd4ea18,c98f1b35-543f-4b98-86f3-b029d0a43d37,Electronics,191.82,Credit Card,Failed,122.141.124.143,New York,Desktop,1003,No
+34:44.9,e5265b7c-9926-4932-8957-abed6e214064,3ad9b479-b95f-417d-b212-139cc07ad32c,7f6e95c1-2a02-411d-aeb0-6138a446cd82,Furniture,872.4,PayPal,Pending,128.114.151.108,New York,Mobile,3327,No
+20:32.5,17f5a251-9c28-4ea7-aff7-bb76a7176d8a,e98cbd06-7121-4755-9b03-1935fb52e344,46ef54ac-a21f-48c5-9b37-1c614fb668d4,Electronics,969.11,PayPal,Failed,21.48.100.225,Phoenix,Desktop,2067,Yes
+29:36.3,d6bb0add-39a6-4226-a1ac-544d08dc90aa,d970061a-f4b8-418d-b3f6-e17d04379c66,456f7286-f683-4a68-9767-69d994dfb0db,Toys,847.37,Debit Card,Completed,50.226.233.19,Phoenix,Tablet,1811,No
+32:55.5,b3421c16-7322-4e0a-8e23-633f9d5d0330,51173be1-25f3-4259-bdf4-78e3ad763742,94f115af-7e31-43b0-bb24-3c69868f3166,Electronics,899.96,Bank Transfer,Failed,184.50.247.213,Houston,Desktop,1991,No
+53:04.3,40dbfd19-8f85-4e97-bbc3-8d2ab1bfb626,a54288f1-3915-4087-8929-3755cf5f8202,6437b9ff-7bfd-4564-93b9-0e4ffc8db31f,Electronics,100.64,PayPal,Completed,72.213.210.248,Chicago,Mobile,1859,No
+28:02.1,c9a130a8-1fcf-42ff-8a60-0536bdd08f42,d6b0512a-15c8-4f8b-b41d-77908be5573e,3d21b1c4-6fe4-47f8-9629-12b6f3b75b46,Electronics,819.78,Bank Transfer,Completed,131.233.11.253,Chicago,Mobile,1403,No
+43:45.4,f9f5c94c-3e13-4ca8-bc6e-a205735efae2,6591599c-7add-4bca-ad9b-5501ad79474e,bdef4301-2630-46d3-b9d5-93a7ef7c0f83,Electronics,62.02,Debit Card,Failed,32.44.40.231,Chicago,Mobile,2701,No
+06:26.7,ab216cf7-f785-4838-988f-57e76a61b903,55a25b82-8cc5-42e2-9e5c-d1c436d1851c,07487d36-7e10-4d53-83eb-101d3666d3a0,Apparel,287.55,Bank Transfer,Failed,123.121.32.36,Chicago,Mobile,1700,No
+57:00.5,1ee3ebe7-6f57-4903-b1da-f7933a21a548,dcf67844-9e1c-4482-baa5-75b9b4825269,6d33b307-632f-433f-af40-50e52d718b85,Apparel,906.95,Credit Card,Failed,34.2.208.86,Phoenix,Mobile,3239,Yes
+14:19.6,576c83f6-ac60-44fe-882b-688edee51f23,3f945a63-ed51-4b49-a5b5-8c4766a564f2,d86a3b37-f2d6-461c-a283-722a7fffb1ae,Apparel,513.57,Credit Card,Completed,19.62.140.231,Houston,Tablet,1663,No
+30:33.4,f6945261-bb91-4a6e-bfd8-d3db4aa26c49,b23e238f-cce5-4779-a682-a583a422ff7d,5e607c41-fed0-4edf-9f8a-d7eff146225f,Electronics,283.03,Credit Card,Completed,37.94.103.246,Los Angeles,Desktop,1249,No
+34:38.7,fc892ff8-c333-4e5e-9ff5-9df2691083cf,13692fde-3eb6-4e3e-a2d2-f7c1d0e387e4,5cde6f61-edba-4622-9ee4-35beff6dec59,Electronics,202.36,Debit Card,Failed,49.3.186.72,Chicago,Mobile,931,No
+19:51.2,3b6109ea-06d7-4da3-942d-41643e577c18,9b7fa3c6-3cec-4c78-8664-a78b1272929f,e3935ed4-e743-4800-96c2-11a083d6dd5c,Furniture,338.16,Bank Transfer,Completed,176.132.61.227,New York,Desktop,1467,Yes
+25:58.9,253b39c9-d808-4692-886f-c1a968da63fc,8f00949f-d479-4c3e-95ac-0cef1d397017,c6bfbb3b-fa4f-41ad-ad0c-165150604537,Electronics,99.75,Bank Transfer,Completed,157.190.253.206,Houston,Mobile,889,No
+26:01.2,6b3449a2-d1cd-4008-b72a-d23e631c85fa,ac58ca3d-540c-49be-8955-e518bb7af3a9,8821b1af-5111-44b3-8106-a6535445cb84,Apparel,623.97,Debit Card,Completed,16.175.30.69,New York,Desktop,39,No
+13:57.9,0e2f8840-7dc9-4306-b0db-ddf954398833,d10aa4f9-291e-4314-817a-a6bcaa9dfc63,69ad8c12-3f04-43da-a626-0ab0da2092eb,Furniture,415.18,Debit Card,Completed,128.130.239.214,Phoenix,Mobile,2425,Yes
+25:12.4,9b3da448-7bcc-4b16-b790-d24aa6facf9c,b1f03b34-7455-49bb-91c8-ad3952ad11e2,b3a29bc0-a59d-4ff9-8b0f-99601466fc79,Toys,249.77,PayPal,Completed,49.205.28.82,New York,Desktop,3421,Yes
+59:57.6,a3baaf6c-aa5e-4386-8fe8-a50046d8ab20,90eb9afb-1572-4893-b6e8-3c04ea3c6ec3,b7d08287-20e2-4521-8666-d83a9f7015c2,Toys,869.36,Credit Card,Completed,180.147.175.15,Los Angeles,Mobile,1941,No
+43:12.2,69927d0f-fa8f-4264-ac1e-b371ef8d1f8e,ab6789ba-6832-42eb-ab6d-1c116c2639ac,ed874888-4dc7-4109-9313-a639441101b6,Toys,987.95,Debit Card,Completed,150.2.86.48,New York,Tablet,572,Yes
+57:18.0,35775172-4939-4023-b083-c17c73c58364,b33e1017-8ed0-4b6a-9672-1529b1214ae4,f7be1c22-44d4-48d7-a5cd-f1323ae133c0,Toys,109.73,PayPal,Completed,179.214.73.220,Los Angeles,Desktop,1711,Yes
+22:41.0,ae4aa85c-8799-4167-9e6c-d3031a580d5b,f67dba7f-8db9-4a6b-825f-3073bb82bf57,64959548-af2f-4381-a5ff-642f0a65393f,Apparel,151.64,PayPal,Failed,74.59.115.38,New York,Desktop,2562,Yes
+17:22.7,6ca5a530-26db-4831-8dcb-2db12b2adf87,e12fdf06-f8df-46db-9f21-d3177f9b561c,f33c6f69-00f8-4cbe-ad29-3800189c1d13,Furniture,95.41,Credit Card,Completed,91.115.208.203,Los Angeles,Tablet,2158,Yes
+17:21.3,2268c92c-9989-486b-bdfd-bff059ac0089,7842eca7-e9af-4fa0-ae7b-e125276ea39f,b70ed66a-2cee-4891-bef0-81f459240685,Electronics,599.36,Credit Card,Pending,173.171.29.139,Chicago,Tablet,1071,No
+42:49.3,0ce5e67e-072a-4eba-be6d-aa9ef429ece1,9a6599f8-1ad6-4a8b-8a59-a648b2aae0e8,98b1c3ff-5c77-480b-a9c8-73dab4432435,Toys,411.92,PayPal,Pending,81.40.219.2,Los Angeles,Tablet,1810,Yes
+26:27.2,0d1ce677-0f84-445b-a325-53e411ca3d7c,026598e2-3759-4709-be5d-1346d7681c96,9ef14318-f9b0-4eb3-803a-92a0ac3e691f,Apparel,111.66,Bank Transfer,Failed,77.241.180.74,Chicago,Mobile,1631,Yes
+04:38.3,5c90a2c0-438e-4d35-b922-ed92a165437f,892eff3e-d2ab-4e55-a847-0f77eeea3c52,60c4afae-9949-47c3-b6ad-08184138a28f,Apparel,568.64,Debit Card,Pending,176.112.15.189,Los Angeles,Desktop,3314,Yes
+39:51.7,75219426-056e-4bd4-8530-df452ef2cf7f,56574f90-0570-4c34-80f0-b523753f1eb5,733ca456-34cf-4d90-8a75-f84dcbe7ccde,Apparel,531.18,Bank Transfer,Completed,29.19.149.171,Chicago,Desktop,186,No
+14:00.0,27367885-6eeb-404a-8898-2aefd9f04e13,862cab1f-d5c3-4651-9b59-1c1d91932cd9,160e44f8-73d8-48c1-a547-2a589d76f2c7,Apparel,390.77,Bank Transfer,Failed,189.190.211.94,Phoenix,Mobile,870,Yes
+36:03.6,f5111ec0-1317-4e55-97ee-3f2c7cde1a18,2bb3b503-c33a-4998-b15f-e92488ca895a,2fad7052-afe7-4511-a6d5-88f5e53a799b,Apparel,698.17,Debit Card,Completed,35.86.127.24,Houston,Desktop,689,No
+56:05.7,596d46f0-ff2f-40f1-9c7c-9b58be585e4a,9d0ec71a-b13b-4dc9-86ba-320a96c47fd6,176422a4-6033-4639-b596-37c392a7c1ad,Groceries,968.54,Bank Transfer,Failed,39.91.238.237,New York,Tablet,75,No
+39:04.7,53949f88-9904-43b2-8a13-ac9a4d976161,9bd6c867-7c01-4781-844c-7e5576ae0f2a,c7f5776b-20ff-421d-90ea-0a47d0ba33fb,Furniture,83.64,PayPal,Completed,90.51.61.219,Phoenix,Tablet,3200,No
+47:08.1,06557614-f394-4ecc-a0b3-2efbe3d0ff13,3540904f-0ed9-4cf7-aa42-ad3a5e09bd5d,bd82031c-2365-4e1b-aec2-c98729405379,Apparel,592.3,PayPal,Failed,30.197.8.107,Houston,Desktop,2029,Yes
+29:19.9,6f2b793b-3ea1-485e-9e69-bcf91ec3f666,f926d634-1942-4c57-b8c0-906e0a81f2c8,fbca1dba-636f-4482-be86-4f69b3273fb0,Furniture,620.77,Credit Card,Pending,144.150.13.82,Phoenix,Desktop,472,Yes
+40:03.3,38b58891-4ed3-4d7d-af6b-ed2876e7c1ac,267111e6-5076-47b6-a165-6f5b2f4e7ea5,0ce4beb9-12ae-44f4-86a6-d634b392a61b,Electronics,438.61,Bank Transfer,Pending,130.118.96.252,Chicago,Tablet,3395,Yes
+27:59.5,19272c16-6a0f-4201-9a50-db2debca886e,57bb5424-4648-4d1c-8f56-b0c86ef01a85,00d2b70b-c88a-4003-8abd-72e545851441,Furniture,190.33,Debit Card,Pending,34.40.152.66,New York,Desktop,922,Yes
+18:15.8,91084634-84ae-4385-8ea8-043074bc8d08,34b0bb2a-87fe-45b9-b56a-3a263719a7c8,7f3f1fc4-af36-43ce-b6d3-06c592256645,Electronics,934.6,Bank Transfer,Failed,29.163.29.106,New York,Mobile,3002,Yes
+37:52.9,9e713714-aef7-4623-ab85-301dc5b54ed3,8ca99160-0ade-430d-98d7-5e1f5601911f,7b097b87-6afa-4265-884c-e5aaa0138bdb,Electronics,372.31,Credit Card,Completed,188.13.179.58,Los Angeles,Tablet,272,Yes
+18:01.0,c44075ad-e744-4faa-97af-bcc2fe3bcfb5,de074ef9-4b1d-4f31-8bc7-d306a8af8962,5e9c9723-6c31-4c27-adc5-5e106ac01863,Electronics,763.08,Credit Card,Completed,83.196.70.23,Phoenix,Mobile,2148,No
+21:35.3,fdbbc46f-d0b6-470f-8296-a64376a9b1ee,1019ce23-1118-4a17-a7bd-b4a7008e9367,9bbffc6e-b90e-4079-afe1-daf8133691d5,Electronics,442.63,Credit Card,Failed,179.173.70.110,New York,Mobile,930,Yes
+41:32.0,0f8a58fb-4338-43be-9e7c-bb623b0d75a7,0c11e374-54e9-42e6-8da8-e9e3ddaeb872,f9ecfaac-2e64-4ab0-b24f-853d0a1cb80e,Apparel,694.55,Credit Card,Pending,3.180.47.50,Houston,Tablet,128,Yes
+07:02.6,998f10b4-a541-4c31-a912-577be2d16a2a,4e5d3d18-db8a-4afc-9709-67df53b77be4,9175193c-168d-4a9e-ac87-c41f6556d4c2,Toys,678.78,Bank Transfer,Completed,94.40.0.172,Houston,Desktop,2066,No
+48:42.7,f8515d94-5360-4db8-a6c7-bdedf98f0465,4af6f4dd-ba16-4437-aac8-dc68446997b2,6df48c84-00d1-4163-b684-cca51e80eb27,Apparel,34.17,Bank Transfer,Completed,194.33.138.160,Chicago,Tablet,3071,No
+28:32.5,f08e31ad-3a80-4716-816d-e4f7ddba0d85,a3248937-bb04-488d-9100-7a329123068c,ae92b10f-4186-4c98-8a2b-ee84d2db62bb,Groceries,59.89,PayPal,Completed,73.234.68.172,Phoenix,Desktop,544,Yes
+42:51.1,1e655afc-a09d-45ec-bd42-5e484b659075,37990b56-26bc-4988-bc99-fa2c759f56e0,0e74fc9b-7196-4e16-b1cf-86abf4d2beda,Toys,350.49,Credit Card,Pending,13.63.223.151,New York,Desktop,2195,No
+57:06.6,9ff56e18-6beb-4139-ad07-4cec7e5bb928,deede3dc-a7f2-46f6-8cc5-961d17c5f00d,1cc9c164-e221-4931-b2b3-7c4fecfe4702,Toys,490.5,Debit Card,Completed,216.78.192.200,Los Angeles,Mobile,2593,No
+44:48.8,4fd97981-755f-4ddf-8171-bd1355e4606d,2b94674d-cf0d-488d-8223-3c6dd6dfbc65,b2c48d99-10aa-49e5-a26d-560b63732f7d,Toys,973.04,Credit Card,Completed,206.12.95.56,Houston,Mobile,3455,Yes
+19:39.4,e7586d2e-c4e0-4ec8-a063-bf3971d9cdfe,15c3403c-6b95-4e71-8fd9-a9f94b12d60f,b14dbb42-c212-4445-a419-6ddb7c21f49c,Furniture,386.51,Bank Transfer,Pending,28.94.180.42,New York,Tablet,3086,No
+13:46.6,80d87bac-45f4-4678-ab96-c74631fd2089,b9d13f87-f994-4d25-867c-db159a444870,674d0bcc-179f-4a2d-98a1-c783f40fb4e5,Toys,801.14,PayPal,Pending,209.161.38.12,New York,Desktop,2874,No
+52:07.1,f2284019-a83e-4cbc-952a-7d233acc2136,ac3770e7-9758-4400-a602-88362755f2f8,a775df2c-a156-4afd-97be-080b0242fff6,Furniture,999.67,PayPal,Failed,5.223.41.204,Houston,Desktop,2743,No
+57:11.6,f669c589-ff4a-47d3-804d-7d03bf742151,f256f12a-2146-4397-aaab-ec504ca56310,0bf06ba5-a0e2-4dde-a22a-873485a09cb5,Electronics,268.33,Bank Transfer,Pending,190.92.147.36,Chicago,Desktop,3118,No
+46:50.1,e7d5fdec-d248-4bd0-a1a8-26fa0c100efc,09642bf5-8a15-4514-912d-c61b80398e51,b8223886-6805-4919-a687-a7b9903fc768,Apparel,372.24,Debit Card,Pending,151.90.106.83,Phoenix,Mobile,784,Yes
+20:56.9,44df18a0-f536-4cce-b146-47b2cd92f716,f3e32c60-6fbe-4f6f-8650-f6741fb62c40,5411bb43-cb7c-4a2f-958b-2743e6056c4e,Apparel,739.67,Credit Card,Failed,88.164.119.47,Chicago,Mobile,2689,No
+18:20.9,54e3eac9-73fe-4bde-b359-78f928b4d759,9077628c-60fc-40c8-a098-4c27932146e7,1ebed4bf-3913-4d4b-b081-b13bda0bf22e,Toys,28.63,PayPal,Failed,169.16.200.187,Chicago,Desktop,1299,No
+53:35.2,b8f030ef-320e-4359-9887-a25f024e6718,658bef5a-badd-46ff-a897-e821adedbf1b,2e615942-e92d-47a3-8513-d9906e37f7a4,Electronics,729.7,Debit Card,Pending,80.59.111.246,Chicago,Tablet,480,No
+15:00.2,fbbf0236-fbea-4074-a4df-7b015a2f2aaf,b3f604ed-35ca-48e6-b9e9-3db8285fbddc,7ec67951-181c-4919-a188-c57ce8917875,Apparel,638.25,Credit Card,Pending,78.70.109.1,Houston,Mobile,3353,Yes
+18:24.4,1d96af52-8c66-4582-847c-7669b9a11adc,dde455c4-95a8-4d9e-9704-6dc5324bfa6c,190d58bc-cc77-4f32-b00e-576c14127b5d,Groceries,574.71,Debit Card,Completed,162.118.71.218,Chicago,Mobile,1420,No
+28:51.3,65973d07-d938-446d-a56c-eea3392c36e5,0e2a2b40-f0d3-4abc-a885-394c7de367b2,24455abd-9a2d-4c91-9adf-d2c07f9dc318,Electronics,259.98,Bank Transfer,Failed,107.184.169.139,New York,Tablet,2624,Yes
+28:31.3,11df1053-039d-4fa4-8fdf-fea5c43d0117,99c8e7af-e023-4a63-99d8-8f4dd19cd009,3595413e-4879-4fae-a794-347d8553abfe,Furniture,755.37,Credit Card,Pending,93.202.124.219,Phoenix,Mobile,2079,No
+48:15.4,15e4ced6-85fa-41e9-a366-df41ceaadb57,0004adfa-bc32-49b0-a6f4-c0ae7ac77c1f,340e6fc6-99c7-4bd7-a93b-d3de095cf086,Electronics,830.21,Bank Transfer,Completed,68.15.207.117,Chicago,Tablet,2687,Yes
+26:30.3,9e815ac0-fa3c-40da-bcd6-f2bcc719606e,75c8275f-4b4b-4073-a57e-b5be8b5efc0d,9f223303-c297-4725-acbb-e07ea0ac9f8f,Apparel,630.98,Debit Card,Failed,216.102.31.165,Phoenix,Mobile,3367,No
+14:32.5,ca648bd0-901a-447b-bd88-4689b35905a7,9b160426-ec65-407f-abdf-08736beffc50,84e76ddd-34a8-48a5-9cfd-b4a4a4297869,Furniture,691.02,Debit Card,Pending,70.58.156.114,Houston,Desktop,3006,Yes
+05:31.9,aa2a74a5-030c-4263-b37c-5451c3af07bb,6ea7bd5f-7266-4d28-b38b-b2b989199cc9,9f7c2d40-8966-44a8-9537-b196c82a9949,Electronics,147.45,Bank Transfer,Completed,60.214.177.232,Houston,Desktop,3315,No
+53:06.0,d0efde70-e05c-4943-a445-01bcfd74ee35,6c4b657c-226e-40e3-94a7-84c1444d8271,06d552c5-453a-480e-b58f-7a77f3e39954,Toys,718.59,PayPal,Pending,19.58.244.202,Chicago,Tablet,2335,No
+06:18.2,8d3c4458-40cd-4481-9cfe-232af577c888,a8f25539-1427-4adc-bada-3493e903ed9b,d009af6e-a8f7-495a-9625-f3bbbd0ad224,Furniture,308.44,Debit Card,Completed,202.211.189.10,Phoenix,Desktop,2966,Yes
+02:05.2,a6bea81b-dd64-4e5e-acd6-4f4c9c2f74f9,2fe7c8db-c776-4989-8e5d-d2b5afe74aa5,21ca9681-2e17-48c9-a0f3-05f9ebc0c325,Electronics,664.15,Bank Transfer,Pending,66.169.51.98,Los Angeles,Tablet,2120,No
+49:26.1,5da6aa8c-b20a-4430-8e03-12776269706d,44d228cf-72c3-4097-a9eb-ffdf1d3b3cd5,7f058743-eb94-4ef7-adcc-cb3ce782ec04,Toys,348.07,PayPal,Completed,47.73.1.31,Phoenix,Mobile,260,No
+00:00.7,c9c95947-b1b3-4c9e-afb6-4c486e9d8de9,84344de8-0349-4786-8c8c-9191c9fc61e0,492ace1a-ff41-4d58-ac66-8eea31e7de65,Toys,445.64,PayPal,Failed,76.43.235.138,New York,Tablet,1954,Yes
+55:39.4,f5701269-9cbe-4796-b471-3e6b0163feed,bed72ebb-3925-412b-8048-225f5c63c1a4,6f23c0c8-b852-4a55-93fc-66920bf5348d,Electronics,773.3,Bank Transfer,Failed,190.188.75.34,Chicago,Desktop,3457,Yes
+22:17.4,7ef492f2-46ed-446b-acd1-e12fd46e5b61,5f93b828-b297-429d-bbf8-c1c3609d6727,726884db-72a2-4325-8fa7-04a79d142f7c,Electronics,174.58,Credit Card,Pending,221.8.252.159,Chicago,Desktop,1912,Yes
+45:22.1,ce02c4ce-8009-4aa2-8278-fc4d21dd165a,366b118f-8343-44fe-9ac4-1c0cf6340e62,5ae40a1a-2a1e-460b-86be-1edc7c3a3dcf,Furniture,235.17,Debit Card,Completed,87.144.248.82,Los Angeles,Desktop,1195,No
+51:58.3,55853d66-6d79-4ebf-a8a4-ac1b782636e8,e1d595f3-e003-43bf-80b8-9477aac220b3,eda13748-49f2-4aaf-af55-924be65f6914,Furniture,965.57,Credit Card,Pending,180.120.4.36,New York,Mobile,1713,No
+17:41.8,7b7365ec-0f5d-4eb1-8461-e218e8dde13a,9b5fb52a-5284-45ca-8e6c-7fef1469cabd,a8a8db0d-b6ec-440f-a252-f7556d2ac3c0,Toys,306.38,PayPal,Failed,109.246.149.88,Los Angeles,Desktop,2626,No
+47:39.5,ccc0cbb7-9779-4206-8ec8-dd89c30417a1,beb099a9-eba6-4885-b51b-4084227ee0c2,2a691c69-d2fa-46a8-a913-53b2e5030e87,Groceries,326.36,Bank Transfer,Pending,218.111.173.186,Chicago,Mobile,1722,Yes
+35:15.5,b659cf12-b05e-4cea-83b0-01c1d99ffd64,21a7f432-353a-4235-a208-c6cf72b909cc,52b99799-0613-4495-920e-77d808c35ae4,Furniture,123.34,Debit Card,Pending,184.224.107.36,Los Angeles,Tablet,481,Yes
+26:10.8,52329da4-e75b-4c53-9389-be1ac2e8a25f,80510d8f-33b6-4417-ab09-59c15267a487,f23fc333-cf85-4ca2-aef5-4a2f7aa9a7be,Electronics,546.58,Credit Card,Failed,165.63.226.141,Los Angeles,Mobile,1142,Yes
+59:23.2,5951c94c-5f4b-4903-8b8d-6914fc8edfe9,5052d9a8-43af-4e36-8568-9d04cb049367,bb229c43-0bde-46a6-9027-7a1cae68550f,Electronics,341.73,Credit Card,Failed,84.96.98.219,Los Angeles,Tablet,949,No
+26:22.0,f2097660-dfcc-4e08-a194-5e2e314159b8,42ae3579-25c1-440f-85e9-871f9bc01ef7,c0b38c11-06fb-48b4-bfa3-ca1b2053dbe7,Electronics,623.71,PayPal,Failed,149.4.119.64,New York,Mobile,1209,Yes
+31:27.5,75f23ee7-7155-4186-a431-316debf8b266,e9b3cd6d-d492-4ac4-90a9-1dd213a517a5,e422545c-4534-4493-a373-0c8c5a84b915,Toys,859.53,PayPal,Failed,123.188.111.47,Phoenix,Desktop,1355,Yes
+57:08.8,4cede5bc-b6ac-4999-a5f8-8b8b920a337d,4ba9a6bc-cfa6-4aa2-b4ba-b35c84fb11f5,f0029d50-07e0-46fb-9060-ff9cb4d45bd0,Furniture,798.22,PayPal,Failed,179.132.61.127,New York,Tablet,1969,Yes
+29:23.7,ea93c514-9139-4d16-afcd-d788b4525b87,ce917e07-af21-4413-8c67-943120c37131,dd9df8f7-184a-42c0-88f7-6309fb30d8ac,Apparel,718.8,Debit Card,Pending,134.161.37.219,Phoenix,Mobile,240,No
+16:35.2,e619fafe-68b0-433e-b70c-fbfb62c74b75,3572de41-a97d-461f-9ae2-435d4942b826,956607de-f54c-42a3-bbe8-43cf0579ffee,Toys,241.38,Debit Card,Completed,33.76.158.2,Houston,Tablet,2559,No
+03:27.3,659cfd49-63a8-4d5f-831e-f551adbf9126,03aa8d99-673e-476e-b257-fa580bdce315,38c9bbea-b73c-4e35-8cde-790a4c12f8d4,Apparel,176.32,Credit Card,Failed,208.216.185.29,Phoenix,Mobile,2267,Yes
+47:51.9,85bf40c2-5a4d-4e75-8c6b-1e97c6831335,584464cd-07a0-40ab-b663-d5f832e8e4d5,d2882436-d96d-4d02-8f65-cb2a82959e1c,Groceries,62.88,Bank Transfer,Completed,26.212.115.20,Los Angeles,Tablet,3512,Yes
+06:44.1,1052fe9d-9444-44e6-b62f-74b46fba5cdb,fe85a88a-eb6e-4631-95b5-7b09ea3861dd,0ef941b7-06ed-403e-ba9e-7c95df53e8bf,Apparel,70.78,Bank Transfer,Completed,125.105.159.46,New York,Desktop,1407,Yes
+45:42.3,af8d67f2-c8ea-4688-a4e8-e3ef171748df,ba88bf38-4310-4343-bda9-ae00e88aa70e,a922df3b-793a-43d2-b894-190a6822d5f8,Apparel,873.08,Bank Transfer,Failed,162.97.80.51,Phoenix,Tablet,938,No
+13:51.1,d0c453ab-4f69-4c69-a26a-7267afa63573,0e9fcf60-39fd-4f80-869f-6af55b1effba,3fceb9c1-7fe7-4e89-a63e-0b80b61ca178,Furniture,732.18,Credit Card,Pending,122.108.136.175,New York,Mobile,2881,Yes
+32:43.6,6968e9a8-9f09-49a8-b401-29cdfcdc384b,d48acd95-2dfb-42ce-84c0-e8b392daa8c7,65fae028-7b07-468e-a63b-9b14f54189ae,Electronics,165.38,PayPal,Failed,67.197.70.247,New York,Desktop,2212,Yes
+53:16.0,b946e24b-7467-4acf-a5a5-bf8c0a1913c4,9b948255-156f-4ff9-b954-cfa3d616799f,b2a9b84c-ee21-4771-a8b7-80a583d60f46,Groceries,631.42,PayPal,Completed,39.138.12.63,Chicago,Tablet,3368,Yes
+10:30.5,2cd6d2f4-1b1c-4ebd-a0fe-619b6a18c2e7,818229dc-99a3-4689-a966-8da6b8e33dd0,0736aa2d-ed37-449d-b63e-8f6f033dee19,Electronics,922.33,Bank Transfer,Failed,117.236.230.113,Houston,Tablet,781,No
+12:20.6,1532f308-d8b5-4e22-8051-3d3ce340984a,1fa2d895-8898-4aa5-8f40-f94491ed4742,351ae60e-f9e7-43d5-a3c2-ac25e0ea7dec,Groceries,240.37,Bank Transfer,Pending,123.89.255.87,Phoenix,Mobile,1062,No
+02:31.1,56d58542-c3f5-4583-bf65-525609221a68,be1ca8ba-d1cb-4657-a62a-bfdcbce067d2,a5de2dee-0b33-4b30-9115-9cf1438d6209,Apparel,341.15,PayPal,Pending,218.64.47.166,Los Angeles,Mobile,511,Yes
+29:39.7,54af3cc2-69a5-43f4-8055-a2a38871d52c,8a408e80-819b-4c1e-bcce-4e137d8a5945,f04bacfa-698d-49f1-b1ee-4a0f9434d57d,Toys,514.46,Bank Transfer,Pending,101.140.110.4,Houston,Tablet,1918,Yes
+13:51.5,0bbe7132-04e7-4b56-891a-daab1bb6b7eb,e40b700c-4d48-4ee1-bcc3-8c6a7b97bad9,cc371622-214c-4e97-b32d-2d966acb24d0,Groceries,644.1,Credit Card,Failed,72.24.127.198,Phoenix,Mobile,1663,Yes
+42:50.1,2a338da0-cc51-4233-a0f6-4c7111455d14,89dab2b4-83e2-4532-a5cc-ee904b24a1db,53c8b655-36dc-4ce3-92c6-36bcf3df67a1,Apparel,735.67,Bank Transfer,Pending,130.160.57.224,Phoenix,Desktop,1956,Yes
+08:08.2,2e5a3b65-af0a-4523-a291-59392ce48350,560811be-14ca-4394-bad1-7be1ff499095,102c8650-4bed-4993-b11a-3dafc88eaffd,Groceries,602.53,PayPal,Failed,3.207.21.157,Phoenix,Tablet,714,No
+47:47.4,82a09434-fc6a-4d1a-9575-9e878397890d,28053625-17a3-417e-ae3e-7902dd8a8986,2f06d12e-3dba-4795-9b6c-783041a8b148,Electronics,698.23,Debit Card,Failed,65.89.98.161,Phoenix,Mobile,2364,Yes
+23:43.9,72242340-754a-4c74-8f6d-de64c22eda4d,2cd7b1ae-9a8a-49c6-901e-686515a6404f,a5185140-56b2-4a3a-af40-8a4bc93a468b,Apparel,28.06,Credit Card,Failed,93.151.175.27,New York,Mobile,703,Yes
+22:35.0,8fe99f05-57ec-4a3c-a359-a166482cea19,84aab129-1880-4be9-a30f-e9b5eda57210,42f4be07-31ad-414c-ba27-342426ac30a5,Electronics,323.5,Bank Transfer,Failed,186.215.125.4,Chicago,Mobile,2225,No
+26:19.0,31090de1-57cc-4bf2-9ee0-b4e9ac31b486,9ffe903f-fa95-4630-9bd0-68a213b6e282,613370ce-ddeb-4d40-ab58-5e01f2b210fc,Apparel,968.47,Bank Transfer,Pending,208.102.64.248,Phoenix,Mobile,966,No
+11:51.9,179a7178-6aa2-4532-ac24-69d0a9d993a4,a1bd92ae-3a8b-4530-8562-754648ea3ba1,0b13e793-b0b0-4035-bdd3-bebf0c3b2d8e,Apparel,170.35,Debit Card,Pending,201.19.71.78,Houston,Tablet,1218,No
+11:51.1,c73c0a3d-30d0-4196-8776-08476d9cf5aa,cc791146-54b4-467e-a433-fbd1a3560467,523391b9-4a0f-43af-b5b7-54cad8128c68,Groceries,68.08,Bank Transfer,Completed,39.104.53.236,Houston,Desktop,1332,No
+31:17.2,80926110-4325-4428-b0c2-f60dfef3e211,91378ca1-0ed0-40eb-ac86-0b3b21858ffd,6b5bdc63-8f1d-4667-b7cb-a0feddadfba6,Furniture,852.61,PayPal,Completed,122.51.34.94,Houston,Mobile,1157,No
+48:49.4,9d47f845-42a2-43b2-b359-04198a502249,b13e53f8-07fb-4e5f-8140-a698b53bfb06,9e5f0dee-bd70-4fec-8e8a-551d39915904,Electronics,444.51,Credit Card,Pending,172.139.64.87,New York,Tablet,1216,Yes
+42:23.9,49e51f58-b529-4734-af63-3176b9f6ad83,ae4874a5-09e8-43f9-8b2e-e04ad881eb37,96c4d6e7-0c12-4405-9473-751c8bbf1acb,Toys,998.61,Bank Transfer,Failed,177.166.110.112,Los Angeles,Desktop,2672,No
+46:39.5,765eb9e1-28bb-4d56-8246-37bbe75ed15a,fd273b8c-1e9e-4568-a2ec-979b1611cf30,99b9e058-f9c7-40fa-9b10-ef8e733e04aa,Apparel,270.85,PayPal,Pending,33.77.0.58,Houston,Desktop,2929,No
+53:54.1,b05a0b44-ef23-490d-ae16-35661781ed4a,3da1a877-685c-42bc-b187-4a110eb7d184,36d0c1cd-015a-4c1e-bb66-2592364e0b0a,Furniture,340.16,Bank Transfer,Completed,115.22.99.250,Chicago,Desktop,1406,No
+06:24.4,1542ec47-6008-4a0d-ba82-564bd126fbf0,8304730f-1f26-43ad-a0aa-ada02630645f,a884686b-5e89-4f7a-a32e-eaa15de72c38,Furniture,942.4,Bank Transfer,Completed,68.78.100.188,Chicago,Mobile,2888,Yes
+16:47.9,807a0eda-d5c0-4b59-8d4d-451ea900d312,6dd8aeda-ad50-4024-afa0-b019375b4bb6,2cc322fc-2444-4388-95e6-10a8498e0a9d,Apparel,904.07,Credit Card,Completed,74.77.235.103,Houston,Desktop,1767,Yes
+00:34.3,ac58e696-f85b-41fd-b7ca-a3c7fae16b64,4a2c9192-3918-47f4-b6c2-fcaabedc0424,e781b89c-2868-42d1-9894-6328d3bf9713,Groceries,727.59,Debit Card,Pending,145.79.177.173,New York,Tablet,1220,No
+53:17.6,57791ab6-dc7c-4117-b2ec-d0d260754bc6,905d16c6-9fb0-4f9c-87ae-466fe1377c4b,6db6c5ba-3af7-4500-a6a1-6201500d301f,Toys,351.26,PayPal,Failed,31.38.57.175,New York,Tablet,1684,Yes
+42:47.7,4ea1e35f-1612-4a7a-b891-516cdb85609e,ac3e2622-1503-470c-a1a2-ade4f1eb5ec8,0e70e8f0-d82c-472d-ba27-8561fb8bb613,Electronics,458.4,Debit Card,Completed,137.222.195.112,Los Angeles,Tablet,3333,Yes
+54:25.5,330d75a7-58c7-4ee3-8db7-9104cf94e455,6e602267-27a2-4514-8e82-6330ab32c4cf,f6d33016-68da-4157-9c64-7a9ec9f6ea8d,Furniture,509.36,Bank Transfer,Failed,214.8.52.5,Phoenix,Mobile,3163,No
+34:11.2,5fa33405-3d99-4287-b4e8-9d21ca6de780,00b3e565-5de5-4d7b-8cf5-fd05cba1a812,3a1dba64-2332-43c2-b433-eb39137a0de9,Apparel,753.33,Debit Card,Pending,106.71.171.181,Houston,Mobile,662,Yes
+08:38.6,d0a281ac-d22f-4e6d-bfb6-540a7dbdca4c,e4572e1c-7e3f-46e8-99c3-40cc2324738b,d9b5db51-0fef-4732-a586-1a65c3e2d05c,Electronics,781.65,Credit Card,Completed,187.31.240.169,Houston,Tablet,303,Yes
+41:50.7,8410f193-b847-48e2-94f4-9272af3a01ca,78396fd4-3e0f-4e20-a5ea-f801a167ee63,ebc5b5f0-e144-4af1-8991-ffe3f6d65f45,Toys,398.61,Credit Card,Pending,29.32.245.140,Los Angeles,Desktop,2978,Yes
+06:12.8,ba3654e6-2967-4a20-9b57-760eb86af71f,8d5f0e1b-d1f2-41e0-9811-6275d9fb6028,58e1eac1-ed0b-49a3-b439-d569ef0d5cd9,Furniture,26.76,PayPal,Pending,17.192.231.237,New York,Desktop,816,No
+11:33.0,147b1fab-07fe-41ff-8c62-3fd15f02b7c7,786ecf34-a1e6-4ab6-a49d-c769b69082cb,62a05214-04c8-43d9-a960-524585bd672a,Electronics,472.1,Debit Card,Failed,174.251.48.215,New York,Desktop,2290,Yes
+07:32.1,9bebf57f-89fd-4072-9285-9682d0bcff39,10f24ab0-52c0-4324-9703-8b1fdb78fc12,67f24916-9b4c-43d2-8263-ec1f2a250965,Toys,865.67,Bank Transfer,Completed,93.61.46.24,Los Angeles,Tablet,1747,Yes
+44:07.6,75a306cd-ac20-42e7-a74f-6b684a2cf53b,14fff97c-49fa-4119-8c2c-67400304320a,d90ad38b-9239-42db-bd65-e2913d893d9d,Groceries,933.56,Bank Transfer,Completed,89.199.86.181,Phoenix,Desktop,2410,Yes
+29:16.7,4478eb09-eed8-453e-92a5-551fbada9055,0b0668b5-9ca4-443c-bb5c-4a06757813a3,35299130-17b5-4e10-ae13-b3ea0b3d7130,Groceries,149.55,Debit Card,Failed,75.12.223.48,Chicago,Tablet,1083,Yes
+47:08.7,0235ca11-c3e5-4be2-8d80-d832e95cf6ae,ab1ab4e0-5ac4-4a14-9c3e-1e48e77b602e,2190cc47-0c8f-4601-93b2-0fdc096513e6,Furniture,606.54,Debit Card,Completed,186.120.178.40,Phoenix,Mobile,2000,Yes
+12:29.7,701e65d0-cf6d-44e8-af25-8edaed51cd94,9747b2ee-7ef3-4461-aa01-4542d9680cb8,9e5bfa45-9b1e-446c-bcdc-dcc6bf86a941,Electronics,115.32,PayPal,Pending,19.62.246.207,Phoenix,Desktop,1750,No
+43:12.4,5638f1b9-6e0a-44eb-b02f-1d07e1e6b8cb,5ae2cd8a-fa23-4ee4-b5e4-3c5d897a26e3,6f0b4e41-c414-41a1-814f-c22406a877e3,Apparel,365.92,Debit Card,Pending,198.87.206.240,Los Angeles,Desktop,2352,No
+02:24.4,aca9520d-ce4a-4755-9379-81379581f39f,651eb0fb-21cc-42d4-8a45-8b36d14301b0,fb5350eb-3c24-43e7-9f88-a286f084a380,Toys,107.9,Credit Card,Failed,140.5.88.159,Chicago,Mobile,1996,Yes
+59:29.4,6f5be982-d822-4675-94fd-d9a39ef6ccba,c4155497-d7d6-4d66-b013-7b6d5e9feaa2,4fc56e90-377a-4666-9417-97e199bcdb58,Apparel,219.29,Bank Transfer,Failed,165.13.92.29,Phoenix,Desktop,2060,Yes
+37:33.4,cf784886-95cc-4ff7-8805-436c23d7834a,703a9cd1-3149-429d-bbae-e499e98d06d4,7bb598fd-f6bb-4a4f-9353-56bb3b616e52,Groceries,922.68,Bank Transfer,Pending,138.75.128.60,Los Angeles,Tablet,1425,Yes
+13:49.8,d90aff25-343e-40c0-be02-00facaa4d525,8ef21f9f-31ff-4a31-8238-bb1a53e2f385,8e1d01a2-a077-4a87-90c0-523f11596875,Furniture,838.39,PayPal,Pending,214.182.115.226,Chicago,Desktop,2307,Yes
+57:22.0,c44660fc-3a18-4de4-907d-ba41f57632d4,93194878-942e-42ee-9fca-4da59e9ed1cc,83425cc9-ea61-44e6-8934-1eca4e3efb74,Apparel,860.69,Bank Transfer,Pending,144.156.148.150,Chicago,Mobile,1582,Yes
+44:58.2,e742f6da-9458-4834-bb8e-8edaa2085a42,2136124d-4a00-4082-9424-b46b01a1302d,09b76f79-127d-4549-ae24-49eacfd13726,Furniture,207.56,PayPal,Pending,97.9.222.6,Los Angeles,Mobile,2290,No
+22:58.6,f6e03678-4147-4603-b39f-6c32b0f77413,7e0da074-f7f5-4892-9130-2493c7463167,e47e6832-0b49-49cf-8ea1-660aca7c3aa7,Toys,66.35,Debit Card,Completed,151.30.206.102,Los Angeles,Desktop,2262,Yes
+42:44.3,a0b14eac-3a07-4124-ab81-004824910244,55ab4f0e-b757-4682-9654-5579261a3af5,6e412eb7-1a48-4e39-a913-8620aa903d5c,Toys,548.57,Debit Card,Completed,179.136.118.0,Los Angeles,Tablet,1273,Yes
+33:04.5,c08b69ce-a050-4eba-a331-eff1d8c5f965,fd3bf54a-02a7-4ced-9c78-4ab0132722f9,b37606da-f4e1-434f-b8bd-6ea3fb3aacae,Toys,520.21,Debit Card,Failed,43.137.230.48,Houston,Tablet,218,No
+04:41.0,49e0b26a-a974-4d12-9378-df37bcefa855,2db06af7-610e-4d66-9737-c67e5221116e,82fd1cce-720c-445e-a796-004ce9ad6518,Furniture,763.99,Credit Card,Pending,162.58.125.203,Chicago,Desktop,1777,Yes
+09:55.4,c88f57df-21a5-44e4-bb61-0dc3b0dacd60,4623b3ca-50de-4af6-88cf-707079dd1ea7,281a4109-f387-4fd9-91ec-1b48dd9831e5,Toys,958.42,Bank Transfer,Completed,129.146.6.224,Chicago,Tablet,3595,No
+09:14.4,d51d1aae-8cbc-46d6-b268-074ad0beb16b,fb9ad3ca-f3ed-4444-82b1-55470697fa3d,0044193f-c787-441a-b384-05b4dc03b8ec,Electronics,595.91,PayPal,Completed,47.92.73.22,Houston,Tablet,1014,Yes
+47:24.9,1d248d2e-7920-4aea-a9cb-0b672a79b8a2,73c717a8-fd36-4bb1-8db3-73ad36fe1fe8,e6315eee-b130-4bce-ac33-4738028c67f5,Electronics,68.31,Debit Card,Failed,92.192.212.96,Los Angeles,Mobile,130,No
+25:36.3,894f0ef8-2e2e-46ba-a434-7c30c47194b1,45dc63c5-e46c-4672-af5c-c329d82e1b9a,55870270-ef4f-47c4-8591-92a48307a112,Furniture,801.4,PayPal,Failed,94.63.9.16,Chicago,Tablet,2039,No
+45:55.8,7a0306ee-d709-4df8-b1d2-d44163442025,a9569c9f-3c3e-4eff-8a75-3c98705fcc8b,85f1d6f6-50e5-432b-80d5-4f0df00d1a5a,Toys,428.51,PayPal,Completed,136.218.128.61,Los Angeles,Mobile,912,No
+03:55.1,dad754a2-3a8e-4d52-8f47-5f248ccdc8e9,5f6b50ed-e702-4659-b38a-b36613cab97b,a0e59323-eae0-49cf-9ced-5dd99a9bc4b1,Toys,623.61,Debit Card,Completed,70.23.29.35,Phoenix,Tablet,2063,No
+34:48.3,7eb8cc31-cd8e-491c-9dc3-0438de9aa37d,35afafc7-e949-4fe7-aa70-205c469ded5a,383cfbd7-66b6-4e30-82bf-97a6f880dbb8,Apparel,648.68,Credit Card,Failed,206.64.39.231,Chicago,Mobile,3132,Yes
+05:42.9,b9362694-ee6f-45dd-91a4-6f5918554702,e1023c8b-ac1d-4026-870d-7ba05b4ab835,892a6e67-8089-4679-a766-9959eabdeb6b,Toys,196.87,PayPal,Pending,55.224.117.44,Phoenix,Mobile,3543,Yes
+36:54.8,784be415-4b66-48bb-93cb-a27194ac24bc,bb47293b-d266-4d8f-9997-4a3d050892dd,91ec2a8b-d76f-4346-bd19-acf95c09542c,Furniture,299.81,Credit Card,Completed,177.43.166.180,Phoenix,Desktop,1713,Yes
+14:44.5,c2c06507-995b-4a37-bc93-078f762951dd,c5d75bfc-a8d9-497d-9428-b3779222243e,92bc169d-cf52-4063-8900-09b95039533c,Electronics,846.07,PayPal,Failed,205.202.118.64,Chicago,Mobile,178,Yes
+30:35.9,d1feb1f5-e9d8-450c-bc93-ab400545b50b,9d49437c-45f9-4a5c-abec-21aa1455bdfe,799ed0c5-b50f-4f52-873a-1a99793221ce,Furniture,864.52,Bank Transfer,Pending,92.1.225.214,Chicago,Tablet,645,No
+26:29.1,eb0ba5fa-f5b3-4941-bbf8-5fc7f076283d,d9d11539-1c4a-4d73-8b9f-b76b55ab689e,08c62a55-98db-45e0-8df5-0046a70aa3e7,Furniture,108.97,PayPal,Pending,88.198.232.207,Houston,Tablet,390,Yes
+01:06.9,08b5860d-48c0-456a-8bf2-fba25b39509e,71714ffb-6914-42be-b049-e3340bbcc045,d07aefdc-b8e0-4b75-abde-50961326fa1c,Groceries,281.57,PayPal,Failed,201.147.105.163,Los Angeles,Mobile,3385,No
+17:34.9,15e3543a-d321-4671-9aec-35da1a3b48f0,9da60f86-7945-4461-a0d1-c072489ef415,cb5c3254-204c-4918-b3a2-123984f357c4,Furniture,731.69,Debit Card,Failed,52.210.202.156,Phoenix,Tablet,3288,Yes
+45:53.1,44140dd4-2f9d-4bee-87d0-6fe62d979430,44b1b410-0ce9-416c-8d14-cf913b476a21,cdf7eb33-733f-4579-a861-309e02e057d6,Electronics,820.26,PayPal,Completed,42.0.75.102,Chicago,Mobile,2222,No
+42:15.8,dc3bb8a4-9e89-4a24-be92-387d08569a3e,65cde362-6c7c-42c3-b564-f9052ed38269,b3672b8d-4241-4550-aeb4-8baa17b2f127,Furniture,456.63,Bank Transfer,Completed,123.126.142.54,Phoenix,Mobile,2914,No
+15:34.1,a68c01e1-be6f-4295-8ddd-0ac2b24bafd6,6370f7dc-105e-4c7d-ab49-83c6015aec0e,8af72507-12c9-4996-ad9e-d64bad89a266,Groceries,834.96,Credit Card,Pending,11.244.92.80,Chicago,Tablet,1304,No
+13:08.5,f096494d-f5e1-4050-b4ef-b93e564a97eb,7d25ddda-8e23-430f-a1c9-e8c61f813f16,7e3e32b0-a79d-40d1-86fd-c555f1a01e0e,Apparel,122.01,PayPal,Failed,99.37.36.190,New York,Mobile,1839,No
+12:40.4,e65050d4-a898-45a5-9d62-5d957951b5f9,03a5fcd8-b43e-4f2f-a658-d69a6131c9b5,7e0bea38-6923-408d-8c03-83b61a0cdc6a,Electronics,270.15,Bank Transfer,Failed,54.1.140.55,Phoenix,Desktop,1141,Yes
+45:58.7,05ca90b1-5359-46a8-bc87-1ca2aeb273d2,8d5c3400-fb35-485c-ad88-e30504f3c5ae,c8f2f9d6-56c3-4910-af51-e3c9661de78a,Apparel,942.39,PayPal,Failed,126.201.226.159,Phoenix,Desktop,287,Yes
+45:52.1,f084a504-5f50-47cb-b5c6-e9c479d9a583,32f9236c-ffd3-49a9-9b0e-0a9dea409b67,a1d690f1-45f2-4554-b02a-7c2c42ae9055,Groceries,975.35,Debit Card,Pending,24.246.207.190,Phoenix,Mobile,1432,Yes
+57:34.9,fcd87684-88a1-4114-a1e0-5823c8410b63,5b3d47f5-079d-431d-a17f-3c9180ab3b35,a05351b4-2853-450d-942d-2b0722dec233,Apparel,390.35,Debit Card,Completed,172.196.179.149,Phoenix,Mobile,1789,No
+49:43.5,ff2b0837-9118-4f14-aa67-1a2cedbdebb3,802a6863-f977-4b80-a638-2e0d8947d1a8,50e1406c-7214-4b9b-8736-f4dc449b614f,Groceries,742.34,Debit Card,Completed,52.81.235.56,Houston,Desktop,1069,Yes
+16:30.1,ed88db40-4f4c-43e2-ae6a-ca1838a4bc46,8d65e629-966b-4e75-9d55-a4b5d5b38e1b,71c5b66a-c242-4404-b553-d4d9b6580b9a,Toys,902.94,PayPal,Completed,175.13.114.214,Los Angeles,Desktop,3236,Yes
+13:29.0,d6044781-df9d-4159-849c-69d3e475c0aa,4f8238f3-80bd-47b9-a5cd-794544712e02,5a04cba5-0b84-467e-b018-c1fd877223fe,Apparel,826.27,Debit Card,Pending,159.141.211.57,Los Angeles,Tablet,2563,No
+39:38.3,f79fb8b0-0d20-41d7-aeb0-04711db69063,52476f57-7960-4f0f-800b-8daa2d1a0a8a,7a275673-e6a5-40b2-b5f0-b1efa16b06a8,Apparel,955.45,Debit Card,Pending,163.87.137.122,Houston,Desktop,1550,No
+52:07.5,dfa569ec-9c0d-4046-8a26-713a1745ad2c,f7c63380-6cb0-4d7e-aea1-8e5aab56ebf0,e990fd31-2a59-4f2e-94f5-376d805b0dc7,Furniture,827.12,Debit Card,Completed,141.152.89.54,Chicago,Desktop,423,No
+43:45.6,0b2ddf30-0888-424c-9fb9-eff850a2871f,4217b94c-9b07-470d-9edf-1333ccbe8657,fa32e68d-2f97-4b5c-b7e7-548a09b96d47,Furniture,559.91,PayPal,Completed,168.9.176.28,Houston,Tablet,1088,No
+45:56.9,59175817-ff3d-4325-bb8c-c8b3073cfa43,1beefcce-74ab-4a48-bb3f-457d1e3c75a7,7f6e3f9f-935b-401a-aaf0-789294b7bde0,Groceries,940.27,PayPal,Failed,173.19.121.140,Chicago,Mobile,2521,Yes
+13:02.1,c3757b22-bd22-4e13-b810-4dbf1a43ad4c,4d148f20-ad57-4cc3-9123-1cc68ab93d16,a99e0f05-6a21-4fc3-a0f6-2c2c5dede27b,Toys,123.24,Debit Card,Failed,134.213.31.190,New York,Desktop,429,Yes
+48:11.9,825d9b85-e951-4ae2-999f-9af8c8da2dc5,044da147-bf58-4258-ab61-78dbdd2ecd64,472ccbce-2ac1-46dc-9a6b-33b130a9d964,Furniture,109.7,Bank Transfer,Pending,48.50.187.218,New York,Mobile,3056,Yes
+13:57.5,880e3d45-23cb-4f7d-800e-d2d40de47229,ed37cb70-b28c-497e-be3b-b7242bda876d,74b71413-89a8-4870-aa74-78d576337725,Toys,44.13,Credit Card,Completed,162.232.55.221,Chicago,Desktop,583,Yes
+49:59.2,6a8fb11f-cf09-4a04-8617-b8bfb3116516,a882b71f-791e-413c-8012-a763d9da76ee,7b36ab71-43e9-4150-9811-7f5bd91a8b9d,Furniture,198.29,Bank Transfer,Pending,130.39.142.52,Chicago,Tablet,176,No
+29:14.9,b092d0ae-a72c-4602-ac15-3858d56f4a23,b8bdc06c-d2ea-4682-86b1-3e4a3817f421,883e49a4-7b66-4817-8c4d-003276679456,Furniture,940.8,Bank Transfer,Pending,69.221.18.14,Los Angeles,Mobile,2845,No
+48:32.7,5b9c9b63-def9-4fd6-87d4-98a9c16be04c,45adb048-102e-4bc7-9a0d-ce60869b5d28,940e82fe-5bee-40ba-af47-da15e01cf4be,Groceries,769.21,Credit Card,Pending,170.9.10.157,Houston,Mobile,631,Yes
+51:41.4,7f700a63-943c-4730-af59-8bdcf205f4d3,07ce0285-bf43-4076-b5dd-475122ceb597,adeb9049-824f-41f2-a44d-3f07b346f964,Apparel,947.6,PayPal,Completed,198.222.106.225,Houston,Desktop,3283,No
+42:34.4,0062f7a9-bba4-4afd-bb56-79225247b387,a779f7b7-d139-437f-b4cd-bf9e4e9bc574,5136527b-0b5f-42d2-96b9-02441f083415,Electronics,44.54,PayPal,Completed,155.113.167.248,Houston,Desktop,424,Yes
+09:49.5,ff888201-bfcf-4a08-8f70-60d641ccaa60,b0f98d36-dd05-42fb-8dfa-d5a7763bbb4f,e5880636-94f4-4916-9e65-429dcb2eeabf,Groceries,695.01,Credit Card,Failed,161.143.103.160,Phoenix,Mobile,1910,Yes
+05:54.1,8ac6dd39-e7e9-4617-875e-490ecd53956b,0c8b8df8-f8b5-4c2b-86f2-6d96ccc7da60,ac8fcd20-493a-4c54-a9a8-faa2ae59e7da,Toys,309.41,PayPal,Failed,159.18.72.173,New York,Tablet,1444,No
+44:56.1,f9771ca2-4709-4042-bca0-0b3abcf61b84,650c6c05-1b90-4960-a98a-b3a03eccf5f1,641a1ba1-04e4-4052-8071-07f6c33a3ad5,Toys,738.65,PayPal,Failed,193.98.23.26,Phoenix,Desktop,910,No
+23:14.2,e4351eba-e56e-45c0-9895-f8fff81ba69f,077c04de-aafb-40f7-840e-1a0e4e0ea11b,35688cd9-ab6c-4824-bcdb-80fb189c4aed,Apparel,837.09,Credit Card,Pending,47.162.121.98,New York,Desktop,3192,Yes
+38:59.4,c286aa00-0d99-4ea1-97f2-968a62359149,276f0590-f063-482b-8d06-6d82203ece6f,5b9f18fa-15f4-4f75-abbb-d229cd5f9feb,Apparel,279.2,Bank Transfer,Failed,10.23.183.26,Chicago,Tablet,1925,Yes
+29:58.9,4f7d4f18-66dc-43b7-9826-3c2e1b1a0e76,64472974-2ec0-4976-850c-d204fe4ce256,c673d55d-89b2-42de-bbe5-4e43cc907986,Groceries,866.21,Debit Card,Failed,9.36.31.219,Los Angeles,Tablet,1173,No
+20:44.2,52624125-b875-48c4-9813-4d3538fb0567,0a910325-a430-4285-a057-d78bbfe79223,b194981e-2938-4410-a375-fc98ed87fc50,Furniture,570.8,Debit Card,Pending,212.240.150.203,Houston,Tablet,70,No
+59:11.3,c1981402-40cd-419e-a57a-ec9efcf407ef,d5f7a832-97b9-4f16-805a-96b490327a96,13e821f9-9125-4305-893f-e9835481462a,Electronics,806.68,Debit Card,Pending,147.147.98.202,New York,Desktop,2895,Yes
+46:49.3,1c072ca5-151a-405b-9143-66e1d9690869,8bf60eb4-2c4b-4791-9636-6e462e4f5e79,509e912c-5771-4836-9335-bb532c28d508,Groceries,677.17,Bank Transfer,Completed,28.143.164.132,Los Angeles,Mobile,372,No
+32:29.6,dcf2e0dd-3a00-48b7-80e8-4feb3b573b7b,b82aa52a-edaa-48a2-a5dd-a1ad1d293626,0d92665a-ca97-4fb6-af99-32fc62f0915c,Groceries,396.19,PayPal,Pending,79.67.201.206,Los Angeles,Mobile,71,Yes
+47:23.6,d8941a74-9acc-4513-891a-f7d0342d1b00,74148fb2-aad0-4a34-8823-efd6af0f10a2,4439592c-9944-45e5-974b-057a4280afa4,Toys,777.17,Credit Card,Completed,180.74.104.91,New York,Mobile,2011,No
+23:43.4,38d35a49-b82b-41ee-9a13-acc721bf8730,76ce6283-851b-4958-809d-bae2b755bb8e,d12803f8-06af-40dc-a6bd-c3961ea3e8f2,Groceries,297.22,Credit Card,Pending,220.72.76.20,Phoenix,Mobile,2142,Yes
+50:27.2,760ec08b-b407-4162-a57c-b06243c7774a,5170e12c-40ac-46c9-b933-6c73158d8c34,5c28dd5b-6418-4a9f-b1ca-6c865e6134a6,Furniture,980.74,Credit Card,Completed,171.112.71.207,Phoenix,Desktop,898,Yes
+39:27.0,fb4faed2-76d3-4edc-9688-370ae46050f0,dea94794-93d2-41e1-91ce-5ca937caa91e,9ff77cc7-804b-44cd-b9ca-24c4cd629867,Groceries,847.35,Credit Card,Pending,152.54.168.159,Phoenix,Mobile,76,No
+20:09.7,22a90758-8154-479a-ac90-06f21590ce55,97cf7e4e-be05-4182-9bb4-513ae894be0a,5d79ccba-5b4a-497b-84cb-883d773970a1,Groceries,501.93,Debit Card,Completed,100.212.228.184,Chicago,Desktop,576,Yes
+02:26.6,f4e077ae-57cc-4a1d-b310-00b024ab128f,cf1513e4-b2fc-4a77-bad8-9a85e1225a61,028a9088-c3e1-4aaf-b1f9-feaeb3e260d5,Groceries,808.73,Credit Card,Pending,158.206.86.252,New York,Mobile,3058,Yes
+39:31.3,f43c0230-66f9-4275-bf6e-8102ee7828c5,cdd5e4ca-e93e-4974-b0a8-91981a5bf041,65cfe7a0-1e4f-4d8e-8e76-92cbf5f5e5a5,Apparel,740.14,Credit Card,Completed,1.218.34.203,Los Angeles,Tablet,3018,Yes
+50:01.4,d83ce913-66e5-4747-b3b6-e1a060f130bb,5b3b20b4-71c6-4349-87a5-930d1574befe,89cccc74-f60b-49e3-a6e1-7f6390716988,Furniture,318.98,Credit Card,Completed,45.84.107.131,Los Angeles,Desktop,1181,No
+38:26.1,a8c4d52d-b792-4376-9051-341ceaeaebb0,b1ef3183-e09e-47e3-97b5-31f13647658d,79b3cfe8-1edf-4d15-b9ee-bd94889c9185,Groceries,506.92,Credit Card,Pending,187.13.173.251,Chicago,Desktop,2823,No
+21:45.3,1170df56-06d9-4153-9684-ff120a94f3d0,1b4c187b-527b-477d-bfca-2bacd86f17de,928c015e-dccd-401b-b4f0-83b3858788b8,Furniture,211.28,Credit Card,Completed,137.196.204.50,Phoenix,Tablet,2949,No
+16:54.5,f79491f5-92b6-4fd8-849d-d044b92cb954,d23b5f80-dddc-4642-8ba5-0ee30539c2f6,210a0832-82f5-417a-8075-fb0fbbe3afc8,Electronics,873.38,PayPal,Completed,172.83.94.243,Los Angeles,Desktop,2730,No
+13:33.0,1bcc6df0-001c-483b-b01c-e554768cb008,05e5f398-7e03-4686-8b17-0a6c05c785ba,e1a16762-01f9-431b-8dac-d2164edae9e1,Furniture,193.48,Credit Card,Completed,147.210.109.122,Phoenix,Mobile,1050,Yes
+52:34.2,f75eac86-43ee-4b76-abf3-5eb802fa7cb6,dc1f8c12-0d11-4d45-81e3-e0c2df14e150,e04d32b6-5eab-444b-8b36-f1c4679e1f2d,Toys,56.24,Debit Card,Completed,64.127.47.242,Houston,Mobile,803,No
+46:22.0,43a249ab-1779-4500-8524-a50ea520d6d9,67dfbfd9-bcd1-40e8-b44f-eb471b886f93,b3b6c38b-943d-4d60-a4f2-b801ba9f50bf,Apparel,986.11,Credit Card,Completed,59.99.38.155,New York,Tablet,646,Yes
+27:28.9,7319fd0a-7944-4ad6-bacd-87435a3427e9,6324ab16-3b57-4add-a8b7-dadec5552d55,2a13cc83-2130-49be-9fe5-60f930c163e3,Furniture,292.91,Debit Card,Pending,53.150.88.80,New York,Tablet,2029,Yes
+13:34.6,35a64b5b-425f-40c9-ab6c-3f909880b6c0,9b8af983-98c6-4a7c-9bd4-07ec51cc13e2,3fa24922-1567-4555-b2e7-cdcb81b8e42e,Groceries,120.74,Credit Card,Failed,31.131.166.45,Phoenix,Mobile,2849,Yes
+56:34.3,940cfe0c-aca3-4764-84c0-48fefb08fcce,c1dba82a-44fd-483e-9685-0778f6a51385,a2f416da-372f-433c-863f-66a4b6e066d0,Toys,306.03,Debit Card,Completed,49.148.231.201,Houston,Mobile,1352,Yes
+50:52.2,ea03c0e0-706f-4d37-8f8f-c14277c0b166,0cf82944-ea68-434a-a073-682db23fd00f,3ad539d8-a59b-4e59-ace5-72dcbe781b95,Groceries,692.55,PayPal,Pending,216.229.142.216,Phoenix,Tablet,3239,Yes
+51:29.0,f410d974-9d61-4bd3-bb00-14071c5b8af8,a937ade6-2af6-4312-a642-cb98435d1c1c,5ad2545b-dc2e-41d4-b9fd-bb8bf235e712,Groceries,964.26,Bank Transfer,Failed,181.240.190.242,New York,Desktop,2562,No
+08:28.6,5ba70c6a-f766-431d-a33c-857ce1b165ef,0b45ebaf-05d4-4ac2-8724-fbc816b0e244,e9cee3d7-7fa7-41ed-8dac-ac929570834b,Apparel,263,Debit Card,Pending,156.200.91.164,Chicago,Tablet,1006,No
+14:38.3,efddab4d-7b7a-4386-bf6a-c8c63e868640,a39795e9-ccc8-42fe-b211-af770427d59f,a86fa13f-44e9-41c9-abb3-c595d86f57ec,Apparel,356.99,PayPal,Completed,13.51.80.151,Phoenix,Desktop,695,No
+46:15.5,f7872b84-c289-4255-87c5-746d36bb9f57,0b17d35c-f56e-4902-9765-5c9b2475618c,197aae6a-bf1d-4100-b93c-2b170da692ad,Electronics,779.39,Debit Card,Completed,38.171.45.176,Houston,Mobile,173,Yes
+57:31.4,df0bad6a-29fc-404f-8574-81349c4caf32,3d9252cc-5246-4edc-9e1e-7f2a37236d96,3bdd1b9c-51e7-4fdc-934c-18c7eaacd71b,Groceries,274.47,Bank Transfer,Pending,3.207.180.155,Los Angeles,Tablet,278,No
+46:35.6,5254a781-82c0-42d0-ab1e-c8ed2286d73c,434deb92-213d-454c-ad49-1d4092be6f9c,dc3c7cf7-aba0-40d8-ab93-a6990102718c,Toys,700.77,Bank Transfer,Pending,147.201.114.108,Phoenix,Mobile,1105,No
+01:41.2,031269f2-3818-4148-aea5-f8e976ed8d7d,c1e3a8a4-43b0-4937-840d-826438d033e1,c3e967f7-a005-4f00-b266-26c12d3c2942,Groceries,542.98,Bank Transfer,Completed,7.191.208.113,Chicago,Mobile,2838,No
+19:53.2,def913d0-191c-41d5-92fd-827b1bc74b2f,6bc67caa-03aa-457c-9340-e2f03930485d,e06172d8-305d-4c1d-9c0b-1e0527b8c0e1,Apparel,465,Credit Card,Failed,191.176.5.240,New York,Tablet,1664,Yes
+23:47.3,2ea913ea-cea6-482b-9fe1-1e46773c5d42,60370121-1a8e-4b2b-803e-24edc175abbd,d68e4d2f-190e-4202-abdd-adb416a40137,Electronics,902.86,Bank Transfer,Pending,59.157.168.166,Los Angeles,Mobile,3432,No
+22:02.0,eb5b1fa4-007b-4021-9832-1a2f8a32239d,9ec3b243-e513-4be4-a64d-6bb32d8deb8e,fb7036d2-ea78-4011-a5ed-c891c8dbb775,Electronics,247.96,Debit Card,Completed,219.86.121.228,Chicago,Desktop,740,No
+55:03.4,e189fec8-31c3-4be7-b51e-8bc73ac2d1fc,5a944a45-a810-44bc-b41a-0f72d8c6f10d,a704dedf-4ef2-4e7b-b507-24d4b46b97ee,Electronics,385.6,Debit Card,Completed,3.116.114.88,Chicago,Mobile,1085,No
+00:52.7,51985d5a-c012-48c0-ad1e-4dc29a1b656f,cd7b8da4-2458-47b5-a71c-3aa45dbe7172,89cec6fc-3c63-4131-a9d3-ce35b182c6f9,Groceries,727.63,Debit Card,Completed,156.21.176.165,Los Angeles,Desktop,219,Yes
+26:04.2,154d39ae-6c3d-48dc-bec9-bbc7d5748995,05b5345d-2d45-4c09-94ad-703b2f956d58,a481f654-ccb7-4ed9-83ac-db577000611d,Toys,980.3,Debit Card,Completed,158.198.105.1,Houston,Tablet,1775,No
+55:43.6,ca60e8df-9ce6-4a1a-828d-93583c13537e,c26b7126-bd21-4465-8883-253260910e3e,2526799f-206e-4551-9d9c-e1c0a34f23b8,Toys,672.01,Bank Transfer,Failed,128.234.185.75,Phoenix,Desktop,2861,Yes
+29:55.3,ea7e2d5e-c8ab-45b7-ba5b-e2692c2baa0e,8aca6269-b488-4562-a613-5cca1abb90cb,fc0b6aaf-a58a-4de4-b750-6bdf42535b91,Furniture,923.14,Bank Transfer,Completed,145.228.103.219,Los Angeles,Tablet,1343,No
+12:43.1,57102f31-428b-4732-9194-205425615e38,e25cbc27-a4b5-49f7-8231-6473f35a937c,d93d4e3c-dd95-4b2d-8803-e3ffed907d87,Electronics,166.79,Credit Card,Pending,72.18.217.162,Houston,Tablet,212,No
+14:42.4,ec711d41-f7d0-472c-b492-2605e67c02d1,e76c31fe-f77a-4b9e-a418-6dbe24fb99aa,4ac75e07-2a21-4183-91d6-1926b629150c,Groceries,237.16,Credit Card,Completed,191.230.210.191,Los Angeles,Tablet,2850,Yes
+57:49.1,974ceb14-635b-476b-b442-77d5db7d3f51,71c0a14f-251b-4928-ba0b-660d61e4ed89,cfef0a75-1527-4523-801e-d0037af27cf3,Electronics,677.19,Credit Card,Pending,31.252.29.254,Los Angeles,Desktop,3200,Yes
+15:15.5,a1ef7d71-6597-4b4f-a6eb-0b547ea5aec5,a040335c-5c4c-45b7-ac90-57707862e1fd,296ced6f-d538-425e-94e3-2b17cb7250bd,Groceries,666.75,Bank Transfer,Failed,49.195.148.134,Phoenix,Mobile,254,Yes
+04:46.8,1d2fd6b7-c87a-4c7a-9e73-8fd126bc1ba3,fe1b43f3-d6f9-4f3f-a24d-52e85e8c14ad,74fce361-d71e-4b3f-81b6-31b638583ad9,Groceries,292.04,Bank Transfer,Pending,11.181.240.11,Los Angeles,Mobile,2432,Yes
+21:19.9,45e4a62b-9484-483d-aa0a-b61a14ccbbf6,03dcc6cc-2041-42fa-8fb4-a3add9b9fb14,f1486e08-fda6-4bc5-90ca-b2f743c55b53,Groceries,989.72,PayPal,Completed,87.115.53.11,New York,Desktop,3457,No
+13:14.5,69c4eb80-b82c-4862-a8a7-fdd9188f0ea1,a74a17ad-ddd3-49c5-b52f-b3e871973f5e,fcdbcfc6-6e61-4899-b22a-ceda1153149e,Groceries,204.12,Debit Card,Completed,118.211.100.65,New York,Desktop,2174,No
+32:16.1,437c8a68-0ee1-4b23-b151-d830bdd567ee,e68d89dc-f403-4d53-a3c5-1ab5ee0d58f4,7d14c814-46ff-45af-ade1-a0bffdf27c89,Electronics,663.63,Credit Card,Failed,183.109.51.206,Houston,Mobile,2967,No
+35:33.0,3d256585-bf37-47f4-8588-352c7a6fe4a0,4e6623e5-113f-4ccd-881c-4225cec8d461,e1a61cbc-5fc6-4e0a-ac83-e79fe97a7ba1,Furniture,830.98,Bank Transfer,Pending,9.29.108.189,Los Angeles,Desktop,2463,No
+13:03.2,c4446c19-fa35-4240-8c60-5b6e084ef01f,531505dd-c851-4a8f-8113-98db367deee0,1f121799-c587-4a90-aa10-ed95402e9fd3,Electronics,451.31,PayPal,Pending,200.41.46.166,New York,Mobile,2758,No
+53:06.8,1232420b-442b-450f-9003-ce585758b670,79f2a8d1-04e3-41b9-b6d0-c490cc7f42e5,25a92cad-86aa-4e57-8473-d6bd116bc775,Apparel,433.55,Bank Transfer,Failed,4.235.80.182,New York,Desktop,1871,Yes
+17:41.3,d42050aa-9a6f-4914-b42b-85f37f43d4cb,9449c70b-3fa6-4949-8b76-fd0e82fa6fb1,8d20ef0c-3d16-4f64-bf39-e2b6e66797d1,Toys,301.92,Credit Card,Failed,137.124.12.66,Chicago,Mobile,2884,No
+09:48.4,75798f1b-a22d-4862-810d-8aa09c249b37,ba455c3d-ba45-47e1-8a72-d11a7a4fe1ba,ff6f3b63-8d3b-4fc3-a651-7d020bc16606,Apparel,673.66,PayPal,Completed,44.16.16.6,Houston,Tablet,2979,Yes
+29:01.1,5bf86e1d-21f7-4d6f-bd25-419a5d966cd5,3e37db51-aca5-4623-8804-8a4346fa96ae,1ded8f31-200b-4052-b89f-9235278659d7,Groceries,587.34,Debit Card,Failed,98.171.53.6,Phoenix,Tablet,1088,Yes
+35:03.2,0d5c93ad-6e24-4a82-adaf-d6ac8194f209,8ecd9dd8-1555-4e26-b21e-1431b0e7ab06,298e8c5c-3d40-4c8c-b48b-ca084c09b426,Apparel,57.89,Bank Transfer,Failed,67.99.180.6,Los Angeles,Tablet,1727,No
+20:24.5,d0cdf989-346c-4388-a451-0abc8490ca34,58002165-20ef-4764-af0f-da4a4e6f2aa1,01f501d8-e0cb-44d2-890c-751c36b6fd73,Furniture,173.72,Debit Card,Completed,162.127.140.193,Chicago,Mobile,1386,Yes
+48:57.7,de0586a4-d61b-4538-9953-2074449639c3,a3f7fdc2-04c0-480b-b0ad-9739a378e248,c12706cb-f79d-4fcf-8c73-842949b00158,Toys,120.8,Debit Card,Failed,62.238.198.22,New York,Mobile,1089,Yes
+45:45.0,18523ee6-25a3-4bdf-a5a6-69c2a2b46e42,75c886ff-42f2-4c10-bb14-ed70ea0f21c5,0ec43860-376b-433c-88a8-6779c842d2dc,Furniture,561.91,Debit Card,Failed,111.150.43.170,Los Angeles,Tablet,1111,Yes
+15:13.1,612eb698-2b7c-4fa0-aa32-06dc0694c982,d124c00d-28fa-45c5-a501-a0cda08621d7,524bb747-0dee-4277-ab1d-ad6c1c672982,Apparel,71.6,Debit Card,Pending,98.174.92.55,Phoenix,Tablet,1346,No
+31:35.0,1df7ad5a-084e-42e2-af0b-b518cdb61489,5a9a03e4-2805-43c5-a218-d36b7fc6ba9a,d519b020-88a4-4b93-ac2e-c50421943783,Electronics,683.75,Credit Card,Failed,73.139.58.217,Chicago,Tablet,2762,Yes
+24:40.7,3605919f-cd01-47a1-8039-0d41ddbe0b5d,15143eaf-8f33-454d-9ba1-ee080a05c7e9,49709e3d-152e-4d1b-b35e-ddcedbf6d703,Toys,836.77,PayPal,Failed,49.39.228.205,Chicago,Desktop,1257,No
+56:37.9,e28f4561-5ed3-492b-8b66-bdc2ee82ca47,1c89b02c-b84e-4467-89a7-daa9a8cb1255,4cb55357-9ea4-4927-bd1d-6eb83a794100,Groceries,531.19,Credit Card,Failed,22.95.21.203,Los Angeles,Desktop,3197,No
+02:24.5,611dede5-7c52-4d09-81cf-37d115476af5,20f81833-0b45-4db2-80d1-f523ce50736a,e60e0d09-2e1b-4fd1-93f6-f4fecd956ac8,Toys,280.75,Bank Transfer,Completed,63.58.42.201,New York,Tablet,3122,No
+23:36.3,699797be-5e3e-4100-8cee-2005bd1221a7,c3f9ad7d-fa27-448f-a1fc-6472c8c38d78,95455792-8fe8-4ffc-95b8-7389fb21da83,Furniture,185.33,Debit Card,Pending,116.155.8.29,Houston,Tablet,3452,Yes
+32:29.5,162bbfaa-8934-4fe0-b9b3-cc6fe9a6594c,20f6a445-f515-4442-92ed-e29b8803affd,e68b9389-188f-492e-b20f-265965e0e86b,Furniture,719.4,Credit Card,Failed,24.53.46.58,Houston,Mobile,94,No
+39:02.7,92bb45c6-210e-48c6-99bc-2fdf6f9d78c7,2580b1c7-a33b-411c-a7fa-bc21f1618777,8ca06b87-6a52-471d-a65e-6d25a36135b2,Apparel,115.67,PayPal,Pending,36.69.0.214,Chicago,Desktop,2468,No
+02:16.7,0618045f-5cb0-4994-bbec-fc7adb6e9605,7c82dad0-8eb5-4ba8-9ef5-93d83fe37d8c,2cb191d6-0888-49bc-b86a-78ce721b4239,Furniture,52.69,Credit Card,Pending,48.38.29.65,Phoenix,Mobile,2321,No
+49:03.7,f45303b7-5a27-4583-ad05-88789ee977d6,e913796c-70e2-420c-8531-2e1761605565,bbdca06f-cfae-46f9-a30e-bfc0fef8c556,Toys,943.78,Debit Card,Pending,132.4.96.236,Los Angeles,Desktop,2931,Yes
+13:14.4,f514246e-5266-4788-a451-9b6d8aca4200,06795da0-88bf-4120-a560-00bd7800dd7e,1896e0e5-5a64-49bd-9052-c98cefa0b3a4,Toys,357.85,Credit Card,Failed,91.128.24.249,New York,Tablet,1593,No
+21:13.8,afe5c037-58a3-45d7-a755-0fe2f9760e94,5bf26cb7-a603-4e8b-a5d9-97b908d25a27,9a66f136-ab3c-497d-af0e-8082bd6a4804,Toys,220.09,Debit Card,Failed,153.144.129.6,Chicago,Tablet,2170,No
+01:36.9,6ab8b685-7d05-4ca8-993c-e6a97fa64aca,639aa23a-a132-48a5-b68f-2adf6e13d8a1,9c94e7cc-8812-4874-bcf1-f333d0fd9a81,Toys,310.07,PayPal,Completed,59.17.221.221,Phoenix,Mobile,1788,Yes
+51:15.6,22d07c44-a099-4a1a-8ec0-60dc19df5b30,7c72205e-a670-48de-8f3d-fa88e2f7d7ea,38c68664-3d08-491b-b0bb-01b5cdc10eb8,Groceries,271.94,Bank Transfer,Failed,116.118.190.224,Phoenix,Mobile,2742,No
+09:29.3,f10c123a-70f4-4cf9-8637-85577cf1e2f4,4cd4fa2f-e61f-49a4-9618-46751bde8e35,bee59826-55b7-4759-b274-7488d44ebbab,Furniture,414.44,Bank Transfer,Pending,118.19.156.203,Houston,Mobile,2297,No
+06:20.0,7faa1fdd-48bc-4069-a8ba-a9916259304d,a2ceb017-f636-47fe-9cef-ca6fa49d78e7,04dfdb45-b69e-4790-b44f-6c2bb8fdcd77,Furniture,138.13,PayPal,Pending,173.225.88.228,Houston,Tablet,1798,No
+03:02.9,4776f576-3203-4938-b215-a4a5cc8a4c2c,7a326f08-aaae-431a-b79a-c4ad0ec5da32,6c4ded7b-81dd-42bd-bb70-08f0e3cd94fb,Apparel,422.33,PayPal,Failed,202.207.214.235,Houston,Mobile,506,No
+14:05.9,f2e397f7-2ef1-42e6-8b78-60c353ba7cef,eb267a33-daca-4472-af24-aefbf3fde82d,435fe3d3-1e4b-4955-9e9d-e6fdf378b3fd,Groceries,613.73,PayPal,Failed,24.73.163.202,Chicago,Desktop,1259,Yes
+47:40.7,0643a688-9c23-450a-88ba-399b494f70f9,7d1afe81-f94e-47db-9ec3-6228bdb5c302,7583ffd3-d08e-4f3d-9e5e-2bc668ba4b6d,Toys,696.17,Debit Card,Failed,68.3.96.90,Chicago,Mobile,873,Yes
+37:12.2,83ef3445-ab91-433b-a671-a3b25cb64a55,e343a3bd-0c89-42ff-a300-824020e8e79e,48b92892-0179-41bf-9e33-bd40e087c13a,Groceries,768.9,Debit Card,Completed,220.61.195.133,New York,Mobile,749,No
+41:17.6,2e99a4c6-a94a-40c1-9f52-4d6e4c3fca90,0d6b07a3-c875-4a09-8856-772d984860d6,aed8f0ba-05b0-4ba7-8c3e-8850889d1916,Groceries,153.78,Bank Transfer,Pending,146.183.155.133,New York,Tablet,1404,Yes
+59:32.8,71859996-1230-4c3e-af43-b1871ef645e6,cb6b76ce-2602-4164-8a2c-e95f7eec1db0,01fdd6bf-7999-41e8-91de-de1dbb6bc76e,Toys,756.52,Debit Card,Failed,44.93.193.181,Houston,Tablet,1809,No
+46:52.9,4c803244-7a8f-4eb5-a8cf-fc1e9982c964,5f2ed173-e79b-4380-8e07-7ee2331218eb,025a6d81-3d0e-40ec-aa25-49dd6c137093,Apparel,640.49,PayPal,Pending,168.227.183.198,Los Angeles,Tablet,704,Yes
+45:47.1,4ee75ae0-ed9f-4330-a48e-a3b34e3c04ef,b44ed92f-e839-44b8-b427-5df4df24ba5c,7a2f96a7-0129-4389-a824-806cd4ca4f8c,Apparel,380.9,Debit Card,Pending,98.8.97.255,Houston,Desktop,2702,No
+47:36.4,6c63efd1-ccf1-4b85-b0c0-f7c7be85e001,68aacf5d-79eb-4ed3-93f2-43def009fd66,3bec2278-9d20-4741-b72c-0bc003bb5dff,Groceries,49.72,Debit Card,Completed,166.37.252.143,Chicago,Tablet,2846,No
+46:26.7,ade51201-0a9a-4229-b4df-b7d66c20879c,b3fec4fd-376d-4e32-8796-ce8552dad0cb,c5e1b263-89ba-43e8-b868-a50820347b1d,Apparel,772.55,Credit Card,Failed,59.239.83.149,Houston,Desktop,1670,No
+32:40.8,d2ff2766-8acf-47a9-9e9a-b8350d65206c,adbac87b-9e2e-47d3-8705-461861e17aa8,7d8c6138-6570-4778-b0db-372b3aa29e89,Apparel,481.32,PayPal,Pending,53.160.54.81,Houston,Mobile,510,No
+14:53.0,f910b188-15d2-4d77-b34d-88e66c8c0590,f3ea2c71-8c3d-49a5-817a-9d7b7fa74b8a,01e63b91-2dbe-44eb-8f70-03d7ab75609e,Apparel,650.7,Bank Transfer,Failed,150.19.83.17,Phoenix,Mobile,478,No
+21:48.8,33230287-1aca-4461-b495-5ac726c9e14b,586649ae-06c4-4d3a-87da-f5c6a5df0c9a,9492a7b8-f11d-412b-b45e-f40032d5767b,Electronics,32.99,Credit Card,Failed,161.42.101.248,New York,Mobile,969,Yes
+58:38.3,93a75457-ccf7-451b-8063-7589dcf56f87,ff1bda2d-445b-464e-b65a-984c5fd39238,863fc675-02f4-423a-8d1d-9edabe1353dc,Apparel,114.92,Bank Transfer,Pending,108.254.129.110,Chicago,Mobile,919,Yes
+23:33.8,cffabfa6-1743-47d6-b354-7aaa3d68131b,22fa162d-edd3-4f27-a52c-8cafde2e9894,e44e519e-4caa-4e88-a390-d3c86b0bc6c0,Toys,775.43,Bank Transfer,Failed,7.186.126.189,Chicago,Tablet,155,No
+54:47.3,408609e4-f3aa-4ff3-85ba-1b6c6a40cd7b,f93f921d-6cf5-4564-b510-959d4c759835,b23d434b-37c0-49d4-8bfc-e450bc8b0415,Toys,932.33,Credit Card,Failed,136.152.146.50,Houston,Desktop,652,Yes
+43:57.6,fa892aaf-1ab4-4a8b-80b4-d89838ef893b,dd37f269-9b5a-4a68-8f58-fdaba5263291,6ce1404d-e24d-4997-a73d-7b89c9423fc9,Apparel,503.81,Credit Card,Pending,114.159.208.69,Houston,Mobile,2750,No
+36:27.9,2885dba9-167c-4a08-9de7-fd242088ed24,213fb028-39c8-458f-92f4-64db3e136e22,e80784c1-2eb7-4f72-b700-8e8f8dc39875,Toys,697.7,PayPal,Completed,52.18.26.172,Los Angeles,Mobile,3115,No
+01:56.1,86370d29-1b92-4a0b-a2ae-c7014cd9e908,6b6be664-51f1-4ecf-8385-92fbaf982de9,88c35dfe-9669-4418-ba85-4062cf838c65,Toys,811.45,Debit Card,Failed,81.0.174.163,Houston,Tablet,807,No
+08:11.0,2f11fae9-0215-43fd-b9a1-1c0011064c8f,ec111ffc-4e78-47d3-bdbb-29cce0489ff1,e94d1393-57b9-4e9d-80d5-a39a2aadfe18,Apparel,476.57,PayPal,Failed,161.236.83.135,Houston,Desktop,878,No
+57:19.9,c174babd-b73c-4f96-afbe-81b68d002054,c1a1525c-63d0-4cec-8089-45b579bab1b3,11188848-3634-44e4-b225-6c4d9391f319,Apparel,541.15,Debit Card,Failed,192.24.140.117,Los Angeles,Tablet,1638,No
+00:58.7,afaa410e-5b16-4480-aba0-f8d1196bf736,1680d502-19a7-4378-bc02-dc08430c76a9,8ce0b743-75ca-4caa-869e-205264f662ab,Groceries,497.1,Credit Card,Failed,118.222.74.34,Los Angeles,Mobile,2835,Yes
+28:04.7,b11f526d-3cc0-4c91-9c1f-38e01bc6776c,d74e8d55-bf8f-4688-99cf-331e2659038a,c23faad2-76a2-4028-b771-46b121ff3986,Electronics,847.52,Debit Card,Pending,65.176.110.75,Houston,Desktop,950,No
+04:35.3,237541b2-8a96-4447-9ffb-c0c7c026b752,ddcadd79-b0e1-4ab9-9743-78a3a0d30c57,1598a019-38f7-4cc4-934f-09b5a7ffe7b8,Electronics,418.38,Credit Card,Failed,136.21.191.41,Houston,Desktop,2441,Yes
+08:06.1,2a12f880-b9b6-4b8a-8270-5773aff38bd1,dc6a8a69-7ced-4408-8158-b5bf38e1d876,20e4bd87-b2c5-48b1-bd21-044352b7c9cd,Apparel,86.31,Credit Card,Pending,58.27.78.56,Phoenix,Desktop,3508,Yes
+50:30.0,ccbf5ac1-44dd-434b-bdf2-cb157ee98888,b26b17eb-ab81-4bc5-b583-be4bae24fc04,2eb97d94-909e-4aff-94f6-d4723d977afd,Furniture,241.11,Credit Card,Failed,146.46.187.203,New York,Desktop,2143,Yes
+54:06.6,f7235ae8-2eb7-4943-83ba-6715c44f2c55,ab0192c2-9a63-450f-a2b3-356043cf0310,142efb50-19db-4687-9b32-5601b23ff38e,Toys,734.25,Debit Card,Completed,119.21.82.223,Phoenix,Desktop,1570,Yes
+23:35.6,481cb13b-05c3-4190-b5d3-052a48f8bf4f,a02fe13c-8f5c-49e1-be85-6c094bc96b0a,ae3af05e-e361-4d43-bfdd-a05ec14f913b,Toys,817.72,PayPal,Pending,191.35.202.35,Los Angeles,Mobile,2948,Yes
+30:21.7,bfb5af6c-3124-4a19-8806-943f6f323e0e,7b0cf7d6-aa2a-48bd-be69-01c3e8c4def3,b36f40d5-9799-4dfe-bcf9-5990c30de48e,Electronics,841.84,Bank Transfer,Pending,185.6.228.117,Houston,Mobile,3416,No
+04:09.2,296a6e71-d344-4ac1-b947-cbdcef82c30a,568e72ab-6e0b-460d-b946-7b33274eae79,1cdab72f-f96a-4223-b49a-1c70349cab55,Toys,963.28,Debit Card,Failed,21.168.141.40,Chicago,Desktop,3193,No
+14:24.0,939e6ff2-7e0a-4a05-b837-46968758891c,3dff7dea-882e-47ff-80a4-9a56347d590e,2708ebdb-aa8f-41dd-bf5d-06ac79a9246f,Electronics,911.72,Debit Card,Pending,92.249.174.215,Los Angeles,Desktop,3142,No
+55:34.8,30f1c2fe-a901-42d4-b62e-2412616d5c91,26d18704-1d22-4911-a35b-5cf02b318e46,b4ec234b-7fc2-444c-a0d0-40e906a2e2de,Electronics,533.7,PayPal,Failed,18.251.90.124,Houston,Tablet,2195,Yes
+42:53.6,cdbc1f24-1452-45cf-ad57-253d4d9f0a81,1bc79296-8e07-40db-b1b4-1ef0d79937d6,f4eb4519-6c20-4f6a-8c68-199379002703,Furniture,113.37,Debit Card,Pending,13.33.192.247,Phoenix,Tablet,693,Yes
+41:31.0,a2ffd691-c072-4807-97a7-ce6b30a693f9,8447ac02-2f6e-47ec-8aaa-22a4de31ab37,d9091a29-8dc5-471d-9ecc-734f390481df,Furniture,714.37,PayPal,Failed,138.15.196.41,Chicago,Tablet,1119,No
+08:16.5,7aa4efde-d976-47a1-9561-664b78e111ab,5fb13fdb-2dea-420e-8c0f-e34ffb4e259e,4241d0f7-d025-423f-a74f-00a6adc84b61,Furniture,615.09,Debit Card,Failed,120.207.163.99,Phoenix,Tablet,2127,No
+44:40.7,d14b1b3d-f0e8-45dc-b51f-e28afa384cc1,93debfa4-79f8-436e-b179-a442ef604c01,436defc3-8244-4c74-bf26-60beec6d1b78,Groceries,512.51,PayPal,Completed,150.208.177.105,Houston,Tablet,1228,Yes
+00:02.3,5a2a3535-d734-422c-adbd-78058269da10,2711c170-2201-44da-8e7d-82d415a63136,22410669-4b12-41d4-9b01-43b29ea90b19,Groceries,950.6,PayPal,Completed,212.47.236.135,Phoenix,Tablet,2764,No
+53:28.5,60bd4867-803e-4c5f-8b77-3063f5955e40,93aca085-d6f9-4d99-9be2-1fbe5c07fb2b,37e5d234-53a9-4c51-8843-9a5f9463d0cc,Electronics,782.38,Credit Card,Pending,163.156.65.38,Phoenix,Tablet,724,No
+22:35.6,10a52f08-af7c-4ef6-b032-d1d981ee7ab5,b752d894-8ea2-4976-9734-06ebd2d2f2d0,4d53ee73-b82e-44be-9a07-6e55f1de1393,Furniture,745.84,PayPal,Pending,220.50.251.54,Houston,Tablet,3366,No
+55:47.1,6de5139b-1c86-4be7-97ef-85cde52e4c09,2a8c06d4-e527-4168-91d7-cb1b8351690e,304ffe26-0c85-4aa1-9684-5a11e691b033,Electronics,408.62,Bank Transfer,Pending,51.81.234.243,Los Angeles,Desktop,2276,Yes
+47:03.4,4feec4bf-b194-4727-a6ef-718609933e63,e9d679a9-5ac0-44ac-9de2-ca833f90b490,24207c40-c679-441d-9e32-0f1673cc1c43,Toys,562.06,PayPal,Completed,113.148.229.3,New York,Tablet,3262,Yes
+19:42.9,fcf0409f-7d05-45f2-9d7a-7141f16df3b9,ef228e38-a902-4aa7-9c65-eb4ef9a6464b,0c550682-6b8d-4900-b89a-f4e441ecbe61,Toys,201.07,Bank Transfer,Pending,170.55.144.80,Chicago,Desktop,1864,No
+53:10.4,4e60a170-252e-42fe-994f-5a35215381f6,da9b9438-020e-4f5b-843d-e6b611e81eee,65e1f52e-bf49-4bf4-8c4e-8b64a2bde2af,Toys,674.48,Bank Transfer,Pending,89.124.215.104,New York,Tablet,850,No
+59:48.2,0bc3f0b9-53a3-464f-a534-83a74a59b211,daf0fa35-cbac-4ab6-ba01-c9460966dd7b,f8eb6f22-5774-4bec-b91b-f3b9c642dde6,Electronics,363.81,Bank Transfer,Failed,68.206.210.206,Houston,Tablet,3412,Yes
+20:07.8,24bda7f0-49f1-4988-9505-1b3f6bb5a3fe,c58a48b6-6fa4-4517-b5d4-e7444c3b71aa,52ee619e-cf43-4fd3-a568-9267eb497564,Apparel,290.8,Bank Transfer,Failed,16.7.6.16,New York,Mobile,682,Yes
+05:07.9,34f82990-1366-4746-8543-f978b630c8b0,cf28662e-d584-4217-ba02-e3b1b14dab0b,1d6b7494-19ab-4c1a-9805-110fde76bbc7,Furniture,176.97,Bank Transfer,Failed,57.160.29.46,Phoenix,Mobile,883,Yes
+30:31.9,daaa9cf7-c553-46f2-a0e1-a7794f180e94,bf867db3-851b-4980-a6f7-b711d226633f,cd730d3f-754d-47fa-b125-c0e0f9ab2a3e,Furniture,556.79,PayPal,Completed,57.23.214.233,Phoenix,Tablet,376,No
+15:35.4,78a0f1bb-6d01-43ec-94fb-304bbbd637be,4ee95797-a367-4f29-9406-f64317603310,febfe4a0-de53-4126-8238-8ef3b6d7b47c,Groceries,325.72,Credit Card,Completed,46.91.179.51,Chicago,Mobile,3474,Yes
+36:11.1,00512d92-787c-41d9-a97a-464612c87e49,1c1931d6-0a08-4f10-989c-082991ae0cde,e935f362-f159-4af4-ba02-0a9e76659de4,Electronics,212.24,Debit Card,Completed,49.240.19.254,Los Angeles,Mobile,1674,No
+35:44.9,3126ef2e-6849-4b87-a7cd-04b3aa0d064b,899a6c9d-f094-4e7f-b601-1b8f60e1262d,3e200376-9d8c-42ff-b92d-d16d55fa4da6,Furniture,801.81,Debit Card,Completed,52.204.168.100,Chicago,Mobile,3366,Yes
+49:22.3,4afa866c-b870-4add-846b-c9d793b67875,fdd17f60-1685-4795-9e67-add20ce8ce78,eeba060e-2a86-4c84-94a3-74be7899a943,Electronics,885.29,Bank Transfer,Failed,49.9.95.179,Los Angeles,Mobile,2888,Yes
+42:45.0,ff886d2f-edbe-4049-9184-736e9734d350,f1558b99-5380-45ac-a8f1-df8ca7ce68a0,8f31c9d3-dfce-48f5-ac9f-1f38d911a903,Apparel,778.95,Bank Transfer,Completed,203.35.183.208,Chicago,Desktop,985,Yes
+07:24.6,14ecf03d-bbea-4297-bea8-08d8ae34d3ac,9e317af6-d9f3-45d6-aa4c-ce89cff52581,89296ff8-3e53-4d0f-b6a7-846bd8b4e4a6,Apparel,456.31,Bank Transfer,Completed,170.147.204.213,Chicago,Tablet,3130,Yes
+44:28.7,4e2a914c-dfd1-4d25-a7b7-9b89a1512fb1,5329a895-caab-4257-868a-52b8ff9b0989,a6f613a9-116f-496a-9429-2aa9b70b3c9f,Apparel,616.11,Credit Card,Completed,65.20.28.231,Houston,Tablet,3107,Yes
+02:22.1,22a6d346-fbb3-4990-9794-1a9b5c3c3821,e6f81280-544f-497a-9c73-9e35682793a1,1b2c9610-7144-419e-bbe9-36212efe815b,Apparel,865.81,PayPal,Completed,85.175.254.207,Chicago,Desktop,1328,No
+27:22.8,25db0f77-f5de-4918-9e74-839e782fef10,fbf03838-d93e-4e8a-b5c7-35d6d5011b63,5aa5eb98-114c-4c77-b459-f9658ecbff68,Furniture,99.72,Debit Card,Pending,51.218.234.235,Phoenix,Desktop,3550,No
+17:09.3,e817d25a-9d58-46f2-893d-58e2c102a203,3b9a9ea3-d480-4f1a-a330-fa3890285661,3adc1bb4-7c9b-43ec-baf2-f5eff6b9f240,Furniture,739.05,Debit Card,Failed,160.135.201.118,Houston,Tablet,1730,Yes
+26:43.2,cbecc1d4-51c5-415a-b681-037f3d8f4087,2012121d-8d97-47ca-9dd3-8f72ce6c1bda,d3c479f9-7af2-46df-afeb-2bbc28cba9ce,Electronics,503.09,Debit Card,Completed,78.138.171.14,Los Angeles,Desktop,838,Yes
+28:52.8,162f6099-1bda-4fc9-99c5-343f3821e7be,c9305ebb-c10b-4ef3-88ad-99fab459dd98,520a76dc-2812-4971-9836-d16908a846ae,Electronics,601.66,Bank Transfer,Completed,98.74.157.30,Los Angeles,Desktop,3211,No
+08:38.9,abc241e9-d440-4c8e-9cdb-1271ba9d9a0c,8c9a4edf-df75-4dae-8fcd-2e577d9c411c,18364b8c-3c69-4eb0-aaf7-b8c53db7427c,Electronics,75.15,Credit Card,Pending,50.85.102.195,New York,Tablet,2483,No
+56:15.1,6e2f3ac8-c7dd-4266-ac83-f49e050db36a,f28d083c-3082-4bd6-9e8c-89283c8fded9,50ac42f9-953b-4926-86d4-9737cc480acd,Toys,210.42,Bank Transfer,Pending,181.6.135.22,Los Angeles,Desktop,1801,Yes
+48:28.4,282d1fe5-6915-4373-9870-9579429b7fec,1bd6b4d1-f794-4623-b5b8-1716d31b40f7,382fa962-5fa7-4584-9619-699bd81d14d7,Furniture,859.41,Bank Transfer,Pending,202.227.132.16,New York,Desktop,3090,Yes
+29:46.6,33d51329-8374-4b8b-aa70-55ff35c23177,874105b4-055a-47ef-b548-b8cef8f0cf19,016f0016-d68b-422f-9195-8b70a5e814d6,Toys,867.16,Credit Card,Completed,196.145.163.210,Houston,Mobile,3370,No
+01:36.1,f4215142-80b0-4441-b7c9-22737542fb04,aaf4122e-b9d0-4a30-bfd2-c355a8d9387c,8cf1c681-1620-465e-8143-2de4a45c0d9c,Electronics,507.21,Debit Card,Completed,136.157.242.147,Los Angeles,Tablet,2552,Yes
+31:48.9,0bfb5505-004b-46f6-9b08-077d66a8d2fe,dbedbfcd-fa6e-4a2a-ab79-41e074880236,e150d482-be20-4e3e-bd1b-7c4256121733,Groceries,713.28,Debit Card,Failed,193.32.39.143,New York,Tablet,994,No
+17:18.4,b58cf5ab-f51d-44f0-854b-422c451e31c6,ef204750-187f-4b60-a0ad-1543bcf123dc,960c2280-710f-4477-a8af-8fab0be44496,Groceries,447.34,Bank Transfer,Failed,30.30.143.105,Chicago,Mobile,1307,Yes
+50:33.4,6ff43c82-60a9-4310-a2cb-69b8b8c82f80,897f74be-4833-489e-bd3f-c1ded98b9436,7a54cf94-906d-4d61-a452-bc2bf06e2870,Electronics,380.53,Bank Transfer,Failed,21.231.188.200,Houston,Mobile,3562,No
+08:29.4,167f33f1-4b3e-41e7-9083-9cc2771e1912,d4f85b91-599f-496d-887c-013057d17709,4be18862-d1f5-4e87-9798-700c45e9468d,Furniture,16.94,Bank Transfer,Failed,90.107.253.210,Houston,Mobile,3136,Yes
+33:52.7,3570d222-df0e-48e7-9bbe-0c0e2e57dec8,10a646f2-5bb6-4d74-85cb-7f00b3854cd1,89408534-3fc1-4c9b-a94b-1eedd40e9852,Electronics,233.14,Credit Card,Pending,88.34.46.158,Chicago,Tablet,2550,No
+22:05.3,413c9836-a052-478e-943e-433a04f0e0c3,ba7899c5-7d20-4417-a5a7-9b941b8b8d7a,a443fa61-12c6-49cc-973b-8ddfcba3d6ff,Apparel,224.68,PayPal,Failed,75.193.53.152,New York,Mobile,79,Yes
+16:47.9,4a25025a-1aed-4c81-bfae-a5f38c859b96,976b3a27-b71c-474a-bd77-e1123e343478,18a99a0d-383b-4fbd-9874-ed7a86a8b2bb,Electronics,666.11,Bank Transfer,Pending,150.159.180.131,Phoenix,Tablet,3034,No
+24:57.2,edcf3c74-349f-41a3-a3de-9490c2b70c08,dacdb667-637e-48a4-97b3-f4808d28dbb9,2084d7e7-af14-4fc0-a659-5c4dbc95d3ae,Electronics,594.58,Debit Card,Pending,161.65.59.74,Phoenix,Tablet,800,Yes
+20:05.9,52860b34-b07b-4931-82dd-8ef7ef40d21f,c923a742-0370-4015-9cdf-da0cda7f2e40,5a33c220-b2e1-4865-8b79-ba1a9ba964e8,Apparel,198.48,Debit Card,Completed,2.14.5.77,Los Angeles,Desktop,1314,Yes
+13:28.9,e417243c-8fc6-45c7-a723-0db81451aaf1,da991d58-8a71-45c0-b49b-86a734973827,ad1fccd9-1b98-4735-8919-2c386565802a,Furniture,955.01,Credit Card,Completed,51.0.151.50,Houston,Tablet,869,Yes
+49:02.8,1d5949fa-d765-4ed5-899f-c4ed61861e85,7b11b167-3c8c-43da-b4a8-f914a984a10f,f7bad41a-1d9e-44e3-a478-dea559a55629,Furniture,395.51,Bank Transfer,Failed,78.100.209.85,Chicago,Tablet,535,Yes
+01:21.6,d2de336a-5cb8-4ff3-a649-4752e48100d1,8353cbe1-35b3-4fb6-8490-0fa394ec1143,2fd40c79-7838-486a-aef4-be73a118cb29,Electronics,455.2,Credit Card,Pending,165.84.149.73,New York,Mobile,689,No
+46:35.2,d2482ca3-d49d-4074-b322-8fdb75243798,7de03c1b-e529-4ba1-93a3-9066e65ffb39,8f944657-7d51-40d1-8457-82b1139d51b5,Electronics,144.63,Debit Card,Pending,167.219.13.156,New York,Tablet,2295,Yes
+19:42.4,0c1bfd89-274d-4071-a0b3-68a71efebf2a,683cb98a-7774-487a-94da-a03d2e880a40,39f8b3c3-1252-4e0a-a61b-4b4458abe91e,Furniture,602.84,Bank Transfer,Completed,142.8.78.220,Houston,Mobile,1827,Yes
+58:39.3,7e06d776-61a4-404f-85d3-25d93be2b409,5bfbefe9-631f-427a-8ed5-5c4e3ce3e66e,614ccd30-559c-47a5-a075-3659e7a85e86,Electronics,478.94,Bank Transfer,Failed,17.200.198.12,New York,Mobile,277,No
+46:24.4,2c1649c8-4ecd-4af3-adc3-8669ef9f7424,6c34ae5f-d09b-4638-83e0-59c81a6dc9ea,14793312-3ed4-437e-b541-c759963e66ca,Furniture,104.69,Credit Card,Failed,132.195.52.134,Phoenix,Tablet,525,No
+31:48.5,81dc2200-22cb-4fdf-b1b0-53321f9aa71c,9c4f4422-d8fb-4e89-9d99-826271f2e061,47eaf5fb-107a-4394-8845-36134b400d01,Toys,34.36,Credit Card,Completed,157.219.255.195,New York,Desktop,497,Yes
+08:35.6,2bc6cf62-4cb4-4db8-9d52-0737223af603,74a8e829-f3a0-4814-b34a-7dadbf17bec0,228d26e9-6b73-467d-bc2e-247e6389f0c8,Groceries,406.13,Credit Card,Pending,105.90.158.61,Phoenix,Desktop,1454,Yes
+01:29.4,01176815-1d85-4fe3-9803-ef21d1461a08,6ed41933-a931-4df6-a30c-a5e50c39e75c,cff61d76-d3e3-4c17-b19f-3ea54fc0b688,Furniture,767.2,Bank Transfer,Completed,55.199.221.47,Chicago,Desktop,2867,No
+25:00.9,74e58ae3-93bb-4970-82f0-34c62d22e6e5,25a1d984-7986-4a02-b5b5-eedaea84cdff,891c8e93-7fb1-4e82-b6ef-40e1c60b7e17,Electronics,52.96,Credit Card,Completed,7.210.157.121,Houston,Mobile,1873,No
+24:46.3,db45a920-40dd-40c4-8b5e-cf9454d4ffa6,41cfcb25-6a9f-4ac9-881d-dacdee6d41ee,041122ae-d109-4a71-a28c-5e65f72d6d6d,Electronics,455.49,Credit Card,Completed,41.21.4.114,New York,Desktop,3523,Yes
+37:07.9,071c2fb6-0900-4ce7-b7ff-591c6b2ddab7,fb12d409-26d8-43ca-8887-4a3f6c064745,23ca0d24-942d-4436-b9e8-4be3283a1e02,Electronics,862.73,Bank Transfer,Pending,165.233.165.130,Houston,Desktop,2399,Yes
+46:02.7,e87a78e6-9966-400e-8947-f6607ed7c486,57634bf9-a18f-413b-aad0-cff7db10b01e,1d842095-0fcc-46cd-a431-c0744bb4404f,Apparel,463.35,Bank Transfer,Completed,80.250.122.108,Los Angeles,Tablet,2168,Yes
+32:28.2,4b808737-0a76-43aa-a133-4e2496e4a2d4,25be111c-e24b-4705-a101-86cb8310afd1,eece7030-13e4-4716-bf5a-b9104e055213,Electronics,905.07,PayPal,Pending,204.131.254.102,Houston,Mobile,2376,Yes
+17:28.2,7b34a4b0-ab73-4fb4-b804-8f47cc4f41c3,b030df1c-e108-4586-bdbe-e391ecb2d241,426ffaab-87c7-4cf9-aec4-ce5e77829fda,Groceries,896.7,Bank Transfer,Completed,214.166.73.208,Houston,Tablet,465,No
+04:13.2,76d83003-ef64-4168-8372-53d0f281206e,17ca2a91-8047-49ee-b839-5a4a50bbf668,cc72b79e-2bb0-499d-a0f1-1cc1040cbd3a,Furniture,254.99,Bank Transfer,Failed,111.27.2.118,Chicago,Mobile,3598,Yes
+52:23.1,6113bf2d-fc1b-468f-9a13-7d98c29726d6,716fcc41-cc06-4127-987c-4b635048fe11,ec0fa7f6-e3f9-4cc1-b8b8-26d53e7bba6e,Electronics,918.72,Debit Card,Failed,162.10.68.107,Chicago,Tablet,2892,Yes
+10:27.5,0ddfe5bf-dd28-4aa0-9dea-1e6299090fb6,8c75c979-74bf-4434-b418-583aab963c8c,d6c4cbc2-f997-4d48-8d72-ac7e7f03d3e7,Furniture,947.81,Debit Card,Completed,4.207.156.186,Chicago,Desktop,3172,No
+54:30.1,04b998a7-7ae2-4a0b-95de-2b2f27895b78,bad08bc7-e0ea-4ed9-a5c6-d6cab8a3b236,ee5245dd-32d2-4595-bc0e-fa75588146a8,Apparel,577.99,PayPal,Failed,95.227.5.84,Los Angeles,Desktop,228,Yes
+13:15.1,033f9d0c-0957-44b3-b756-ec30b69f087d,bf32ef62-c861-4421-97ef-2b4bf3a2f532,1e5d7198-14f8-414e-88bf-53f49c0ec6b2,Furniture,470.25,PayPal,Failed,194.183.18.1,Phoenix,Desktop,2640,No
+50:51.0,480daf89-e943-4033-b94d-113b8f62d0f8,e23aa86d-fa0b-4b80-8f74-ad345769dec7,9f91d5eb-aba4-4676-8166-a408e6d93f88,Furniture,135.15,Credit Card,Completed,96.94.155.165,Chicago,Mobile,3071,No
+48:14.5,b3b464b7-100f-4d2c-9294-6543e5c4643b,bfba1f8c-f9aa-4ca1-805f-d0befcc658f6,3e094fa9-262b-484b-ba9a-ade3c71bfd9f,Groceries,309.78,Credit Card,Pending,57.133.212.184,Chicago,Desktop,684,Yes
+09:53.1,4792eba2-01d2-49e5-9454-fc2d92327147,b6bfec2d-bb11-40d4-bc6b-e006ce8f640f,fa9aabe9-3681-4733-ab6a-c872e2514237,Furniture,856.01,Credit Card,Failed,160.119.162.153,Los Angeles,Desktop,2310,No
+34:40.9,a3464b2d-6b27-4718-ac9f-974153356dc5,19f7342d-ec42-4258-a6f5-ee57f25fdc07,6874ce4d-7706-41fb-983e-b38f619496ca,Furniture,437.29,Credit Card,Completed,55.22.143.57,Chicago,Mobile,678,No
+15:36.9,744b3657-b2fc-4a4e-a4fc-642f8a5cc0f0,a7a73d52-c164-4fbd-a216-d1081caf82d9,daaa1577-83f8-41a7-8343-6aaa0fc3c742,Furniture,998.06,PayPal,Failed,171.248.198.127,Phoenix,Mobile,82,No
+49:55.1,4615bf6a-49e8-4415-b5da-3411ac60e679,732fabf9-c003-4959-82f9-15c2b08e2c05,512c1d48-1a99-48ef-a4df-737a298bb70a,Groceries,488.96,PayPal,Pending,172.193.53.196,Chicago,Mobile,3421,Yes
+25:57.6,e7b95c5b-1a2f-4699-9087-d9de5dc10a86,c6f08d36-2b85-480b-8987-da1094b7dd32,a17ae6e0-e3a7-4329-9512-ccf5b7d37096,Electronics,992.84,Bank Transfer,Failed,104.248.91.167,Phoenix,Tablet,1905,Yes
+47:15.4,8e6cdbf7-a7f7-45b4-ac18-47c7ac5ad0b8,70cb5c11-ad31-4823-8042-83e69d93360d,d561b35a-87b8-4972-8568-30996fbd216f,Furniture,328.52,PayPal,Failed,97.15.89.40,Chicago,Mobile,2502,Yes
+41:29.8,cc9b4c4f-1626-40c4-8462-ef132f746beb,6b854b1c-5596-4860-afc6-6e1c19076da0,590bbeb8-378b-46a0-baa5-274105a0e34d,Electronics,899.92,Bank Transfer,Completed,108.70.188.19,Chicago,Desktop,2937,Yes
+44:17.0,79a2b322-14b1-4e82-93d8-035316cf887c,742903e4-10ab-4071-9605-21e179b22464,87a9fdf1-e382-468b-8e23-cd94bdc9d861,Apparel,924.02,Credit Card,Completed,184.182.69.231,Houston,Mobile,304,No
+18:46.1,867093ad-76d8-45aa-9d6d-9b4d89be483f,a178b48c-8470-48c3-84b9-e03b303e2539,b132ed6c-d958-4468-b596-3a59e99d5f80,Toys,260.27,Credit Card,Failed,95.14.3.40,Los Angeles,Desktop,189,No
+38:01.7,806b617c-2385-4dc2-bbcc-f5f909f4de19,098191f8-0eea-4d49-8ab1-70b84b0656a3,a3adcce8-833a-483b-ac3d-fcb6e9a51be9,Furniture,609.78,Credit Card,Pending,9.150.255.195,New York,Tablet,1595,No
+08:29.8,9c261309-9d3a-4a36-9a92-eb6a197774f0,ec77bf14-eadd-4e92-8a38-f72e4ab1ee93,58e1282d-3dbe-4e0d-b972-515b73737f58,Furniture,27.33,PayPal,Completed,189.157.43.231,New York,Tablet,3057,Yes
+37:37.2,f0598380-af21-41da-afa1-309d26f0f144,a7f5a645-b936-4df0-8f5f-0a31e71fb220,83c6afae-421a-44cd-abfe-9fc2f20c991a,Furniture,338.72,PayPal,Completed,143.162.103.201,Phoenix,Mobile,792,No
+33:11.9,aa08bcf7-7ac4-4bab-a552-6b6f7665f99e,572b330a-974a-42cf-85b1-076fc70d7587,d370422b-b430-4483-b95d-38352e9f0714,Electronics,150.22,Bank Transfer,Completed,58.221.140.134,Houston,Desktop,793,Yes
+52:41.4,5aca4438-1c05-4fa0-ae9a-abe2fe9d4f33,e58ac6f9-ddb6-4895-9766-ac4ef0452eb8,246d13ef-67f6-4b7f-8210-241b490a7135,Apparel,90.92,PayPal,Pending,18.141.59.111,Phoenix,Mobile,2451,Yes
+28:12.0,0f611ba5-ff29-4d30-9fda-7a70ae583fcb,15d63d10-5106-4ab0-b6df-94c69acf3267,d24b819c-03fb-4994-85f8-30245a026663,Furniture,123.89,Bank Transfer,Pending,64.186.30.35,Los Angeles,Mobile,3093,No
+01:36.5,74225d65-f77c-41d9-9898-b6de0eea4286,175aad92-80cf-4bdb-8376-c72abe49c178,8ba21f76-a69c-444d-895b-5b3edb9e75fb,Electronics,738.36,Bank Transfer,Completed,181.37.237.100,Chicago,Desktop,3034,Yes
+57:54.2,3001655a-d9f4-4290-a3bf-958061f0b631,93df87f0-cb5e-43b7-8477-b8c03991d7b3,63e760c9-b6d2-4fe6-a253-3282879edc05,Apparel,552.01,Bank Transfer,Pending,38.148.47.163,Chicago,Mobile,3137,Yes
+18:50.5,1d7d7eae-57e3-4325-b94d-823cfb54eeb4,e1a00ae5-3ec2-4a38-be4f-d2d56bca058b,df566cff-12ef-413c-ae12-8c575968393c,Groceries,854.71,PayPal,Completed,164.16.228.167,Los Angeles,Desktop,1305,No
+52:43.4,2f06ad32-8229-4c97-a1c6-9e9fa2e6a372,8397a926-23f2-4362-924a-46ac9321d2e8,e2838ae3-8ca8-48bd-a5c6-34587bc3c0f8,Toys,297.97,Debit Card,Completed,201.69.119.30,Chicago,Desktop,733,No
+28:44.2,ca7faebd-5e30-46e6-90d1-bd9dba122d31,afc80771-1019-4611-977a-990384b1e24f,fc22a64a-67eb-484f-a64f-fca6f8c3ac64,Furniture,988.24,Bank Transfer,Pending,195.240.126.102,Phoenix,Desktop,365,No
+54:34.5,5144fcf2-af23-42b2-a92a-60e0b1887eae,ade1cedd-faee-4f0f-b7a5-10fae8d2bfe8,959e7db5-63a7-453c-b5ef-d88744fe72f9,Apparel,170.93,PayPal,Pending,105.255.134.170,Los Angeles,Desktop,2027,Yes
+13:18.0,586f6a0a-23b8-40bf-8ea7-9d010dd34c52,801d0469-e8d1-4969-96fe-698d20bd7d14,8ebf1c71-5d65-4857-92a4-8e1c74a472c1,Toys,918.07,Debit Card,Pending,27.240.59.226,Phoenix,Tablet,2816,Yes
+46:35.7,acd28dbf-cfe7-4840-8ff9-2c306a08c771,8b6901a8-17ff-4572-937f-469758db73f2,2baf0346-eec6-4bf1-9975-e78fe6b5c0d9,Toys,544.43,Debit Card,Pending,222.187.4.15,Chicago,Mobile,3015,No
+26:07.0,fe0caacd-ef8d-462c-8726-4753d2d1a68d,2b64ffb3-c992-45b9-9f12-8e052fac9b00,56b159b2-7c6c-4f74-984d-e9648618629b,Apparel,845.79,Bank Transfer,Completed,210.168.81.94,Chicago,Desktop,2181,Yes
+28:20.3,0b8d2f18-a983-4357-b890-8df2f5035e81,4d06cb66-2e2d-4914-b2c7-ffaaf857fbb7,39d62071-6432-4084-ab61-1c89572eae09,Furniture,337.01,Debit Card,Completed,119.242.238.208,Los Angeles,Desktop,384,Yes
+38:36.1,71cf484e-29b5-4cc9-9dab-4c53299eade0,4b8a3326-b177-4463-8642-f1136c512923,4376c8dc-6b0f-4f86-bba9-830016eef65d,Apparel,557.14,Bank Transfer,Pending,12.108.246.128,Chicago,Tablet,484,Yes
+11:34.4,1ac07c3a-2d68-4e25-b37b-1962bc81c13f,7045fffb-85b2-41d3-9a5c-05d633f7c237,345b9988-1811-44dd-ab29-d114c675d302,Electronics,919.63,PayPal,Failed,139.107.155.166,Phoenix,Mobile,537,No
+16:46.5,d7b8d71e-7044-4c53-a0b5-dd01b6e5aa3b,aee2280b-1c1d-4a6b-8366-0638ece76e94,4a58811e-f538-47d3-a322-12891809b901,Toys,520.51,Debit Card,Pending,56.125.254.15,New York,Tablet,1035,No
+18:03.1,3630302d-2b42-4b59-a9ce-245c5776b09a,b9370d68-b258-499b-abb5-f4b9d08aedc2,86356442-181d-4091-951d-aaacdbcc6c8e,Electronics,907.41,Debit Card,Pending,134.1.16.165,New York,Tablet,1438,Yes
+05:38.5,16663ed3-e04f-4eed-a3bb-470e6df601ce,892a7fe5-a989-4f21-8a31-e749479f0037,fe276c31-fec8-450f-b906-ba4a88b4bbb8,Groceries,649.21,Credit Card,Completed,181.208.86.202,Houston,Desktop,1296,Yes
+59:15.5,307c0d00-2d82-4f15-b1ff-f2ea1866d599,c70c3c77-0b32-407f-9f1d-8d7bffe5e527,c17ec2cb-b980-460a-9cbb-2d52f0a221b3,Apparel,817.63,PayPal,Completed,76.104.209.152,New York,Mobile,561,Yes
+49:32.6,4701a077-cae7-43ed-b041-cbc270e537ca,be859038-de5d-4dd5-8028-5e642d336c43,d03b9185-b799-4aae-a846-c80004f685b7,Apparel,293.12,Bank Transfer,Failed,32.20.233.156,Los Angeles,Mobile,2104,Yes
+03:23.4,ae470590-b7d9-4c1a-8f57-9d27bf491d3d,b535a184-be67-4afe-abb8-12b7f5d6fc8f,8c870f85-62dd-4257-8dfe-6cc7bfea1b69,Apparel,98.16,Bank Transfer,Pending,161.66.9.114,New York,Tablet,639,Yes
+30:04.1,2e804bf5-ec9f-4f07-914f-af1af22b999b,19f7491d-5e0c-42cf-af22-c720be1f2c77,10ce4ba4-35e8-4fdf-9b78-fe5b6ef5c189,Furniture,366.9,Credit Card,Completed,97.142.213.6,Phoenix,Tablet,3028,No
+44:46.8,80edfb38-47ab-47f9-be4a-cfdf1f7c690d,e2223cf7-6a93-49ea-ac56-4eee32f70fa3,7ddc8889-1f5e-4e73-bc1a-924d83ff2df3,Electronics,963.1,PayPal,Completed,209.80.60.114,Houston,Tablet,2753,No
+11:31.9,f5c3050e-37a9-499a-b262-9977c2c68bc3,0bc85e4c-b2cf-4280-8486-caafa77e2360,563870e4-a2c6-4c22-9386-801d0b0cdf26,Groceries,973.52,Debit Card,Failed,129.47.255.53,Chicago,Mobile,3491,Yes
+42:42.3,2fd325b0-8f93-4b71-ac5e-3ee67ea51bf6,e19845d3-c891-483a-8825-b7f6c65f3a79,d0753d27-5bc7-406f-a15b-b76b6632df8f,Toys,309.86,Debit Card,Pending,164.222.176.69,Chicago,Tablet,1869,Yes
+54:33.0,be43b32c-f90f-4504-8c6a-3396b0735c3b,2ee4e9cf-06dc-4d11-888f-29db4a83013e,ef5d5e05-2e83-4624-9ddd-0c8a64503e83,Toys,652.1,PayPal,Pending,2.227.96.219,Phoenix,Desktop,2790,Yes
+01:59.9,f61edea0-cd05-49bb-8117-88be58994306,b6ee1764-294a-4b31-8fed-866bb48a2ad4,d17ae669-f7db-48db-be67-08e110c205fe,Furniture,161.84,Bank Transfer,Failed,66.229.162.51,Los Angeles,Tablet,1551,No
+54:14.8,04795583-7a6e-46ec-82dc-13af5c03d650,0085b792-59b8-4fde-b950-3494918f34bd,6268a58b-2752-485e-8743-b68bb16c6fd2,Apparel,997.01,Credit Card,Completed,140.231.195.122,Los Angeles,Desktop,2497,No
+10:14.8,4a404bfd-209b-47d2-95f1-48e525af93d9,9f212bcd-95c6-4bfa-b323-6ec2e08f14b7,4411eb50-e285-478e-abcf-ece6562033ee,Groceries,200.79,PayPal,Completed,158.225.78.39,Los Angeles,Desktop,2542,No
+11:08.7,7da4b9e0-9b59-48e8-a9af-9ad82bc5fb67,86031561-8bd4-42df-a64e-47f8d9adc1e8,d3f26191-9bba-4c5d-894b-d881e729cc4f,Apparel,826.73,Credit Card,Failed,156.171.34.112,Houston,Desktop,2118,No
+21:56.3,c9e6c1cd-bb07-40a0-a995-89855aaae5ad,ab727aac-d425-46f7-8185-a6b339aacc8c,13442448-2e53-4c0a-ba23-4122626099ec,Furniture,755.75,PayPal,Failed,73.60.40.172,Chicago,Desktop,1600,Yes
+26:39.9,d503b71d-f83b-4343-b48e-ec0e06a48e32,48e4493c-96bb-4329-ae4f-56802952d9c7,03b67d6a-cb8e-487b-93a1-84124fddd85d,Furniture,798.12,Debit Card,Failed,132.116.226.207,Houston,Tablet,2682,No
+27:56.3,3c4c0aae-70b4-47c8-a232-c324acd85fdd,2e8f1ba6-2d20-4483-8f63-0533fbb07a5a,01fac779-add4-4f86-9867-e38032436c69,Toys,200.24,Debit Card,Failed,172.15.21.164,Phoenix,Mobile,381,Yes
+12:01.8,5570e882-f64a-467e-87e3-48fff4c300b8,34255102-98ec-4118-87c7-92fa20550e76,a7bd8299-ed2d-4ea8-b0e1-13b1940f929a,Toys,622.25,Credit Card,Pending,118.86.228.164,Houston,Tablet,1520,No
+47:22.2,13fb680c-1ef9-4b2b-9c50-83ceeea635d5,a2868c00-37c1-460e-8bc7-1f875ef9822c,b507a6a3-1e9c-479c-b6a2-d0d31e7ae997,Furniture,433.42,Debit Card,Failed,191.100.83.116,Chicago,Mobile,3374,Yes
+23:17.4,90c9d2eb-5159-447b-b954-4612d0c67fff,0324c252-c04d-4b36-921a-5e3752841167,89312550-9cd3-493d-b128-3bfa0027d755,Groceries,100.52,Bank Transfer,Failed,151.116.151.253,Chicago,Desktop,1940,No
+45:18.9,21e3569a-8d4e-42e8-8526-bc60e38eec2e,e7d37d23-ed44-49ab-abaa-a72529faf0fb,a88a7132-36ae-4df2-94c5-f06341eba309,Furniture,973.64,Bank Transfer,Pending,101.77.26.169,New York,Mobile,3283,No
+56:18.5,c48585a5-8ceb-4949-97ec-cdda82c7874a,0fcbe540-417f-4dd1-842b-ad65f36bf494,2a5326d8-3a26-49fd-a8d8-a89d007c1e46,Apparel,598.4,Credit Card,Pending,134.136.142.223,Houston,Mobile,2623,Yes
+07:59.5,5780c227-e556-4548-bb84-3b68e3706b4c,c1d36eab-7f1a-40ec-a815-2301b72d3bd1,3e3521db-e917-4e97-8562-803ef3d985fc,Groceries,430.98,Debit Card,Completed,205.161.172.191,Chicago,Tablet,2156,Yes
+11:22.6,e7daf3c5-2547-4ede-9650-2f84bdcd91ae,aaae08b7-9e9e-4016-a2ca-bd1ab71eef8b,b6ef00c3-f3d9-48ba-bece-742abcd3267b,Apparel,884.02,Credit Card,Failed,62.68.215.144,Los Angeles,Mobile,2940,No
+06:45.9,d624de22-6ff8-4266-b9bc-38648d18a43e,218f508d-95cf-407e-ad3a-028eac72be40,72639316-77bc-47dd-94be-e21079cb5991,Electronics,380.81,Credit Card,Pending,129.119.170.193,Phoenix,Desktop,2539,Yes
+46:40.5,f9430e22-91dd-4aae-ab1c-a0649d2e5163,946f4cc4-5a2a-49c1-affc-df83cb9265cb,28a47c8a-4788-46b0-96ea-2343ba6f1b9e,Furniture,540.09,Debit Card,Failed,175.233.21.58,New York,Mobile,2328,No
+44:23.9,83cf4773-b037-4ab6-b039-ff5adc0815d7,10fc372b-0e53-4f40-85be-2dd14fe22109,ca7004c4-ad34-4fa2-9a80-173d0be4a412,Furniture,241.83,PayPal,Pending,16.171.127.157,New York,Tablet,3182,Yes
+00:57.0,7069186a-6a4b-4673-b1d7-d26269b7611a,269a04a2-6652-4fbf-aaff-6142cfc9e946,d39e41a4-1ddf-4aa0-a5df-41335090e9c1,Toys,156.21,PayPal,Pending,168.196.93.41,Phoenix,Desktop,1765,No
+22:34.1,679396be-62a7-4c18-9390-ea86d2f0449a,93fba055-dc0e-4c6e-887a-13cdcf7590dd,e7c69381-cecb-42db-a02f-000a052c82a5,Toys,208.55,PayPal,Failed,38.94.228.238,Houston,Desktop,848,Yes
+36:42.9,d01c25a4-0afd-4221-94c8-0d249dff4f6c,5730659b-e8af-4d36-b121-0e73cf4f6d6e,771ea42e-19b7-40f6-bac4-296c3aaa2c43,Groceries,369.41,PayPal,Pending,202.104.23.75,Phoenix,Desktop,295,No
+30:45.7,c1069e1b-e8a9-4919-919f-a009e13d99ae,70de98bc-4ffc-43bd-bfee-27fca58b3393,30dabc67-8927-4dc4-ad01-ce4d6e5b4953,Apparel,924.24,PayPal,Failed,150.51.243.51,New York,Desktop,374,No
+26:28.8,029c566b-dfc0-45ec-9af9-4935c292c85e,8ff76210-e6a5-4acc-96bd-caa6bea8dd68,37924484-4420-4551-8443-2eb9ebe0cec4,Apparel,834.56,Credit Card,Completed,17.40.88.93,Los Angeles,Mobile,714,No
+32:25.2,bf5e5af3-a80c-422b-b93c-600a0855551f,ac22fb90-0036-48b3-a905-c8dd2dcb6711,654caa94-60b1-417b-964c-5538f874209d,Furniture,44.25,Debit Card,Pending,93.14.120.73,Phoenix,Desktop,872,Yes
+58:34.0,3ea3c88b-c566-422b-98a8-120a533f86a9,a3fcbee7-d498-4f29-8d8e-8c6e77631740,d22c6d37-5b3b-4e1b-a73c-bbe23de35bd5,Toys,239.91,Bank Transfer,Completed,151.205.215.254,Houston,Desktop,162,No
+40:35.7,3f55211a-22d0-42d6-8f9e-4f37b1e6f645,427b6135-7f97-457f-8f99-c8570da84e4e,14e5de6f-9b0a-45ba-aa82-bca37cdff502,Electronics,813.45,PayPal,Completed,77.130.92.72,Los Angeles,Tablet,2121,No
+22:11.8,5775aecf-40b9-449a-b65f-07f00160be81,c0105d94-fc65-4ca8-82a5-b53f2b7c300c,211d0a01-136e-4c4c-a130-2d01621298cc,Apparel,960.66,Debit Card,Completed,16.146.193.150,New York,Tablet,1828,Yes
+16:13.3,4cce1be5-f59d-4465-8e5a-b31eedfd89dd,e8193629-ca1e-42da-9713-277768b99647,1fcdf4b2-1322-499f-ad08-5c6d0471b81f,Toys,545.95,Credit Card,Completed,126.33.211.28,Los Angeles,Mobile,3532,No
+00:02.8,c80f31f1-b905-426d-b94c-80e03fd780ea,02781b1d-2b62-41e0-9e13-bf73b40b5886,2f06e2ad-7516-43a1-87a2-ef7f374f57ff,Furniture,941.13,Credit Card,Completed,26.50.55.50,Houston,Tablet,2465,No
+24:50.7,1b94988e-e9fa-48e5-8ba4-ad45a2bb313c,2ce5b42d-d1ae-4c90-abc9-2d95e4c0c0fa,b2928d35-04d3-4d24-841a-7d6844b1a165,Toys,695.57,Debit Card,Completed,38.15.233.190,New York,Desktop,3173,Yes
+05:54.0,7f5366f6-f0f2-4f95-9d74-7bc49c587cec,347592af-8614-4fa1-afce-d0cc682279ae,88d0df4e-4755-49d1-a2e1-2601e2eb1e18,Apparel,932.08,PayPal,Completed,120.255.5.220,Chicago,Desktop,2123,Yes
+14:13.4,1758f186-7aa3-4f1d-b74e-112ff8a828e8,f491b2b2-a8ba-4397-918d-5af5b80a8a85,37e5ccf2-1be1-44f9-b208-e53166d517cd,Toys,84.4,Debit Card,Pending,32.253.39.160,Houston,Desktop,1833,Yes
+17:05.5,485a96b6-2c92-4136-a069-68bc7f42f4c6,a6b4c63d-5ba4-444c-b66d-603e4df47635,5f305283-9df4-4fbf-87b7-d0d57c0201fb,Electronics,561.99,Debit Card,Completed,159.68.93.47,Los Angeles,Tablet,3314,Yes
+14:50.7,5c2d3e1c-2ebc-4a9e-bac5-8db6649ba1f6,7e8b6d5a-c823-4d79-91b9-fb1f81d4810c,e1aa4a58-d3a3-45d9-80cf-1c5ebdabdea2,Electronics,647.39,Credit Card,Failed,163.65.121.247,Los Angeles,Mobile,177,Yes
+26:41.8,ec511953-3016-4aba-a867-9affb8613d27,38ac7ae4-5a79-4cd3-96c5-42745fb48d04,ffd1f48c-75ab-44ac-a425-ac5c1bfac6ba,Apparel,713.63,PayPal,Completed,133.73.250.13,Houston,Desktop,1233,No
+01:25.6,1186c2d4-f96f-4072-8dc5-72bd29c00f35,a0c5c6c9-3c37-4971-bde8-67ee2361f167,2b09a0c8-cf94-4903-abc5-a2675feedafc,Groceries,126.54,Credit Card,Failed,172.34.78.161,Houston,Mobile,830,No
+39:32.0,2e1e5c9c-88dc-4a22-a0b8-3a9f2896ac16,79386b09-cba7-4820-9fd1-2a816ffb63c8,d680ba7e-1b3b-488d-a8c7-16c4fe4efe14,Electronics,591.57,PayPal,Failed,137.247.184.186,Chicago,Tablet,1064,No
+53:32.2,1140fe79-09d0-4638-a00d-f17babf4ed9a,d63ef52b-ecbf-4c15-a431-e621e6628f5d,44a39206-fae4-47b7-bb03-9d9191afb612,Apparel,494.02,Bank Transfer,Pending,81.17.194.55,New York,Tablet,1430,No
+16:46.6,a4d98aea-e759-423f-ace8-42b8924c601c,9b5050c5-23b7-4756-b298-17c6d0193dbc,5422744a-08c8-4188-bec2-856a00475a26,Groceries,601.33,PayPal,Pending,83.64.234.146,Phoenix,Tablet,439,No
+02:14.4,ffa3a0d6-5742-4247-af6f-cb21d6e0462e,c11049ad-4afa-4fac-b5e5-d1457ca08ee0,1fb01d8e-0516-4443-957d-a7e818bd65e8,Toys,243.21,Bank Transfer,Completed,124.125.81.189,Los Angeles,Desktop,3330,No
+33:18.1,e765aebd-3134-4d8f-b6cc-cc52b9a92e87,4fda7902-3805-4258-9546-24b63f522e2a,a47d9c50-8737-4bf8-92f2-6a89ec923c10,Groceries,176.57,PayPal,Completed,75.24.145.220,Chicago,Desktop,3516,Yes
+47:16.0,13e8741d-309a-4041-aadc-e32069adb807,802e27b5-fa00-43f4-9bfb-386f576a8212,acc03c65-687f-4120-801f-86f9749489db,Electronics,826.31,PayPal,Completed,132.204.161.184,New York,Desktop,2953,Yes
+30:09.7,e78069d6-4490-49c0-a89a-1a3dd87fe81d,7533c3ed-06d6-4090-ba23-8c3fc02227dc,92ac0262-f45e-43f5-a7db-e395ab213d80,Groceries,87.59,Bank Transfer,Failed,10.217.25.99,Los Angeles,Desktop,3102,Yes
+20:30.8,1be45e45-23fd-459e-b546-b5fc458862dd,0d40b0c0-cba8-4922-a147-50da39218795,3705fe4a-d19e-4941-99ba-0a9f7c1e332b,Groceries,319.27,PayPal,Failed,201.114.151.223,Houston,Mobile,2891,No
+04:01.8,0640710f-985e-4e6b-8908-79fce81e6e6f,4717acee-90a1-4cd8-8c17-5af1b4c286f0,8b76c355-58ac-4033-8c16-3688d62d7228,Furniture,535.02,PayPal,Pending,42.6.213.74,Phoenix,Mobile,3244,No
+48:49.4,c7cbfba1-3f11-4052-bfc4-4487d206da8a,1cfdba8e-3cea-4c2b-8920-2f02e7443e93,4393f8c5-28b9-424f-8663-b42b7f3dc16a,Electronics,581.05,Debit Card,Pending,93.150.63.149,New York,Desktop,3301,Yes
+42:53.7,ce22e9d9-90ce-4d27-aa20-89a24a7d059a,bbfc0429-503c-4f4f-96f4-663008f6912a,693978a9-c60c-4a5e-b814-1a480aa10574,Groceries,276.68,PayPal,Pending,153.96.230.192,Los Angeles,Tablet,536,No
+55:03.7,9f579217-d218-419c-8592-5a14c2d32f29,132c80e5-24b2-4c8e-8225-46c8ae748120,7cfbccdf-8609-4e9e-827d-b62fca6fa7f6,Groceries,367.01,Credit Card,Failed,40.123.124.98,Houston,Mobile,3312,No
+35:08.9,1e10cf62-8bce-4c83-8a1a-6465d7d337cd,f6919905-eb89-4e2a-8cbe-a0660f6e3702,54fabc23-7d51-47cb-a701-f645c32103a4,Furniture,404.58,Bank Transfer,Failed,102.107.157.239,Houston,Desktop,1339,No
+48:00.9,84dab087-11e2-4bb7-b0ea-10e1279cdc6e,102fda56-ba56-46bd-82f9-dc9774f09a9b,85ed0890-418a-4c65-94e0-0f6d243ec89f,Toys,479.04,PayPal,Failed,49.16.200.119,Los Angeles,Tablet,2034,Yes
+24:51.7,fc044080-fd82-4e0f-a8bc-f4f3f793af29,0f6b1bbf-b902-4df4-9bee-b5b75d91cd64,8243570b-4460-4deb-8b46-94b0d44e6565,Groceries,933.56,PayPal,Failed,101.117.29.32,Los Angeles,Tablet,1964,No
+48:19.9,5550e9c7-c08c-408c-a4e9-b8cfe098af18,9a5fc72c-c305-4b5d-92a3-469ec9006093,31f8e203-b32a-41e9-b7ae-5e36bb8c9d21,Toys,743.83,Bank Transfer,Failed,52.238.181.124,Los Angeles,Desktop,3056,Yes
+57:40.0,463ab83e-9616-4c27-87eb-4ba45c97efb9,7c17cc9c-b239-4c53-a1c3-a00feb93c9c2,2ad91232-65ef-4938-b5cf-7a67a72944e6,Electronics,769.01,Credit Card,Completed,21.39.129.252,Houston,Desktop,1668,No
+01:13.1,12474636-0bf0-4ba0-ad42-fe8c9805e173,af0928cd-2ca2-49a7-ad1a-30db2b317349,4e15f78d-7b0c-427f-99e1-605ef7d49547,Furniture,775.74,PayPal,Failed,55.159.0.227,Houston,Mobile,3213,No
+30:31.2,d3bae7ca-17d1-4832-9ef3-88f66c8de217,9735fe1b-45c5-4f1d-8aa4-a68ff037cabf,30a929bd-5e31-406f-901c-ab10c9fd8be1,Groceries,480.8,PayPal,Completed,84.191.213.200,New York,Mobile,333,Yes
+13:34.0,8c757e09-f444-4dc9-aa1c-17bd8dfab74d,4ac59863-6ac3-4921-a144-2e664d169680,49e7c509-0182-47eb-b34d-2c51c7f0f167,Toys,130.29,Bank Transfer,Pending,72.17.115.117,Phoenix,Tablet,670,No
+10:00.9,c63f8728-ad5d-459d-bf14-6e8bb7f8c84b,6a0b060c-b211-415f-9717-5056f1292e5d,24d96e2d-fd0d-48dc-b2eb-b4cf239dd6f8,Apparel,405.04,PayPal,Failed,90.96.239.146,Phoenix,Tablet,2724,Yes
+43:04.3,af1b9375-1b79-46c2-adce-1b0b64980864,d793ea20-222d-4160-8caf-5f5bfd87c197,3179bc69-a2b2-415a-8a44-863a62718c46,Groceries,919.99,PayPal,Failed,15.248.235.167,Los Angeles,Tablet,3176,No
+39:41.5,db0b3e33-e075-43a2-b2fe-6a41a050e834,e1c99587-a1e5-40eb-b2e3-e612a435af08,bcd664ec-5f47-40a7-a576-a48439214e7b,Apparel,616.83,PayPal,Pending,212.163.76.193,New York,Mobile,2962,No
+18:00.1,855f46a6-5202-4a4a-971c-dbbb250c2a3c,46cb522f-b6c4-4b70-bb47-ff315f28f917,4eadeba0-aee2-4bb2-8334-f431b76f75c1,Groceries,490.73,Bank Transfer,Pending,215.224.179.235,New York,Tablet,2479,No
+55:40.7,aebd0189-a691-444b-b521-014d0493613a,0befd63d-040a-43e2-bbe0-586c79ec2a55,acf87e76-9b38-4147-a55b-8b8b8da7fed8,Groceries,677.81,Credit Card,Failed,83.165.242.112,Houston,Tablet,1374,Yes
+20:49.2,7aa8e03c-5ab5-4f5c-b30c-6e1297c21390,f95e14cc-40fc-49f3-9e9b-8f739f394240,b5b72945-ed84-4ada-a4e5-d140878fed22,Toys,879.56,Debit Card,Completed,119.216.54.228,Los Angeles,Mobile,1822,Yes
+36:44.6,07b4f59f-cf0b-4463-a345-c9acfa2ead3e,a8480288-37ae-4656-9d50-c711248ef7a3,d96061e9-50bc-4f1f-9454-88506110fd8f,Furniture,155.02,Debit Card,Failed,50.30.185.159,Houston,Desktop,3160,No
+36:26.9,99096e72-6850-4003-898f-9c9ad8e4b95d,863b5ef9-886b-4406-b061-42a163512d8a,33b58712-55e8-4e1c-8b22-d2a3b020ab2b,Apparel,794.82,PayPal,Failed,192.91.145.238,Phoenix,Mobile,2566,Yes
+46:44.3,15b03dd4-3316-46c8-90b5-80c0123dfe7a,b5447d9d-fd99-4359-a61c-73e8ebe86dc0,4ea56f0f-3279-4826-9598-bb2933d970b7,Groceries,695.04,PayPal,Failed,3.62.208.99,Chicago,Desktop,3536,Yes
+31:34.6,16c48900-1987-46d7-b815-4d9697d960df,9040b52d-8cbb-4593-aac0-eac4edd6f1bd,eb7fd5b4-33f9-478a-af67-56e3ac97a259,Furniture,247.72,Debit Card,Completed,208.1.120.8,Phoenix,Desktop,1547,No
+51:15.8,f543004b-9ff5-42b5-b3c1-1d1c378de0f9,3bf17a64-5845-48d5-95fc-fa4b1e3d2590,1fe74d0e-838f-4d2e-8509-e5ace2575fa3,Electronics,632.78,Debit Card,Pending,7.237.131.55,New York,Desktop,1098,No
+33:51.9,ec60a61b-6fce-42f8-8041-d1072d40a78f,4f547622-4288-4e8d-ada6-d417176a2562,c66ec4cc-519f-4cd7-ae24-296014bd7fca,Toys,415.14,Debit Card,Failed,126.188.43.49,Chicago,Mobile,3453,No
+15:19.4,e59f81d4-6c8c-4e6c-8440-2b36733b5c79,8abf16bd-8b1b-44b2-8f36-de9f2640637f,1079a10f-66a4-4f09-90cc-7089d8eb0de1,Furniture,964.17,Credit Card,Failed,197.77.66.152,Los Angeles,Mobile,566,Yes
+03:58.9,3abd0b93-cb30-4ed2-bfb2-ea54edb35ecd,a14aad32-c449-4d40-849c-37a23befa483,486970ba-d8bd-41c2-8d04-ef0796ff0aea,Electronics,986.29,Credit Card,Failed,166.100.92.243,Los Angeles,Desktop,1830,Yes
+49:15.3,896e9a72-d1f2-42ac-a860-fbe9eaaba57f,4b7b651e-c507-4a91-9408-b5f9c53b8c4b,73664ed3-9b10-4e25-a608-eeca03ef7595,Groceries,407.88,Debit Card,Failed,126.188.46.64,New York,Tablet,1935,No
+25:42.4,cd1073d3-ffb2-410f-8f48-a7ab5783263f,f502fd3a-6c55-4c4d-942c-fc8429c973c4,bacd38d1-de21-4318-92b4-765e4f212c2d,Electronics,392.09,Credit Card,Pending,106.2.154.25,Chicago,Tablet,825,Yes
+40:16.6,f9c0cab9-e36e-4cda-9650-8914f0ff2c28,f01a3827-9e26-4ff8-8ebc-eea34f48f379,2a600489-fd5c-4ed7-b9e5-af892ff861cd,Toys,495.8,Credit Card,Completed,78.47.241.231,Los Angeles,Mobile,487,Yes
+44:32.5,f794bcb1-05a6-4cc1-bb52-7e14393daa98,12feafc4-41f1-47d4-866b-be1a6a8773b4,25bd7fec-236f-41e1-8552-c5e103a787c2,Electronics,705.27,Debit Card,Pending,63.59.33.150,New York,Desktop,569,No
+34:14.5,07a2766f-0d65-46d1-a162-3c04d4ad10ac,76f5fa7f-a832-4145-abd3-831be0b61105,490ce6a8-3ea5-4035-b0e9-48711ce01fb9,Electronics,549.09,Debit Card,Completed,50.17.22.14,Los Angeles,Desktop,1101,No
+56:16.9,ce32c282-36f3-4deb-9378-51c1b1791e86,14fc3140-3f17-4b4b-ad14-92cf6065383b,39fe75e1-2bf6-4f8f-b2ee-2413b8851277,Toys,614.32,PayPal,Completed,162.178.72.72,Houston,Tablet,835,Yes
+37:32.8,b38f83c7-d926-4736-9a5d-df5e215c7236,da0c9ef1-469b-47d8-851a-6b4da1e35808,fd7690da-d3d3-425b-9b2a-406827db7d03,Apparel,190.52,Credit Card,Failed,134.198.142.11,Phoenix,Tablet,907,Yes
+19:47.6,ca1bdfa2-8aee-4fd0-bbb3-f81533d45c81,f4028c65-5680-4b4c-bdcf-90036e2c32be,8d3d0dca-5860-472e-87a5-dc6421257632,Toys,693.47,PayPal,Failed,216.242.46.162,Chicago,Desktop,1127,Yes
+05:27.4,1ead51c5-4b6a-4bf4-828b-a2e9e1847b42,ec041eea-df72-4f99-a56b-1c93b85f93cf,bd2266fb-591a-4968-a484-2fc194f9276c,Toys,767.02,PayPal,Failed,179.106.58.140,Phoenix,Tablet,312,Yes
+50:05.0,3be58438-5fa3-4080-ac31-b72bf188feaf,db36899a-7a8a-46e6-bf5d-50f962d44286,ddf4a651-99a1-4d72-b954-34eace0fb3c0,Apparel,568.12,Debit Card,Failed,1.51.214.164,Houston,Desktop,446,No
+10:16.9,f80d1704-50c9-40f2-934e-7d6a57af5c55,02a4b4fa-69b6-41e9-a890-fcf07228ea6c,1e44ab54-9430-4e3f-a714-93b03449353e,Apparel,710.89,PayPal,Pending,138.58.146.169,Phoenix,Tablet,460,Yes
+45:34.6,a4942487-9e02-44c7-b440-a785dc112f78,b1389b51-ae9d-43e8-9a2e-24e047492a6b,8ef6c52d-ae22-4859-9fa3-215d2cf490bc,Toys,968.21,Credit Card,Completed,91.57.237.247,Houston,Tablet,3238,No
+09:16.6,2a4b876a-833b-44d5-84fb-96ef52d1bcf9,2eb53b98-9d4f-47a2-b091-cadc8ab1b4f5,d42f28b6-ce30-44ed-8e43-1cfdc531e8ed,Apparel,532.77,PayPal,Failed,201.211.254.198,Houston,Mobile,2700,Yes
+54:42.6,f879b477-2774-40a6-b3f7-9e41ba58bc67,a9a9c153-f369-4097-a32e-ce1d6ee6e082,a1210c06-789e-40da-a78d-9a93d9a6aa91,Furniture,26.51,Debit Card,Pending,54.236.45.103,Chicago,Tablet,3252,Yes
+27:50.4,84ede61c-198b-40bd-9ba7-efa10e133bbe,d63fb3e0-f618-4920-8b36-946fb4e393e1,bbe7f367-89d9-4733-a5e7-431b045771e2,Groceries,255.33,PayPal,Pending,73.34.30.8,Phoenix,Mobile,2000,No
+43:08.1,1440bc07-e87f-43c5-a5a6-a51b228134e3,14871e96-8d86-4f07-92ae-bd37bb138aed,2d05d140-3195-496c-86b8-612c9972fffb,Groceries,88.53,Debit Card,Pending,146.13.167.251,Houston,Mobile,1993,Yes
+06:49.5,6b52461e-8d6b-43b3-95c8-c183be1cc303,3401e0d0-b64a-4892-9937-44025bafe15c,9c02babe-4594-40e2-a066-a6d059291aa2,Groceries,121.44,Debit Card,Completed,159.188.37.182,Chicago,Mobile,2517,Yes
+40:50.0,9136b8ff-59a4-4ed2-9768-bbe27011a8bb,16994120-dbf8-4db3-ba87-c63f4d9a0c45,43732f72-da5f-4ff7-b932-cb5c29433b88,Furniture,662.16,Debit Card,Failed,136.15.207.5,Houston,Mobile,900,Yes
+31:21.4,41dc45a1-26e9-4f8b-a1e5-8bfec3bffebd,f6b73cc0-956f-4f4b-a403-d8086e65ef8e,146ea741-ec14-43f4-9142-a16864d59f10,Apparel,423.6,PayPal,Failed,204.239.95.17,Chicago,Tablet,176,Yes
+09:49.2,66c464c6-3bcd-459e-8e01-21e1c57af47e,01ad83d7-793c-4ccb-96b3-76db432447be,df459e1a-5ac9-408a-be2b-71255c034339,Groceries,58.98,PayPal,Pending,15.2.61.185,Houston,Desktop,1161,No
+19:06.5,204a1dc4-eaa8-4e56-9763-a007d3e9d6cb,28f4667f-a5d2-43d5-822a-5eec781ebff2,bd3e36b5-3efe-48a8-bf53-e67d8883846a,Apparel,298.09,Bank Transfer,Pending,5.210.116.126,Los Angeles,Mobile,83,Yes
+08:00.1,09a4fdd2-015d-4ac0-bf2b-3a6dca9bf33c,d5f5dd64-143d-4bd3-8154-c748ff1dc93c,e17777c5-8339-410d-a696-dd74630e837e,Electronics,301.05,Credit Card,Completed,58.35.64.51,Phoenix,Desktop,1554,No
+16:03.8,7ef2610e-db1b-4209-b251-6be4a9d3276c,ded388f0-61cb-452e-9a1e-5200c3ed94a7,ce4829cf-d194-4de5-b86d-f93a7a836f88,Electronics,606.74,Bank Transfer,Completed,21.189.136.154,Phoenix,Mobile,163,Yes
+44:10.9,edb48ebd-aebf-4efd-8f1e-87e7fbccbe97,92fa22f3-c438-4426-b6fc-8d7df6691e36,4d346510-e9de-4fc4-8800-f862a597c315,Furniture,822.17,Credit Card,Failed,185.104.161.226,Chicago,Desktop,2330,No
+25:31.4,fd6d6393-354c-45e1-9699-4521cbc1f6d2,f4a4f9cc-01f4-4677-9be3-b8887283f776,1c148e7f-48f5-43ac-a92d-6befd5d48725,Toys,599.47,Credit Card,Completed,77.17.248.47,Los Angeles,Tablet,3021,No
+47:31.3,e90bd001-d13d-4852-9f3d-990542c3b7f1,4f5cae43-96c4-474c-bc6c-234ca7fccea5,de5cca82-2dec-4908-b194-2ec806ea20c1,Toys,401.7,Debit Card,Completed,165.53.112.117,Phoenix,Tablet,1080,No
+57:05.4,2c64855c-474e-484c-8f01-9c31971e8e6d,56b16168-27c8-4f71-adf3-485ab21c2f89,877e9757-e4d4-46f5-81f4-f8cee280fc86,Groceries,452.97,PayPal,Pending,189.218.119.131,New York,Mobile,3191,No
+37:44.6,c5618f17-b54d-4915-a9af-663324789b19,9d8d00dc-2255-4159-ae89-a48356a02728,14426f92-f307-4bb6-a602-c0ba2c5ece29,Groceries,393.87,PayPal,Failed,164.212.23.134,Chicago,Desktop,2652,Yes
+06:56.9,7700dddb-4b41-453b-b562-1dd4b138af91,c21fc567-dda2-42e6-8ab2-0ca3fa07df76,5a490174-1f88-43a0-8c0a-18e0652bee2a,Groceries,211.33,Credit Card,Failed,50.78.27.5,Houston,Desktop,3040,No
+55:09.3,1c649817-9e52-413e-aa3d-aaa6c21e43b6,ac385621-ed84-4a39-8620-64db7f45573c,9c5ec2cb-69b9-4ffc-baac-77712f5f14da,Toys,325.2,PayPal,Completed,110.5.195.57,Phoenix,Tablet,1399,No
+50:19.5,9b35917a-1905-4ac2-98c2-e78fd4aca3fc,3306ad83-24df-4673-beeb-a086051d6e0b,e64fdcdb-8246-4d12-bc16-cbcf03ed0f28,Groceries,731.62,Bank Transfer,Failed,33.175.225.246,Chicago,Mobile,533,No
+28:23.4,75de3b7b-0a84-45a4-94d2-788e19b2d37b,7a65e18a-4177-4c8a-8945-f08db9895c21,1d52438c-1d87-4ff6-9af0-1e72b590f575,Apparel,488.1,PayPal,Pending,25.127.8.25,Phoenix,Desktop,1119,Yes
+06:55.2,597a3d42-2ec5-48de-9f43-3b6c3dd93785,6dd3495d-904a-470c-b875-d4f86d698058,3f66d1c2-fe11-40b1-8a67-6c426d608522,Toys,779.58,Bank Transfer,Completed,44.180.151.88,New York,Tablet,3059,No
+30:25.4,48fd794f-437c-445a-b3c7-6af997145e2a,aadc3d0c-c065-4eed-b941-0d972354f7c4,d743e18e-aafc-4e5f-a13f-392798f1d77c,Apparel,832.66,Bank Transfer,Failed,161.24.227.84,Los Angeles,Desktop,1908,Yes
+45:28.6,0366b191-14a0-46bc-9c1f-48ec0ac2e81b,2a220f34-25bb-4cc0-8573-6837b56d0801,bfef9e88-596e-4763-9d9b-983f939b7152,Groceries,683.77,Credit Card,Pending,134.38.61.35,Los Angeles,Mobile,1823,Yes
+39:59.5,5aef2655-adcd-4a3d-b5d3-5a691ceb3ed2,b077d3db-5d3e-4706-9555-2c060577b728,861e399c-2cf1-41eb-9dae-342b578f24c8,Groceries,776.87,Credit Card,Completed,67.227.116.126,Houston,Tablet,1401,No
+53:05.1,226e8135-739a-41b5-9601-a922968f63cc,7b4e070c-7dda-409a-b526-580bb2a4dd29,6664e7e5-8e04-499d-b245-fc431f4290fc,Apparel,388.18,Bank Transfer,Completed,173.122.226.167,Chicago,Tablet,1796,No
+49:08.7,e7717a1b-9bd0-4bc4-a475-607a285651d7,874c9118-ca94-4eb1-8add-8f29750f8d5c,37bf7336-6c96-4f88-93fc-60bdbce67a2a,Groceries,792.42,Credit Card,Completed,177.104.210.118,Chicago,Tablet,3274,Yes
+09:53.9,3c829080-89a1-42d5-a6a8-89e20bb82f95,e9211821-63d9-4144-9773-ba0e7cf509b9,f95d7929-da65-419e-927f-e3aa0bbf31e0,Groceries,158.26,Credit Card,Pending,106.247.78.33,Houston,Mobile,343,Yes
+31:42.7,3539ff56-dd14-46f1-bd1c-068ade480419,1e089f1b-d9e9-483f-9066-1e31e2a6a264,d4834da0-ed5f-44a0-a3a0-da30e6897f17,Groceries,62.24,PayPal,Pending,137.209.141.124,Houston,Desktop,2379,No
+26:08.6,6df9a99f-c8b7-4725-a1b9-9375ca663b6c,b8466fd8-b5ee-4e5c-a60d-4ec4dbfdd0f9,b426fa88-a61c-48c1-b2ab-a907765f3441,Groceries,81.72,Debit Card,Failed,125.56.28.122,New York,Tablet,2430,Yes
+30:19.3,0289ed3a-6a2b-4bb3-a731-0590145a07ca,cee4ce1f-2299-44b7-a8d9-06807000885e,642e9965-203c-4875-b61f-f3be207bfd72,Electronics,577.4,PayPal,Pending,55.46.124.126,Los Angeles,Mobile,1399,Yes
+58:13.3,f8bee90a-6df2-47b1-9f75-0c7c5125f57e,07446b4f-4edf-4f83-a1cb-c7705d788d27,95540ed2-1de7-4037-8a11-419b8cf34854,Apparel,144.05,PayPal,Pending,49.153.87.194,Los Angeles,Mobile,3328,Yes
+30:47.0,52e69852-7eef-4a78-b4ba-06718bfdebec,91ea88a1-1db5-48c6-ae99-c3c0582b0fcf,e9049496-bff7-44a0-91fb-2107303773d8,Apparel,43.27,Credit Card,Pending,20.39.38.30,Phoenix,Tablet,1120,No
+23:57.6,d97de791-e33e-4bf8-8480-452c7d425462,26103d0d-c0d9-4527-8edb-ba095a2f529e,e68e435d-8186-42d3-868e-f917b44387b5,Furniture,767.82,Bank Transfer,Failed,121.25.147.120,New York,Mobile,2727,Yes
+32:56.5,0f16d05e-776f-49e8-947a-d622f03046ca,1a63daea-3481-4554-b7a1-b4c2524681b2,fa84e94d-9890-4ba4-a469-e5e47a94070c,Toys,384.64,PayPal,Pending,187.116.90.79,Phoenix,Tablet,1744,Yes
+20:50.6,17e970c3-87ef-4080-a945-da60c90f3fcd,2f62c7ee-d44b-456e-b382-ff791a6ee17a,bfad1fa0-e233-4f33-b57c-815b25786eea,Electronics,656.09,Bank Transfer,Failed,143.197.223.8,New York,Mobile,482,No
+20:53.0,9693623f-cce7-4527-87b9-60545bea77ac,b314728a-230d-4408-ae23-a8ccb7611b5d,fa7ecaa6-bca0-4f49-8636-39367dfe3708,Apparel,301.38,Credit Card,Pending,172.118.175.135,New York,Desktop,591,Yes
+44:46.9,8687c625-1881-400b-ae66-1e04dd8703eb,413e5670-e0ca-46b1-b60e-6c787eb1b6bf,cba8a1b7-4ab0-448c-ba1e-f430dd92ea58,Toys,381.01,Credit Card,Completed,135.108.206.41,Houston,Mobile,1071,No
+08:08.4,464801f4-3006-4a71-b074-2b52f1bb2769,42fa7296-838a-4600-93e0-323a70128fea,03b11be2-8d8c-4151-9f0e-ccac0c372c43,Electronics,729.54,Credit Card,Completed,21.85.46.244,Phoenix,Tablet,86,No
+11:28.8,2f4feb30-3560-4e36-b67c-191a7422206e,1ef69c36-782b-46b7-834e-36039b48e16a,55317ac8-d19a-4302-8311-e0699190e221,Toys,420.6,Debit Card,Completed,187.14.137.221,New York,Tablet,1066,Yes
+31:20.1,b76c6d6b-e6da-45d0-aee9-ff741bb0c7f7,cee7224d-3935-40e5-80fb-16c44aa046f6,da7c75a7-3cf9-4247-b5f6-55add68b5c65,Furniture,820.15,Credit Card,Failed,117.100.31.202,Chicago,Desktop,2127,No
+09:26.2,83a52b16-59b6-4814-a4db-1ca3acdfb5b5,7841f2ca-2adc-4dfc-b6d4-cd2970f819be,0c4ba8fa-3e77-45c1-8813-0299645d2eb1,Toys,277.79,PayPal,Completed,93.115.74.181,Phoenix,Desktop,1038,Yes
+28:55.2,e87fb3b0-d65a-47a3-98f2-567c7dbf0d41,2a7f0a49-325c-42a9-bf9b-ba99ce3969fa,025b7424-e11f-4a23-8910-b64cdd5aa0f6,Toys,975.45,Credit Card,Completed,221.9.96.15,Chicago,Tablet,2999,Yes
+38:56.2,4e57d1d5-4c7a-4cad-babe-5cca92e98f3c,e669a024-0709-4f65-9b19-afd9c7fe6cc9,4b550fd5-ce66-47be-b8a0-e7b080b53c61,Apparel,130.1,Bank Transfer,Completed,106.156.172.228,Chicago,Tablet,1609,No
+15:07.2,414f9fa5-1240-43e5-8989-6fe0db04d9c5,4439a2e9-3fa0-4fd6-b034-fe4474b8b6ba,455ccda8-f585-44cd-a23f-8250964a5724,Toys,995.36,Bank Transfer,Pending,45.202.172.188,Chicago,Desktop,1531,Yes
+11:20.1,232c8c35-d00a-4f27-87e0-66f1d68e3a17,fd19b3d9-0001-4406-ba7c-07e483c07701,cb8a4e16-554f-4f99-9563-97146a43656b,Furniture,86.25,Credit Card,Failed,180.177.25.158,Chicago,Desktop,3101,No
+42:13.6,9534458c-036f-41a2-9d83-8e52959db069,22022527-88d3-493a-a476-7cd36e465e4b,e915079a-041e-4e74-a524-ece7492d135f,Furniture,913.26,PayPal,Completed,3.169.82.69,New York,Mobile,2972,Yes
+25:19.5,926323cd-8105-4365-ba4c-2f416eacb2f9,9b7c99c5-1660-4c78-a352-369b3cee3f50,a1626bf2-cb52-4833-8f41-02c875ffa2fd,Electronics,185.54,PayPal,Pending,38.90.117.210,New York,Tablet,3176,No
+32:51.5,82812ed5-644a-49bf-9512-0d5946c1891b,74a5189d-7145-48ac-9133-79a22c8f6a53,e932486a-0505-433e-9aaf-ead889932b36,Groceries,799.46,PayPal,Completed,3.215.210.124,Houston,Desktop,3153,Yes
+48:50.2,00d51098-4d5f-475d-843a-91c2dcf59a81,caffa9ea-f812-4af7-81e8-1ac0f902b3d8,5445af3d-8851-47e5-9d09-d2d63c921e1a,Apparel,729.33,Debit Card,Pending,210.95.249.70,Phoenix,Mobile,2626,Yes
+50:38.7,9d2fb66f-ca74-418a-b03d-94f80c7588c4,b4617b71-1201-43d8-a147-51a5501c72be,bb1d4114-f15e-4f10-a5a1-adb2bc0bd5df,Electronics,471.77,Debit Card,Failed,148.163.52.86,Los Angeles,Tablet,873,No
+14:10.9,bd020b15-c715-4086-b0d9-c26c87c97996,411a20b3-6fd9-400a-aaae-48ccc927d8c6,8a40dc6e-ca9e-466b-958f-364c993a28ce,Groceries,800.46,Bank Transfer,Completed,53.69.54.92,Phoenix,Desktop,3005,Yes
+36:04.3,efeaa5a2-28d1-4612-9a2f-78023e7ee9f8,8d6be221-48f5-4662-ad17-b8e24772b23e,b2f60135-6462-42d4-b3f9-56a7298d0906,Furniture,632.72,Bank Transfer,Completed,166.149.84.144,Chicago,Mobile,2676,Yes
+26:03.8,4d32e2e9-32f2-4d3f-82b0-b97a86b14fe5,51c04f4e-a9e0-42f2-b8e8-2569a520b84b,3ddecc04-8627-4212-a3f2-38cbd295628a,Apparel,588.38,Debit Card,Failed,125.112.216.130,Houston,Mobile,1860,Yes
+02:17.0,7c078ead-062c-44a0-abcd-819aaf8ace0b,86298981-6214-429c-a4f1-edf41f2cad72,fd306031-e83b-41c4-a08b-ac706427b00f,Furniture,131.17,PayPal,Pending,158.194.241.152,Chicago,Tablet,1482,Yes
+13:25.7,054a95e9-4119-4061-b35d-fabc469be5b1,786d9173-53c6-4b6f-917b-ebcbb0146d20,f3f38558-2534-4b91-87ae-77d68ff56c4d,Electronics,249.95,Debit Card,Pending,110.211.228.59,Chicago,Tablet,1619,Yes
+34:58.6,171bdee2-4c91-42c8-8b52-ed0e32a34322,445fd217-992e-4d79-912e-89aa2213633e,649034fb-62a3-4113-8226-1682b91711e5,Electronics,417.49,PayPal,Pending,201.177.190.150,Houston,Desktop,1259,No
+26:26.9,cfb2ed37-0299-43b4-b743-319b65525d11,a1a78be3-9f04-4285-890f-3fe14bada609,dc731d78-7939-4c15-a68d-65311e29e418,Toys,119.23,Credit Card,Pending,44.37.87.85,Los Angeles,Desktop,594,No
+30:59.6,20068136-2e6f-4547-95b9-c30d4cd447e1,44d83446-d313-41c8-87d6-168bc9489190,1537f589-78ac-4ed0-b7bf-eaa8a1b32c17,Apparel,993.61,Bank Transfer,Completed,126.151.225.205,Phoenix,Tablet,2737,No
+55:38.3,244a756d-ff96-458a-b54b-b3d64da5cf50,d0ed6627-58c1-407b-9bd1-762d19f695b0,6bf6f6a2-7c71-4fd1-b32f-b9f772f8fb32,Electronics,432.68,Credit Card,Pending,143.78.159.81,Chicago,Mobile,3282,Yes
+49:48.7,00dc666c-db1e-4a30-993c-1cc2332a164f,cff63dc7-c4d7-4e99-a84f-474fe96c8975,04697050-96d7-43e8-8430-027db0641a36,Toys,575.98,Credit Card,Pending,111.135.200.24,New York,Tablet,374,Yes
+05:17.4,a84d0d38-9b4d-4c89-85b0-225947878ca8,6ad534c2-662e-4b7d-bfe7-fcc03649958d,81513ee5-aa3b-47e4-aedf-5331f2a96423,Furniture,69.18,Debit Card,Completed,158.183.202.144,Los Angeles,Tablet,288,Yes
+47:24.9,84f81374-afe9-4ea2-a1cd-782e1f5f3640,210cb669-c615-404e-b2af-23f0144699d1,2343f926-0bd0-4989-824e-7ea4e0e7acc1,Furniture,620.05,Debit Card,Pending,122.22.27.45,New York,Mobile,1402,No
+18:21.1,1c6d5fbd-abae-4187-92d5-0f481e39e05d,3ebae58d-8112-42a4-bb07-aafc511d2a1c,74a2eaa2-f239-4e52-a7d2-0a8b9f05f148,Furniture,426.76,Credit Card,Failed,58.1.4.171,Phoenix,Desktop,117,Yes
+20:37.0,ccc9e7b1-83b0-498e-b03d-ca08af5d142f,d861f0c3-101c-4654-ae1a-9f35b541a104,20b3a642-3fab-4ff1-8f1b-aa0e62d9ea4a,Electronics,103.2,Bank Transfer,Completed,162.187.100.161,Phoenix,Tablet,3326,Yes
+45:51.0,f60f3039-4a23-4f6e-bdb2-c37d33d81a6f,428b0a90-eecd-4d7c-91bc-42edd307cc28,013a42d7-dfa7-413e-8aac-d8d78d32b4ef,Toys,669.41,PayPal,Failed,218.199.66.251,Phoenix,Mobile,1226,No
+18:16.3,1026358b-dbc9-4096-9489-5dc3a6ae9a2b,2f3abf89-2d32-4fc3-b261-b498e5a2e28c,602c3a48-7b47-4dd7-b08d-9cca4e2c2e0e,Electronics,256.73,Credit Card,Failed,210.138.63.36,Los Angeles,Mobile,1938,No
+39:27.7,256ac1c5-a6f8-47d3-9be2-5c56261c9f62,8c33364a-052d-4784-9fa9-d46afe75ab9e,682aa578-cc6d-4e51-a81d-e4d4f11b7312,Groceries,914.93,PayPal,Failed,114.14.61.7,Phoenix,Tablet,2088,No
+04:59.3,c0f4abbb-160c-4fac-87d5-7441ee1d5a27,09c7e2a2-e864-4d9d-9dcc-0dbbcc4b5226,ef0dbd05-da62-4253-a177-928bd14854e0,Toys,929.71,Bank Transfer,Failed,2.175.56.216,Phoenix,Tablet,2146,No
+21:20.2,2dfb3268-32a0-4e75-9be9-2f71b8de8fa5,e7b5d694-6f0b-4181-8d77-2d5925643192,bad6e179-ec3f-40a2-9403-293497f77c48,Electronics,862.12,Bank Transfer,Completed,57.24.91.53,Los Angeles,Mobile,2734,Yes
+59:50.8,5ebca33f-cd36-4e1d-894a-8c8d44100cd1,0aa4830f-ccf5-409c-9820-a9ffe859f09b,3430261e-99d9-4217-a8c8-244be6f97489,Apparel,260.28,Debit Card,Completed,66.192.49.47,Chicago,Tablet,1347,Yes
+44:02.3,15486f2c-2dd1-42db-9667-fc5b51da6f9d,8964ca88-1066-418a-9938-6dab8d3785ea,88a474d7-22cd-4fb8-90a1-4e2305ba3e7c,Apparel,241.52,PayPal,Pending,81.131.121.156,Phoenix,Desktop,1098,No
+25:52.1,c80ffb69-1277-42b1-99b7-4433b604894a,91ee0850-ed9b-4fb1-93d0-d2581a557c8d,32a5599a-f96c-4b38-997d-39958b86cfbf,Electronics,567.14,Bank Transfer,Failed,31.149.69.201,Houston,Mobile,3338,Yes
+05:30.4,1dd31196-a5ed-49be-b908-b91b199b7353,e58bdbe2-57a9-4dd7-b249-b8da6738628c,a5268905-a093-47f8-8eb8-eea2b2cca12a,Furniture,150.96,PayPal,Failed,24.213.14.50,Los Angeles,Mobile,1354,No
+02:26.1,de6f0e12-aff6-4a14-8939-6aa68329dae9,84ed490b-cda9-4c4d-ba3e-03737bc9b18a,1832289e-817a-4feb-8ad8-d22c7646528d,Furniture,313.66,Credit Card,Pending,114.124.85.234,Phoenix,Desktop,1131,No
+53:33.4,eb0c382e-3307-49bd-a976-0ba0b23232da,2cc40571-0f39-4348-9d2f-93d1b54da7cc,a3fa490b-7deb-4624-a5d8-b180e31a3e74,Toys,21.16,Credit Card,Pending,72.70.161.92,Phoenix,Mobile,1387,No
+06:38.8,3b2ab588-6779-4f2d-836e-155b1c5d8556,2a4a9fa9-f69e-49a5-b3ef-18ab044d2108,e8473da4-dfcc-441b-8941-760e41f7379d,Groceries,400.35,Bank Transfer,Failed,6.175.18.199,New York,Desktop,2378,No
+58:45.1,5e715827-453b-4f7b-8af5-7f411093228a,a25d8ff1-777c-4168-acea-50bf9d895e63,7743f4d3-9f32-4f3b-a684-cea58972ea2a,Groceries,899.55,Credit Card,Failed,140.138.7.43,Houston,Mobile,2153,Yes
+09:46.3,e7df0007-8ffa-4c35-bc23-a0def0bdc7f8,fd6d7714-bb66-4b88-8f51-d3f103c14725,f609212a-a62a-4826-bbc4-64ca2e0c8e05,Electronics,399.65,Credit Card,Completed,60.16.136.249,New York,Mobile,2835,No
+37:06.6,719061b2-fded-4979-83e6-15a00b94a4b2,47e6924d-8cb1-49f7-beb3-3fda12cbe382,d2f5d52b-8746-4412-ac40-1439df860d91,Toys,901.28,Debit Card,Completed,34.214.82.160,Los Angeles,Desktop,2849,Yes
+39:10.4,cc6bb036-11f2-4d10-a2bd-130d36a4a502,2a2729d8-6147-46a8-8c94-698425478ce4,fdc64b6b-9b7c-4bb2-a47d-75ec2dfa3677,Furniture,941.64,Credit Card,Completed,67.134.128.23,Houston,Mobile,2913,No
+01:16.5,350eb6e9-4c20-4292-9c57-f857583efd61,7d375c83-1662-4d10-8b44-7c346a3a645a,e66f158e-8c3d-4719-926a-2243d7998315,Electronics,860.38,Debit Card,Failed,221.9.186.174,New York,Tablet,2452,No
+52:13.2,c386d65d-87b1-41a7-bfaf-3ae23bd9df84,74059342-4b8f-462e-b75a-58b77dbd5a69,ce3eea7b-d900-4cce-8c6f-b2ec7f509747,Electronics,22.85,Credit Card,Completed,192.101.152.71,Phoenix,Desktop,984,No
+19:04.1,1b3c8209-390d-4771-9c10-9a84042b0cf0,4b7f205f-b591-4996-9c80-50ef31409b9e,f7bd54ea-1edb-4693-8c85-942c9f3c84e0,Toys,312.79,Credit Card,Completed,217.145.247.165,Chicago,Desktop,2710,Yes
+18:12.9,f4e090f6-3531-457c-b7f5-30a13f2a4df9,3c0bed98-d1cc-476e-9222-757293a44178,839c32e9-6862-4a7b-b56e-f73a3a7b1722,Groceries,504.75,PayPal,Pending,163.8.28.254,Chicago,Tablet,738,Yes
+29:34.9,c8fd25b0-0f96-4a55-80e8-75e22661dc2c,8a6af430-745d-4f22-9e12-3e2e8ef0b681,abfe037f-a5ec-42e0-ad5b-89fb906025d3,Groceries,748.67,Bank Transfer,Failed,145.244.154.5,Phoenix,Mobile,522,No
+31:03.3,b5820a5a-c476-48ee-94ca-4359094d2439,19a78b3b-fbb4-4671-be90-e7925388bccc,7f2d8a66-abdc-4f5a-942d-a751f484e1a2,Electronics,587.69,Credit Card,Pending,175.40.216.13,Chicago,Tablet,3592,No
+32:08.0,99939b0e-a0e8-4f35-a690-1ac427ab8e44,a6386628-4bb1-4b07-9b15-22f5dddee8d4,0ea018dd-5fcc-4fb9-9548-d2b2740dac7e,Groceries,552.91,Bank Transfer,Pending,222.103.220.164,Phoenix,Tablet,2473,No
+51:07.0,81aba340-51d7-440c-845e-b469afa76e17,d4a7001b-52cd-4488-8121-85b86ecd06ce,adaee40b-d69c-4a24-8f96-f5d19f0510b4,Apparel,742.58,Credit Card,Completed,202.194.159.150,Houston,Desktop,3248,No
+16:09.1,2d55d0cf-6521-4a38-bbc8-a456e0399634,8b2924ef-557d-4a34-b185-5f1425cb7512,7906fab8-30f2-4590-9abf-a1b64adcea45,Electronics,565.7,Credit Card,Failed,222.32.197.141,Houston,Mobile,1325,No
+21:22.9,3fc4b0ff-b657-4b22-bf89-0013b1ae41e5,3bd197ed-16a0-46d1-9228-8d8b9139d211,5ce63eb5-0f4f-4812-9e12-f29464f65d7f,Toys,466.24,Bank Transfer,Completed,64.181.120.168,Los Angeles,Mobile,2539,No
+20:09.1,5029d5af-7483-4a71-9bcd-8e023d6514b9,32bae12c-b27b-4ebd-a054-7d33bb468df0,b0205459-cc0d-49ab-810f-5e568afa8b2f,Furniture,106.32,PayPal,Pending,154.73.229.181,New York,Tablet,90,No
+42:08.0,d1daf5b9-1efb-4b35-adf3-f75dcbff86f3,32ebc8df-9d10-4513-accf-511a8f32825a,6eced6d7-11ba-48fc-8655-4f3a50bf53bd,Toys,907.36,Bank Transfer,Failed,147.91.38.21,Houston,Mobile,860,No
+27:56.7,b5838bfc-746d-426e-844b-876d28d30804,06fad7e8-f2c4-48ca-b2ed-30d45e5c0839,de8bc399-d00a-4316-a580-57639ce6147e,Toys,211.86,Credit Card,Failed,216.240.44.110,Los Angeles,Mobile,3547,Yes
+45:14.5,c36dff6f-ce0f-4ba8-b821-4fe593a987e0,13e7ccd0-e7e9-4180-9b07-6d49501f1018,1ad58dc2-024b-4810-aa30-66708fcfaa66,Apparel,592.35,PayPal,Completed,22.40.160.150,Phoenix,Tablet,1710,No
+21:13.9,2cb8e20e-3c2f-4ba2-bb7a-b1a0a9ea4acb,8afa808f-0c6d-4d57-8cef-4d5df179de35,ccdc03bc-b182-43a1-a29c-7de354b7a469,Furniture,362.3,PayPal,Completed,70.226.29.121,Phoenix,Desktop,3386,Yes
+29:09.9,17a61035-1bcb-44a2-982b-2e82b2d72a2b,10fcf082-132d-4577-a09c-5e51d500b299,b7089741-3473-4358-ba62-5fd700441829,Furniture,137.41,Credit Card,Completed,204.125.138.221,Los Angeles,Tablet,1214,Yes
+32:27.9,51fb0d95-9c81-422d-afbb-f9cda291f887,e9eb2193-54c2-46dd-bae4-54bf62e15aa0,5590d50b-951e-4761-887b-31bb953e3ea3,Electronics,761.46,Bank Transfer,Failed,139.214.13.65,Phoenix,Tablet,1594,Yes
+38:38.7,e7a952cf-c613-4400-8f3b-31b75bf69dee,ac7378ea-3a33-4be4-967b-0e1bbd2daf34,54f60729-44df-4c59-a17e-98c18b94032b,Groceries,825.36,Bank Transfer,Pending,80.205.54.163,Houston,Mobile,816,Yes
+31:24.6,27db0aee-52b3-49c9-8041-624c4059459a,249cc2f6-df0c-47e1-933d-07fdcecdb194,02f1d7a2-6e58-4edc-9439-ca14ebb451b2,Apparel,758.85,PayPal,Completed,185.37.188.209,Houston,Desktop,1148,Yes
+41:09.3,32b4cd2a-536f-40d4-9199-99b10fdf4aca,a636d956-3c73-4aab-a850-44e9b9980f12,c6fe344e-6ac3-44b4-8f00-7c864a8b8c2b,Furniture,737.29,Bank Transfer,Pending,23.135.12.223,New York,Tablet,3160,Yes
+53:26.8,638c1ad7-c057-4392-99db-ae4c51bf4b2f,fc56f58e-d4a6-4711-845d-70dd57cc11f7,509a7a3a-44be-4347-ac96-1c93c96903fd,Furniture,186.73,Credit Card,Completed,51.147.171.155,Houston,Tablet,1304,Yes
+38:47.0,dc2a5585-8268-4524-9397-a09ea36bc43e,10406a10-c1e2-4dde-968a-267c468bd2b8,4e5d981b-4765-4995-a851-057bb29fcc13,Groceries,328.71,Credit Card,Completed,198.170.158.106,New York,Tablet,891,No
+13:57.5,fe153bab-7d8f-487b-b7ba-d91e33d56275,a34b52f8-bea9-4e99-9906-68d5037fea6a,c130c354-7ea5-4bab-8731-fe9f98af8122,Groceries,557.03,Bank Transfer,Pending,141.82.109.152,New York,Tablet,1285,Yes
+38:10.4,d6ca4baa-a464-4c1e-8876-f0ae573ed1ae,da917880-4c43-41d2-a2fd-40cd512c48e5,5ad80b93-caf0-4c93-81ef-0aec79682074,Electronics,282.4,Credit Card,Completed,10.207.148.184,Houston,Desktop,1821,No
+35:39.4,58781b30-c4a1-49b7-bd6c-b0b42fc1522d,ee72c1dc-486e-4fe4-b1a5-53e9c90eabdf,6f9e450f-7e16-4b55-bce7-85807ae5f10d,Furniture,417.87,Credit Card,Completed,30.228.132.124,Chicago,Desktop,2823,Yes
+12:43.2,73c39116-91dd-4eea-9903-e8e896479839,718d02af-b490-4f65-ab34-fb76580ed5fa,c4832026-360a-4955-8611-a1348827af18,Electronics,375.53,PayPal,Pending,129.6.54.148,Los Angeles,Desktop,948,Yes
+57:55.4,7bb7a6ac-6ef2-446b-ad57-a6af61b88ffd,e1042025-9849-40ca-9d2f-cad3b070034c,b3607d42-01f0-4537-9f00-91ccb1a5a184,Groceries,535.99,Credit Card,Failed,18.77.182.58,Chicago,Desktop,1736,Yes
+38:43.0,f22fd9ab-3fe1-4c8b-8d5d-895a7632ffe9,18fb8e44-5a3c-43cd-a3c8-77eb4d05873a,113bcd16-c237-4720-989d-b2db6c29c845,Furniture,547.99,Debit Card,Pending,208.19.75.249,Phoenix,Desktop,3389,Yes
+20:42.6,e357ea02-e4e7-4073-8751-950a8a422712,0cf6cf0d-a205-4d22-8fd8-515241f8b28a,785c1fca-a7a7-4b5a-ad3a-419a08d01df5,Groceries,535.16,Debit Card,Completed,180.241.96.165,Phoenix,Tablet,1216,No
+47:36.0,23cd268b-6eca-4eea-8c47-7b8dd924ed40,c0eb5b2b-0e3d-4e9d-a410-01ce78b90561,3fc557e6-62ce-4166-a614-66c1da25d590,Groceries,825.82,Credit Card,Pending,160.238.70.172,Chicago,Tablet,2874,Yes
+04:23.2,a18bf8bc-69e9-497d-9d08-14a2fbbd8967,2af83763-8caf-4665-b10d-6f45b5967349,3fdf078a-2b19-4f69-bf9c-bd1c03ba0b11,Electronics,912.78,Bank Transfer,Pending,166.213.170.64,Chicago,Mobile,2847,No
+04:53.3,d9d9ab90-c926-4d50-8282-dd3c6716c534,b25d96fd-d2f5-430b-aa19-5eb31471544e,b2f052a4-745d-4573-b50b-5aa602884ee2,Furniture,412.04,Bank Transfer,Pending,31.38.161.211,New York,Desktop,2085,Yes
+35:45.1,263ed09d-0ca8-493c-8c05-1f4e62bb6b13,173be204-d1da-46e8-ba5d-3892a00f15bd,6f02713f-11a0-4643-a7fe-02302176133d,Apparel,150.67,Credit Card,Failed,111.162.181.125,Los Angeles,Mobile,1764,Yes
+33:53.6,b83bab25-1eb3-427a-be38-e9cf2e370d51,35a21a5e-d418-49d5-82ad-ebfc1c4a3212,74d264a2-fb34-4ee5-b714-a48c3f9fe4e6,Toys,798.65,Bank Transfer,Completed,212.88.178.76,Houston,Desktop,1271,No
+13:07.1,60f9cc95-b6ad-4fa0-b008-f8bb551a536d,9d0a49e5-129b-4829-bcfb-f5512f4efb7d,43f4c229-300f-4b88-b400-6a65f5a21010,Toys,520.59,Bank Transfer,Failed,177.103.187.247,New York,Tablet,1242,No
+21:48.5,8fc46373-fb45-4e9e-8521-b7c2f1eb57c0,b3247bd0-2080-47b8-8060-9a9d1606acd1,a15a7c5b-ecac-44dd-93e3-f989c8bc1c34,Groceries,949,Bank Transfer,Pending,215.24.202.192,Chicago,Desktop,1440,Yes
+40:53.4,2e315153-7909-4b37-b090-9e1ea54e1ad3,a80c1c2e-ab35-47cb-9afb-e5b8debc7afb,ebc21915-b613-49d6-9fc6-a97264171977,Apparel,592.69,PayPal,Pending,120.216.3.224,Houston,Tablet,2195,Yes
+03:18.3,afa49f15-564d-4283-a01c-6af607cee16e,ee1f5325-614d-4ca7-b35e-337accd37f6a,d858b06e-dfc4-4eb1-a973-2a1d69def60d,Groceries,106.64,PayPal,Completed,212.45.8.240,Chicago,Tablet,2765,Yes
+51:26.4,f4c78e39-7f49-4a0d-96c0-3bba3455e339,7e9a72f7-3201-431b-a63d-acfd6eb3e290,76eeeb44-f5dd-42dd-be06-dbce09c7f76e,Electronics,415.49,Credit Card,Completed,4.155.203.68,Phoenix,Desktop,3291,No
+06:52.3,73cb36fd-e470-4431-bc07-4303907c05bf,5ad3555b-451b-496d-999b-6137209fdcb2,5acfbe41-9c78-4caa-8bb8-889e4953f0e8,Electronics,249.27,Debit Card,Pending,196.149.131.140,Phoenix,Desktop,2782,Yes
+21:15.1,f05d0c9a-3966-46e2-95ff-f81200c7f31a,8cfe1c30-29c8-4695-aa5f-d618485500b1,8da0952e-3c28-46b3-b043-b2c63cd5998e,Electronics,560.93,Debit Card,Completed,64.40.90.231,New York,Mobile,783,Yes
+32:12.7,b57cdb0e-79f3-475b-8043-d9ed3526f7c4,43929e91-5748-4702-9119-b1b7e3973abb,67f3120e-868a-410c-878a-2651f86dfe31,Groceries,671.02,Debit Card,Pending,119.108.3.207,Chicago,Tablet,784,No
+08:01.7,53231c07-cbff-4eb2-a000-9ce0d9792f21,96e37d1a-0ba2-49e3-9f2a-93dd58aa6ed4,ef9af601-b63c-4ea3-95b7-f861a85ba715,Toys,751.58,Bank Transfer,Failed,68.88.37.168,Houston,Tablet,71,Yes
+55:00.1,55ea57bc-a3dc-4f85-8e55-7920a0e9d026,07c067b1-e16c-4d6b-8ee0-cbc608059c4e,92e0b863-2875-403f-8c61-36fb181a0536,Electronics,258.63,PayPal,Completed,222.182.214.246,Los Angeles,Mobile,2564,No
+41:42.4,ee86297e-1edb-4cc0-8f7f-7c4cf0f8736b,8bcde94b-a1e8-4696-b43f-8d0355c926b7,e77f5f00-dd4d-4e99-aaab-afaa810018a9,Furniture,27.62,Credit Card,Failed,33.6.135.124,Houston,Desktop,2114,No
+24:47.7,48e63422-3836-42c9-9846-09c428029e2c,0a2eed20-cba8-4a8b-8f05-088697e928db,94d47630-cc93-440c-856f-1f8d6489fda8,Furniture,522.14,Debit Card,Pending,157.105.7.177,New York,Mobile,2371,Yes
+55:22.1,00388b47-6e43-4be3-9bd0-9060ff62e316,19b101f9-c5e7-4d7e-bbe1-7da74d6d85e4,d5304372-bd7b-42cb-a4c3-d7d2f7fe5eb1,Groceries,809.58,Bank Transfer,Pending,34.39.168.75,Los Angeles,Desktop,2499,Yes
+45:10.4,e4a83fee-a584-4e0c-99ed-92e913f496ed,617b64bc-3839-4a11-b6a8-544574203fb1,38f81ffd-a442-4312-a5c2-43fca0cee060,Apparel,262.31,Debit Card,Failed,205.133.53.253,New York,Mobile,1796,No
+18:46.0,1056f31d-ff12-432d-9861-b65b76dc0a24,660babe5-2a0e-4e03-9895-3222e67cffe0,6dae1c0a-73ca-44f7-9190-feb586f457de,Groceries,889.98,PayPal,Pending,196.65.125.166,Houston,Desktop,2038,No
+46:31.4,3f5be1ff-35d7-4bce-9d91-fa456de592a9,4cea0910-d30f-40f2-b0d5-25c593b3a91c,09db63a9-66d4-4561-ac82-944e074b88fd,Apparel,553.67,Bank Transfer,Completed,78.169.234.232,New York,Tablet,3460,No
+30:25.3,4ca8c435-8ce8-4a66-8387-a2f7bada925b,9209f931-8edb-443b-8cee-66a51cad750a,a97731cf-e214-40e6-bfc2-9d6528287fa2,Groceries,603.63,Debit Card,Failed,213.216.217.208,Chicago,Desktop,2450,Yes
+44:12.9,7fa8e986-07d6-4384-8b2a-b2739390044f,76f14cda-79f8-4b8a-add6-fe5f854030c1,10ee5923-1d9d-4f65-ab7e-6f0d98bd12a5,Furniture,297.15,PayPal,Pending,156.249.212.199,New York,Mobile,2335,No
+12:50.4,915b3393-e012-467f-809c-1e7925873fa6,3c74b56b-88ce-4431-9f38-98bb783acd99,22c4f96d-c4f2-4797-981e-674e4814ba5e,Furniture,449.68,Credit Card,Failed,211.9.4.73,Phoenix,Desktop,875,No
+45:53.5,337b6df4-34d5-42c8-b2de-e20efc124d5e,93fd9825-e5e3-421c-b52c-d7b13b102857,a5cc3bac-a8fe-48b6-b11d-afa243647d7f,Electronics,498.93,Debit Card,Pending,214.198.218.147,Phoenix,Mobile,3149,Yes
+51:37.4,382ba1ba-303c-4b50-82e1-fa44879d1c6a,b41ea71d-c091-4939-8c12-cc4b85570da7,b7f37580-32cc-4904-94cc-8456f0d8aa27,Toys,501.53,Credit Card,Pending,5.45.242.164,New York,Mobile,1891,Yes
+07:16.6,b9e7a655-f608-4a99-8b45-da2ac0727b55,9f1d380a-b487-4992-af08-fcb797009ee3,188e0809-7258-49d1-a076-11b39a1442f9,Toys,828.12,Debit Card,Failed,86.105.110.228,Phoenix,Tablet,133,Yes
+42:27.8,ad473673-adcc-448a-b235-a69b5179d712,8f1cf893-1dd6-48dd-9fb7-f723febdab67,45cd0fa4-12da-4289-8730-abef7a46aeec,Apparel,188.56,Credit Card,Pending,159.16.235.27,Los Angeles,Mobile,2948,No
+08:47.4,5ce498a6-c28e-494f-8d71-676ff2f84b71,ef24ba5b-1263-4664-81e8-8645fd7a2ff1,4c5b9e69-429b-410e-9af0-ee6455a10bb3,Apparel,655.31,Debit Card,Pending,217.154.43.112,Phoenix,Desktop,2477,Yes
+14:58.9,3f382bc1-f8f6-416d-816e-9b85d716f23c,f689926e-72b3-4244-96b7-032041ca9816,e643d3b4-8203-45f9-b26e-e2a0926fde16,Groceries,462.65,PayPal,Pending,210.228.80.196,New York,Desktop,2361,Yes
+35:31.2,1f43f762-6180-4b86-87dc-78c6a3c69e58,ae1edee7-ad7b-4e52-86e0-14d423198a88,48ef6203-e20b-4a00-a6cd-3eb43955112a,Apparel,710.34,Credit Card,Failed,179.6.77.14,Los Angeles,Desktop,759,No
+48:07.0,b2eaa8ee-99bc-4e53-bd8a-3c82014b3f90,13d4a5fa-0d12-43ef-8530-b66467f4d19a,08409b73-c707-44a6-ae84-e95b93863e4b,Apparel,754.37,Credit Card,Failed,55.11.121.173,New York,Desktop,834,No
+23:34.8,ec3624a7-1e83-4e3e-97a0-eb49dd71fbd5,fdcf05fc-3c31-43fd-b44f-597a3ce4ba76,91b5d5f9-3ca8-4649-b41b-dde92eafb502,Toys,10.35,Bank Transfer,Completed,144.221.240.89,Phoenix,Tablet,1774,No
+57:15.6,463d55bd-e4d1-4b4f-93a8-546e75e57883,e40fb8bf-c230-4d62-a71e-51d9bdd9265b,52e44cf7-a068-4bdc-a2cb-6f26d7cf8be3,Apparel,497.4,Bank Transfer,Completed,220.139.104.144,Los Angeles,Mobile,2479,No
+45:56.7,6ef9873d-f899-44b4-9acf-26dce2fe95be,d6dd26d2-eb90-4309-a362-87b73d4f12ce,c8c93e2c-b82d-44fe-b43c-ee59f3306a88,Groceries,211.83,Bank Transfer,Pending,69.103.82.148,New York,Tablet,2831,No
+56:36.2,27617572-77a9-40ef-b488-8f4ccdc36328,735375b4-62af-40c0-b646-dce76f25f90b,1b1e8c43-7458-4b84-83de-8c8dd1088064,Furniture,131.77,PayPal,Completed,27.25.117.237,Houston,Desktop,1806,No
+52:01.7,85f94b21-010d-40f5-a2b2-2f90e10255fe,4d96cdcd-90c9-4212-ac0e-1ec63dfe4192,1e0139e2-71d6-4211-9541-ab47da2e04d7,Toys,31.09,PayPal,Failed,27.196.56.199,New York,Desktop,469,No
+05:00.5,c2d8c126-bcfd-4bea-a212-e8b99b0e8016,32b4edd0-e1f1-4873-8739-c2c218d4dad5,242f5573-4da2-4f4c-9f42-57a61ec8213d,Groceries,924.95,PayPal,Pending,197.171.147.2,New York,Tablet,1422,No
+49:22.3,45139d2a-6208-4ae5-92c0-bc9da7be1537,716c31c1-ee89-40f9-a91c-3479e2e0711b,2322e0dd-dddd-43e9-acec-bb12cb321751,Electronics,435.51,Bank Transfer,Completed,21.130.195.76,Chicago,Tablet,538,No
+19:37.0,8547bbe2-4315-422f-94b8-9b51060cd691,cb2c6734-f15b-453a-b212-754ebad94f4f,84570013-5f61-4a56-a891-92311fc8b412,Furniture,15.65,PayPal,Pending,121.31.107.123,Houston,Mobile,1380,Yes
+19:27.3,639edd14-1441-41bd-8fd6-798b540c3c2e,1cf1cd9f-4d61-4a32-862c-b3d48562c921,4d9eb8c4-0da4-4e0a-8da5-eff897bfaf01,Groceries,346.1,Credit Card,Pending,205.249.32.240,New York,Mobile,2679,No
+53:38.8,42d825d2-7bc2-4b0d-ab52-d7aa6d69c3f7,792bd7b3-824f-4ccc-acd1-4074d5e0aa92,bb55c9d0-f94c-4ecf-a0e2-c2e312e7bd4d,Furniture,705.27,PayPal,Failed,174.188.26.92,Houston,Desktop,1281,No
+11:59.9,2a917e35-a414-4b7d-ae9e-e7f89e548720,c8243f98-6fef-4d32-859d-654503f05207,9807742f-1f26-43e5-b922-183b2c1f2294,Apparel,469.63,Bank Transfer,Completed,118.75.22.183,Los Angeles,Desktop,796,Yes
+20:01.7,468d6d34-0461-4821-bf02-108df1f7a463,966db9ff-06ff-4003-882f-d8f92f683799,c8f740f7-2432-4f20-b944-92ac0281c0ab,Electronics,676.73,Bank Transfer,Pending,188.60.57.192,Los Angeles,Tablet,256,Yes
+51:58.4,7ff3c866-65d7-43f7-9828-63753425081b,d8dde265-ec52-47da-8564-6247eb322cac,5d38a5a0-000c-4417-857a-d71ec4ffd378,Electronics,981.89,PayPal,Pending,189.40.124.21,Los Angeles,Desktop,960,Yes
+40:45.3,7f41d850-70a2-4664-a232-63f0f8a63304,390f2013-5c1a-4791-ab99-e2b54fd1c10e,7bb71098-35c9-4d77-b5cf-29f27fa6fc01,Toys,23.62,Bank Transfer,Completed,131.74.59.93,Los Angeles,Mobile,416,Yes
+12:52.3,009fadab-ac3b-427e-b03f-33083b083a33,499baa5e-ea11-48a4-ac4d-1602556cf9bc,9d7b63be-1adc-4c18-8e64-dc073ada7115,Groceries,917.51,Bank Transfer,Pending,102.60.194.132,Phoenix,Mobile,383,No
+08:40.8,765ce488-94af-4450-869d-ec07e4075794,66133fb3-b1be-478b-a21e-c5232fafd364,99ed729b-0772-4606-8181-7086d30c373c,Electronics,413.95,Credit Card,Failed,43.47.76.204,New York,Tablet,974,No
+43:08.1,d9da128e-6147-435a-9153-36f324229275,95333a30-7166-4066-89ae-0380e7cf82ad,6aaf04a6-f23c-4d4d-8154-a9ec303ea3da,Groceries,347.64,Credit Card,Completed,128.110.37.122,Houston,Mobile,1983,Yes
+02:10.3,7af4e9e0-e079-414e-8b96-e737d94f9d0a,0183ca1e-0c9c-4ed6-bb75-25adbe6b73b2,5641c53b-ffe1-4854-ae97-c0e6436ba401,Apparel,36.76,PayPal,Failed,18.241.216.138,Chicago,Mobile,1176,Yes
+12:15.6,e2625f1b-9163-4d08-ac02-eb90c7012c33,d4340e6d-b221-443c-8331-9dd744639fc7,fd11daa4-9128-40ff-8692-04dd13f2fb2e,Apparel,471.72,Debit Card,Pending,110.48.24.155,Chicago,Mobile,811,Yes
+56:02.1,923423b9-7170-41b4-8cc6-4f7660e630ae,02e9be9c-4f55-4692-b1c7-df6673fb1bee,f577981b-981d-4130-8537-3444ca203117,Apparel,549.22,Bank Transfer,Pending,188.53.6.60,Houston,Desktop,1722,No
+35:07.4,54eb2428-d52e-419d-a823-9cda111b194a,a3b4f46c-4a8f-4f16-8200-c0d862fa27c7,6354f494-92bb-4b5b-8e42-bdbc01bc2ce8,Apparel,421.11,Credit Card,Completed,11.243.239.51,Los Angeles,Mobile,876,Yes
+31:24.9,a0b10033-ada8-4ce0-b700-9bba0e11afac,74f69f53-0fb3-47cf-8b45-130f5329a541,739ccc9a-a2cb-49b3-a186-34cbd2284f63,Apparel,870.33,PayPal,Pending,184.14.46.71,Phoenix,Tablet,474,Yes
+29:22.9,9793eec9-5fad-4564-8aaa-1c4b789e8c7e,ffc983e6-7f87-42cc-94ad-45083f77bc34,f8d3d856-35be-486d-9504-e9c96481fb39,Electronics,799.18,Debit Card,Completed,168.43.78.202,Phoenix,Tablet,1084,Yes
+22:15.4,c7b9c37b-2a47-46ae-a5c1-eb329e7b348a,edb23e97-5844-4bf0-adbc-880cd6eb77d0,d7fbdcf9-5c94-42c5-9f85-b8ee9b9945b7,Electronics,455.49,PayPal,Pending,65.39.146.249,Phoenix,Tablet,1524,No
+09:45.5,0e760638-ee12-480e-9a50-f11e15716503,e24625d7-8d8c-4135-b1b5-976ae4051656,95dee893-fca1-4f5c-ba9f-c0f31ce1b1bd,Electronics,220.48,Credit Card,Failed,61.0.210.90,Chicago,Tablet,3532,Yes
+25:22.0,6533e2dd-3f44-4ab8-bae7-683b85b3eb98,ffa98b55-200f-4476-a85c-8fc1059935fc,3501c498-6163-41a2-9c74-2781a2e75753,Groceries,665.6,Credit Card,Failed,183.229.54.137,Houston,Mobile,1852,No
+35:24.9,3caddf22-ba50-4984-9357-ed173a5f78a6,1c49a358-ec25-443a-b0d3-50d554018607,fdbb72e9-17d5-4c16-83b7-9821b0214f52,Apparel,340.67,Debit Card,Pending,217.206.110.84,Houston,Tablet,422,No
+04:44.2,50875680-32ef-4b84-965b-0b3c2fdb1fb1,e03488db-1fa4-4c8e-81cc-718572f300fb,79c55c3b-a193-477c-97c7-a343a983f93d,Groceries,254.92,PayPal,Pending,221.168.195.124,Houston,Desktop,3128,No
+18:32.8,52b2f052-da6d-4e7f-89bb-6967d683e0c6,7b76e30a-1a89-4445-a0e2-72c3fc85dd42,134e096f-04d1-44d0-8f1b-deff8aa3de70,Furniture,65.54,PayPal,Pending,35.143.224.219,Houston,Tablet,304,No
+45:23.2,59a212d4-8672-45c6-b9c0-533884b62aff,2214b3b4-8332-46db-aa6a-665cea4d494f,dea9549f-bad2-45af-b4ef-0f24534da805,Toys,705.25,Debit Card,Pending,137.59.222.149,Chicago,Mobile,1901,Yes
+16:04.4,382a1d78-a7aa-40a6-939f-edca8f7f7778,1fa788ba-d873-46e9-aade-c1cf49c8bc06,c08f5f34-e544-4a94-92ce-b662b9544c80,Furniture,434.42,Credit Card,Pending,8.139.129.64,Phoenix,Mobile,3588,Yes
+50:57.7,263ff4a1-de78-4f20-8c5d-93e94cd30671,b6f651e0-4f33-40b2-abc9-72e9398240de,fd34d90c-59a8-43cf-85a7-9bca51c86d59,Furniture,115.69,PayPal,Failed,164.52.112.98,Chicago,Tablet,51,No
+04:27.0,c91f6aa0-c52e-4d38-924e-24536f0d7d32,b8b9ff37-c58e-4acc-865c-be420137ab00,15785a83-91c0-4659-b6c6-4bc40076c9c8,Toys,224.18,Debit Card,Failed,10.206.108.179,Chicago,Mobile,903,No
+57:19.5,847e5c71-0374-41fa-94c5-7fa30c6f4a6c,9eb37f68-9ef4-4982-9492-5b1cd368988f,cce1b89b-5ce5-450c-9d9e-bea291505cda,Electronics,415.8,Debit Card,Completed,26.165.220.195,New York,Tablet,3309,Yes
+22:45.9,37fe4117-97d0-4b03-9854-ae70420ff1b9,6d6736b1-9ff9-4bc9-a8a8-257b53b2e033,ef17b07f-2241-4c3d-8489-f61105718804,Electronics,125.62,Credit Card,Failed,195.142.112.26,Houston,Desktop,3120,Yes
+49:29.0,f66fa1f5-ace0-4cca-a47c-5d0959b5a808,58300f38-de58-4f93-a27b-9154e4888db6,3af7a64e-c331-4e5d-88e3-a8556ae4c2a4,Furniture,643,Credit Card,Pending,138.23.116.128,New York,Desktop,2705,Yes
+36:12.7,80a4e617-44e8-43d1-a3b1-7f727ba046f5,a19fd70a-f1df-4dbe-bd7c-e08d6f80a980,9014825b-d1e3-4c26-b750-402c327028fd,Apparel,986.46,Bank Transfer,Pending,25.3.240.204,Chicago,Mobile,1068,No
+10:40.7,480b24d8-45a9-4a90-8ca1-03fd7ddb183a,2f39e40c-d78a-4bab-827d-8df0e744be25,e044a495-178c-49a3-b598-741d0f8f0d0a,Electronics,834.94,Debit Card,Failed,183.56.71.37,New York,Desktop,222,No
+50:24.8,65124e77-41e9-46c5-af8f-26643944d321,4843bf90-8e27-4a71-ab54-53e0d1633baa,ae59de58-8878-4c02-b8ce-509d494c62ae,Groceries,979.42,Debit Card,Pending,221.8.228.66,Chicago,Desktop,251,Yes
+48:08.4,f789208e-f9db-43a5-aa04-4a39819f3846,142d16f1-8b00-4b7b-a5e1-446cdbec4ff7,634c0b62-66e0-4b3e-877c-32609b06607e,Groceries,199.44,PayPal,Completed,80.235.175.105,New York,Mobile,818,No
+35:14.3,50bd98b3-2768-4316-8b64-2ef84ca78953,a8cb74e3-eb0b-4520-891a-6e6716e91291,1f4f6be6-6d5d-45c5-8d1a-d74313958246,Furniture,953.48,PayPal,Failed,195.75.171.174,Los Angeles,Desktop,1912,No
+48:52.2,d1a3c7e2-cbb4-4fc0-be8f-91d1404ffe13,62620ab3-0755-4cb8-909f-9f7154294fd9,cb321695-13a1-4442-86d5-4b1a9d787ba8,Toys,499.24,Bank Transfer,Failed,32.228.52.236,Phoenix,Desktop,3358,No
+47:35.9,99a7db5a-3b5f-4cbc-a9be-ce51bacd6d12,6f96d216-508a-40d9-87bd-46a2ce1fb579,638781b2-d65e-43da-97d3-a5b9dfa45ac4,Furniture,38.35,PayPal,Completed,49.48.159.197,Phoenix,Desktop,2367,Yes
+00:08.7,5e10467f-ec79-40bb-b26d-936da7f63e65,a926b1c8-a8f2-4fd4-aed7-354c1d86785b,5641cb4e-93fc-4ed8-9070-dc59c6ec5e62,Groceries,186.64,PayPal,Completed,87.229.235.58,Los Angeles,Desktop,1100,Yes
+03:33.5,7f9f08e1-1c48-4cc9-b048-1ee6ca682e47,9c52256f-9678-4062-a9ad-3f75a9f55d39,a9250627-0194-49dd-b0a1-35f4ed0c8350,Toys,339.31,Credit Card,Completed,212.253.132.147,Los Angeles,Mobile,684,No
+04:34.3,ae80b5a3-e7ef-4b8c-a44f-2912524a9f74,b9d1ad69-e5ed-446c-aa5b-b39cf0cddd4e,68e39fa8-80ce-42a4-80cf-50c8726ec35a,Apparel,408.01,PayPal,Completed,112.68.90.234,New York,Desktop,1027,No
+48:02.8,fe71fc16-d992-4a2f-893c-16cd4f61ba6d,adcc2f57-45d4-4771-baa8-260e103b2b68,eae4086f-0e5d-4fa3-9912-3e71e3c97668,Toys,805.46,Bank Transfer,Pending,165.175.149.12,Houston,Tablet,3449,No
+57:10.3,64ceb2c0-c406-4d22-9422-3cfd9d14fc0f,4a3eb5a3-850c-4a11-83b4-1b2ff0e81a8a,e81622a0-d199-4505-a9a7-e9d12ebfca0f,Toys,934.93,Bank Transfer,Completed,175.13.124.132,Los Angeles,Tablet,398,Yes
+12:31.1,90db04f0-6572-465a-9dde-f61b92a16fdd,0d406783-441a-49bc-a854-bd41e4d3dd67,8b3adcb4-86a8-49be-aa8c-bd321a6826e7,Electronics,492.9,Debit Card,Failed,136.105.20.49,Chicago,Tablet,2874,No
+08:53.8,e23c17e6-0822-40f8-a320-7601611e7f77,478abd5b-1026-43d8-a072-a0320569e5dd,bb117843-6cab-4a43-a140-a690494fa259,Groceries,115.53,PayPal,Failed,76.52.203.183,Phoenix,Mobile,1155,Yes
+17:49.6,a1dd6905-8e8e-49ee-9441-9ca8311b0aad,93844ba8-7d12-4f69-9a44-7d0abb4f46e1,4a4b6bdd-2a17-4c36-b758-5d8b01eaedf4,Apparel,451.93,Credit Card,Failed,37.176.171.241,New York,Desktop,1946,No
+57:11.6,d258d851-6004-496a-9e95-7c2dac99b012,a6194502-2712-4612-bf10-75d61c9234a3,0643de88-6ade-4935-aef1-7ec73a9c8d3f,Apparel,740.8,Bank Transfer,Completed,81.181.111.218,Phoenix,Tablet,2737,No
+56:35.8,8fca5982-afbc-4bb9-ac7d-b675c8764a51,d65f17f3-877e-44ff-aade-a7bdc5993bb7,a124f6f1-a8f4-4c51-ba17-eb0123eb222e,Toys,995.29,Bank Transfer,Pending,72.127.48.125,New York,Tablet,3421,No
+09:02.0,5bc579b0-9d8d-45f4-b681-939e1a7fdca4,3dbcb27f-e3a9-4e7a-a0b8-5cf67ad3e13f,fc7dfba7-dda6-4967-8391-1ff927cf41e1,Toys,959.05,Debit Card,Failed,160.25.238.177,Chicago,Desktop,1541,No
+40:06.5,2ed8633f-8f56-4c3f-9fa6-d9dee9497e33,288df329-9083-4e9b-ad1a-e9a7c06cf21a,8b4f2f64-fbf6-4b48-a6d9-6beaeee7f63f,Electronics,810.67,Credit Card,Pending,101.101.38.19,Houston,Mobile,2042,No
+51:54.8,a53fe6bf-6c19-4d76-86d0-a147d5349a78,89a15043-c191-4307-b980-16fc937ddc9e,aacf0bfe-1fbe-4e74-a312-d9be2344296f,Electronics,698.02,PayPal,Failed,155.42.203.80,New York,Desktop,998,Yes
+38:16.9,0a57414e-f135-482e-835f-1385d5b356fe,843eb907-290e-403f-be21-032fdb9024e6,9eebacee-17f7-4124-9c8e-46b311788eb3,Electronics,693.45,Debit Card,Completed,131.223.194.202,Houston,Tablet,298,No
+36:37.4,efefebf3-72b9-4165-b9df-b504fc7f0526,0b56602d-c39b-45b6-b786-2dfe065609d4,5502114e-eed5-4aee-9696-4a3cc5061912,Furniture,195.08,Debit Card,Failed,221.222.215.191,Houston,Desktop,996,No
+57:29.3,4654286a-f6e8-4eaf-81d6-2c03dd01334e,a51e2938-7380-4cf6-ae0b-9e6a400c2fab,e37446ff-9e40-46f7-9b0f-17d560458c92,Groceries,396.68,Credit Card,Pending,205.27.227.94,New York,Mobile,2622,Yes
+02:39.1,3e970683-1ae9-4459-8e96-cae4765bef89,2df53ddb-e1b2-42c0-bc3a-cb3e67a52468,418a697c-9b4f-473f-82c2-fed4b6cdfbf8,Groceries,159.64,PayPal,Completed,218.133.165.54,Chicago,Tablet,3458,No
+06:39.2,8f7b9282-994d-4549-8640-1ff71801d243,3185d605-1a6f-46d0-bd0c-4ba3102d2c6f,2a4f662c-eb9d-4423-967a-945d6511ff8c,Electronics,447.13,Bank Transfer,Completed,95.64.116.1,Chicago,Mobile,2296,Yes
+31:13.6,b460ccf6-0b9f-4bd6-88e7-92b0945c1be0,9de81df2-65b0-451e-8e76-f104197845d1,fe273a5f-194d-4188-98cb-6fcef6880587,Electronics,571.31,Credit Card,Completed,58.71.234.213,Phoenix,Tablet,1901,Yes
+10:12.9,fedc9886-af3e-4d60-a6fd-335fdeb5a947,3e4eb5d8-6b81-47d8-8857-ecf72e833426,13d7d7b9-5adb-4ad4-8e6e-439aedeaf7b3,Apparel,608.04,Debit Card,Failed,71.78.248.110,Phoenix,Tablet,3148,No
+20:58.8,31836a1c-20af-45be-b8cd-c47257204578,f13b962b-1b17-4397-be95-e22de3d7d63f,c3b1f156-aa67-4187-844f-23743844806c,Toys,915.63,PayPal,Failed,223.242.100.20,New York,Tablet,897,No
+28:57.9,bb38d810-d15a-4e5d-af09-a34207b852f7,0a35f848-13c5-49e1-8832-d8ebfa6e0385,1ac82bdb-5f24-41f8-9984-ceec5c5d5fc1,Toys,371.81,Credit Card,Completed,95.157.182.161,Houston,Desktop,1194,Yes
+39:21.2,5378fc13-5bfe-4194-91da-14973de58dc9,8910e773-fa7d-4a9a-bd03-c9518e75893c,b7878637-40a4-4b0f-bd4e-9a2f80bc15e5,Apparel,595.21,Bank Transfer,Failed,137.109.50.185,Phoenix,Tablet,2723,Yes
+23:19.3,9a97d6bc-10d1-4d4d-b9ea-29ed7595df94,335f5b2c-dd4e-4ab8-b7f9-f409d021f914,d575bed6-d89e-46ed-9ce2-7ce0a4f3e326,Furniture,132.25,PayPal,Failed,35.182.161.162,Chicago,Desktop,1892,Yes
+08:35.6,bc8b8b3d-9d91-4f2b-8fac-a8be1e36797e,75e73fec-f00a-4e1a-a669-1f2ef45e2b63,48582e47-72db-4974-a3ac-ff14428b1491,Apparel,738.41,PayPal,Completed,191.238.138.215,Chicago,Tablet,3215,Yes
+31:43.3,c0a35e5a-0ee7-477f-bdae-37c1cd633426,7c5a6ead-f94c-4b26-ba15-de019681f8f8,22259ed8-68fe-4db0-a16b-efef50116356,Toys,413.85,Bank Transfer,Failed,199.125.60.130,Phoenix,Mobile,1617,Yes
+58:46.6,223ebdbd-5a7b-4f93-ab50-80c325081372,5dba908f-2396-4662-8b91-d8d3e956516f,f5c16997-ef11-4ab4-98ab-cba4be41eb6e,Apparel,24.41,Bank Transfer,Completed,119.212.73.52,Phoenix,Mobile,1902,Yes
+46:02.7,860380cc-2f9e-4e67-ba23-517a9cb3c7c6,fbe5c279-8d16-4181-aeaa-da3235cc81c4,01080267-95f1-4795-949a-edd4bc2be205,Electronics,67.27,Bank Transfer,Pending,95.40.17.83,Houston,Desktop,2658,No
+32:33.8,2081f2d0-5dfe-4741-afa1-3bd5d16843e3,996b5799-5887-42ce-8322-217136cf40cb,3633cd51-9429-42b1-bf35-a776aefc009e,Electronics,242.69,Credit Card,Completed,179.152.19.47,Phoenix,Tablet,2592,Yes
+27:13.0,373112f4-e53e-4d47-8184-9f463e6363d8,d71c7e1a-6e6e-4c03-8773-293db71f05e7,d16629e8-e1b2-4665-a6dc-30100889aacf,Groceries,438.78,Debit Card,Failed,63.226.77.124,Phoenix,Desktop,3389,Yes
+52:07.9,6658e0fe-e6cc-406a-a667-2fbc4df836dd,9c979ab8-383a-4978-ae73-6420fdd0d6b6,89873005-0b7a-4669-a3b7-9a9bc97f8e81,Electronics,391.69,Credit Card,Failed,58.51.142.55,New York,Desktop,1274,No
+07:45.8,48a116f2-ac5a-4be1-9bd0-d7c832dee59a,6de5b455-3e3d-4a6b-b62d-820302149016,983986f1-5ad9-4f03-a3f4-4559d139e6e4,Furniture,487.83,Bank Transfer,Failed,51.206.160.63,Houston,Desktop,2070,Yes
+40:55.4,d3e18109-d650-49dd-968d-7a6592404ca4,89bb7d77-520d-4c86-acdf-cf3916a7c456,6aa98d80-4af2-4d9f-8cdd-1f678bf4ae70,Toys,595.39,Bank Transfer,Completed,57.204.28.64,Houston,Desktop,676,No
+17:47.8,7ef9c6d2-973a-4f26-acfe-23c5ca120856,448cdebf-8ced-406b-9655-afa76620f379,de6196d2-80c2-4a8a-acd6-1ddfd7aed033,Furniture,492.98,Bank Transfer,Pending,22.136.137.242,Chicago,Mobile,1638,Yes
+59:42.2,fea684e8-260d-4fb3-931d-5bbe8970f32f,234b75a2-d509-4ed4-a430-bc3d8e195139,6ff6bc5e-9457-4936-b456-80a4c068e716,Apparel,794.93,Credit Card,Completed,94.128.123.174,Los Angeles,Desktop,2590,Yes
+35:27.4,dcf28644-a5cf-4109-9822-25e7de9fd82f,116bf83e-6e53-4f79-91d3-3dd6f985e28c,ddaf0d53-b5ad-43dd-b735-33d0911328d5,Groceries,464.07,PayPal,Failed,126.204.97.209,New York,Desktop,564,No
+12:57.2,4f6b3eed-64fb-4d18-b868-330ffa2b569a,e79ce626-50cf-4e5a-9f78-a32aad85d823,385f4cd4-870d-4408-8b22-5133308e75fd,Apparel,661.3,Debit Card,Failed,190.189.53.105,Houston,Desktop,105,No
+08:10.1,990ed74f-5592-4c99-ab44-82e7afa48482,2991e5cc-f595-4fb1-9db2-571f8df5208c,2c08cdcc-58c1-4ed9-be35-4e92ada63326,Furniture,763.69,Debit Card,Failed,216.67.218.220,New York,Desktop,909,Yes
+19:32.6,f938fe9b-d58e-4cb7-a43f-49f176765f9d,3fc29d70-c9b8-42b8-a3ee-7685d74f8ae9,d9efe6b6-a318-4f5c-8272-d5a1e54d183d,Toys,750.23,PayPal,Completed,198.24.39.18,Chicago,Tablet,1045,Yes
+19:57.4,140c9874-fbe1-441f-b039-8b585f1e43a5,6bfe9e43-5312-408c-bc63-8203760184e7,311c7e5b-7e43-4fbb-b615-327aeab00e0d,Furniture,403.43,Bank Transfer,Completed,20.157.248.129,New York,Mobile,3281,Yes
+27:15.2,467d3efc-f99b-4a4b-a43e-6974be9eb513,6f42067d-cfd8-4c61-bed1-14a61ce882e8,51b9b1b9-6769-4efb-8100-c4f1bcef3ca7,Groceries,954.48,Credit Card,Failed,96.196.40.201,Houston,Tablet,1944,Yes
+58:08.4,305d3d6f-a150-4f27-a2cb-2a3e02bb126f,910c69d1-b9e5-4b0e-ad20-9f3cb2c43ada,6a64f850-811d-4eaf-9821-a2c94d71c63c,Electronics,340.63,PayPal,Completed,190.114.237.175,New York,Mobile,2323,Yes
+08:22.9,7041f319-5a9b-4964-9e3a-e91b50029478,1ce66e1d-1da9-4542-b513-fe23e275f334,894aac22-23a5-4b8b-b424-757e0b08de49,Toys,807.31,PayPal,Completed,187.151.109.42,Phoenix,Desktop,3129,Yes
+01:51.4,d74b5771-8f5a-4ece-a415-e9315a3d7b58,e489d915-85bc-485d-ace5-1402f728f6fd,e734244a-3406-4979-9be3-9b312a5d3375,Furniture,723.91,PayPal,Completed,128.67.169.160,Phoenix,Desktop,2688,Yes
+10:36.8,9108ab93-2365-402c-bab0-954df350e73d,bb270dd5-72e5-4b39-9ccc-a80d8d292bcd,b75a4090-0c2b-46a8-80a6-7c92ec48d0a8,Toys,387.49,Debit Card,Completed,187.138.64.205,Phoenix,Mobile,1569,Yes
+24:01.6,9fecbb22-c59b-422a-94cc-202b73ea3fda,08ac6f26-fd58-46a3-a93e-76abe3256d24,13600442-991a-4adf-8fbf-77b4966b7bdd,Groceries,651.76,Credit Card,Pending,106.249.228.183,Houston,Desktop,1824,No
+02:46.9,ef86baed-fc91-4188-affb-49ee5b03b8f6,d41c3ba0-768f-4d8e-bded-d7cb7b75517b,dc798a56-159e-4b1d-9432-f32b8ab123b0,Apparel,982.05,Bank Transfer,Pending,89.40.45.112,New York,Mobile,230,No
+08:23.7,2c578021-c5b4-4d53-a20a-6a3ddc2139c1,d62bb7df-638b-437c-a988-eb1ed359edfb,4b9c616a-23c4-433b-8016-9b8d43c17617,Furniture,224.03,Credit Card,Completed,39.110.165.156,Los Angeles,Desktop,1463,No
+35:22.4,e641a60c-11a4-44ce-ac41-7e3999f4b7e7,29db1104-cdb5-4b56-ab7d-b04dc06d15c8,a31524c0-45b0-43ce-a64c-d318af284396,Furniture,98.16,PayPal,Pending,147.40.192.80,Chicago,Desktop,3205,Yes
+11:09.3,58034fa6-1940-436e-90d3-6d03f293ee19,a9e40ba7-221b-49c0-8d0c-395297176481,d568bed7-846d-4df7-be1e-9d1a300c6862,Groceries,763.68,Bank Transfer,Completed,52.178.88.37,Chicago,Desktop,2362,No
+31:35.4,27b00076-d87f-4a0b-a45b-2e91cb5c35c9,48a05d68-6813-4faa-b0c9-6e1515e0f427,86b6bf62-561e-4621-9bb2-81a1062f6323,Electronics,120.56,Debit Card,Completed,199.72.81.123,New York,Desktop,1167,Yes
+48:54.3,5c3e4163-e8a8-4125-b243-d61b20492841,a882340e-3076-4347-be98-feb87d6263d3,73e14732-9c77-4610-8214-82120f9662d5,Furniture,345.69,PayPal,Completed,134.160.240.204,New York,Desktop,1552,No
+48:54.6,a77fcb48-e3af-4a67-9198-b1a116e5a914,6134e371-8b13-4c8b-bbc4-c7729d9ea12e,b13271f5-529b-4c4f-a2ed-162a90785cdf,Electronics,170.04,Debit Card,Completed,111.241.202.7,Houston,Desktop,633,No
+49:32.0,7157edb6-04b6-4abc-ae4b-c9cf66e0fe6a,b3e9bb2f-cf00-4677-9bdc-c144c53ca2d9,e4532c8f-23e0-4e23-91ab-f944a941fc71,Apparel,776.75,Bank Transfer,Completed,55.225.149.168,New York,Tablet,985,No
+54:20.3,e86b2677-e020-4abd-b572-4a76d55f4e63,c3993d39-28d1-4a29-a2d3-fa3da9721290,29ddb713-7bec-4a28-868f-b659145c23fc,Apparel,542.26,Bank Transfer,Failed,121.176.244.34,New York,Mobile,2597,Yes
+57:48.5,cba6e5a9-3226-4c70-b6a9-92a705e94d96,b1b609c9-cd59-4317-b986-381e745be687,40e980a2-639e-465e-86b2-ebf8d2cc8afc,Groceries,744.15,Debit Card,Completed,37.28.188.19,Los Angeles,Mobile,1168,No
+12:19.1,e6606222-75b8-4baf-b5d8-ad4eb70dd4c6,f2076ae8-8aa5-472f-a68b-64e25917cf19,dc91972a-3010-41af-ade9-5bca20ddae0d,Groceries,279.83,Bank Transfer,Failed,144.4.113.100,New York,Desktop,2430,No
+20:51.9,6e95ff5d-3233-4ac0-a2f9-6c28355df459,285feb47-e0f5-4fcb-9b32-61f05e46dabc,72c935f5-6e56-4a06-aed8-2bc9fb1dc114,Electronics,954.77,Credit Card,Failed,120.107.147.45,Los Angeles,Mobile,2578,Yes
+53:17.4,46e4ae73-5768-4aa3-b435-a2cd659ddcb8,764499f9-5898-43b9-973a-04fb03f7e803,7f915009-66b9-4d40-9b0e-7904a48d5d45,Furniture,847.19,Debit Card,Pending,107.34.37.124,Houston,Desktop,2701,Yes
+40:29.8,d7bf4f63-1bd5-4911-8706-e4e0aee44553,b6cba29a-95dc-471e-9413-711f8bb1eaf4,f78a596c-79a1-4e2b-b100-ec1ae5f4c09c,Electronics,191.35,Debit Card,Pending,193.189.113.66,Chicago,Tablet,2412,Yes
+36:16.8,11f540f9-36a1-45f3-9f9d-be29eb6d19da,5f7d5309-de24-44e8-8039-f6f0a92573e5,49c07a82-c801-46af-b626-0f73f9ba853c,Groceries,266.49,Bank Transfer,Pending,120.176.9.252,Los Angeles,Desktop,3157,Yes
+26:32.9,7019cd3d-48af-49bd-bb74-c57410c8c514,0b5c6b67-736a-4147-8183-9b22c7d5eca8,4fb8a4d8-377d-43a1-8d01-beab33516526,Furniture,220.66,Credit Card,Pending,164.76.59.113,New York,Tablet,2702,No
+35:27.9,d6e03062-e963-4530-9859-e2e3ec5513d6,0e12c4d1-34e1-4d14-b037-f3fd2fe667ec,e61458b7-899c-4cc2-a75d-175f66ba65e9,Apparel,571.37,PayPal,Completed,118.56.250.187,Phoenix,Tablet,1345,Yes
+58:19.7,b6f5aea6-03ed-4bc4-9d60-ad7de89df338,d290b06e-8285-4f8f-b4a1-c52a5896c526,28e05693-1156-4668-9372-1574e78b8aab,Toys,483.36,Debit Card,Pending,218.77.161.254,Houston,Tablet,1777,Yes
+37:47.7,9ec821c6-539a-4868-8b7a-7ec0eccc91db,82324ce9-4cc9-4595-b4ea-9b556abbb808,3bc5b189-65fa-4d90-a702-2dcec4b074e0,Groceries,452.26,Debit Card,Completed,204.186.223.153,Phoenix,Tablet,3168,Yes
+40:55.3,37804186-fc69-4c64-b45b-6bc477ec3cfd,a042b0a8-f8d3-42a3-86fb-04d71bc94b29,c6759cc4-9b22-447f-a41a-2624a8383dca,Furniture,696.13,Bank Transfer,Completed,3.141.94.118,Phoenix,Mobile,3422,Yes
+55:34.7,fa283951-ad8a-406f-b570-9d3c9baf4401,0bb33960-62c3-49f3-83f5-f026e4164b18,11ae03ea-19d6-44d0-a14c-a100c2a2204b,Furniture,727.89,PayPal,Pending,109.96.200.183,New York,Tablet,795,Yes
+21:38.4,07c973c5-323f-43b4-9af0-7e9a3fe5c5e4,88b3f966-642a-43d5-bc54-62e6197983f2,a57b304e-c55a-4bbc-b475-f9f710fd9881,Electronics,939.67,Credit Card,Pending,86.164.55.91,Chicago,Desktop,2020,Yes
+25:28.4,07a093be-aa73-44c4-bbfe-05329e5d25a9,4c4c620b-2c52-4ad2-9391-344b22a59bc1,c6406e58-405d-4466-b80d-c68cc74ae635,Groceries,713.37,PayPal,Pending,9.96.186.179,Los Angeles,Desktop,309,Yes
+30:15.5,68aa589c-b9f3-4b9c-a35a-bbf72ea4190c,8ec68b71-00f0-4515-a8ce-6d001b068969,218d7594-b500-46de-a19f-8419269738a4,Electronics,918.93,Debit Card,Pending,26.44.183.18,Los Angeles,Tablet,2996,Yes
+11:30.9,e5deee3a-7302-456c-bbd3-debc6fb39e65,4b85e0ee-528d-4860-8e4c-a89acbee9429,a10fc438-40f4-4224-9231-a90be1c3618b,Electronics,850.81,PayPal,Failed,211.186.151.42,Houston,Mobile,2972,Yes
+43:25.9,19197bc7-fe45-4abf-bfff-03a4f3e5c7eb,59053344-f952-4846-85a7-eb8a51fc2eaf,a3bb4a2a-87a5-46ad-be0e-b0053ac437a0,Furniture,390.71,Credit Card,Failed,63.222.10.204,New York,Mobile,2378,No
+24:43.9,20a9558e-4bc2-4d7e-b294-a467d4416b88,8556a540-84fd-40fb-8790-886f46426d18,5e86bddd-2d24-4007-aee5-41505ade35ce,Groceries,936.72,PayPal,Pending,66.227.73.227,Houston,Desktop,660,No
+00:10.3,8a560c11-a4cb-4b20-9143-b0248e04725f,f86d3168-8ee1-437d-859f-8391e29d1bd6,7123a2b3-9100-442c-b5a4-80f88726eff6,Apparel,777.4,Bank Transfer,Pending,64.193.87.80,New York,Mobile,3242,Yes
+10:37.0,3c3e09e1-9d63-40e1-9fd3-dbb2d5ae5d45,c923b970-039c-464c-9ff3-bd615a216d6a,43794ccc-1f77-4a00-a038-7d2a238d3a62,Furniture,905.26,Credit Card,Completed,151.236.179.65,Los Angeles,Mobile,1157,Yes
+37:53.8,32d0272f-23eb-4f40-a4ac-bcd0e3c895ee,3e0a4573-910d-4dcd-a0d9-bd6ea22e3ad4,d459083f-c893-4072-9b3d-e2c48c18e1df,Furniture,17.12,Debit Card,Completed,115.162.141.102,Los Angeles,Tablet,3419,Yes
+43:55.2,5a951bab-00be-4fd4-b076-ad57937a18be,49fb2912-9655-4f22-b83e-292b5b340d73,9e4b64aa-b95f-47b1-8e1d-08123e5b8412,Apparel,139.55,Credit Card,Pending,138.73.218.127,Houston,Mobile,541,No
+11:32.9,8ba31f4b-0e5b-4ca2-8124-df298f6d7a6f,a1b3a8c1-9bbb-481a-aeb0-96f880942779,56815fbd-2a32-4e6e-a462-60ef2e586c72,Furniture,339.23,Credit Card,Failed,172.0.144.187,Houston,Mobile,959,Yes
+35:16.9,7eecee7c-b748-46af-9332-514cfe4a1f2c,898d7ee8-2d69-42dc-a5fb-1f82b6f4bd97,ce9f004a-3dd8-429f-820d-9403f91b0955,Apparel,466.34,PayPal,Completed,38.135.84.118,Los Angeles,Desktop,3480,No
+52:01.4,7c8975a1-7efc-457b-8b7e-0008f53dfc75,d1ac39d6-947e-4b98-b45f-d1e0fcadd029,344f6244-3f78-4202-85db-b45929d86ad4,Furniture,793.12,PayPal,Failed,202.134.31.134,Houston,Tablet,152,Yes
+10:33.4,21f7a638-1d89-48e2-9e95-95343aca624c,08148d45-6fa0-4090-9918-d4b6d01631a8,80227602-c233-4a79-97f7-aba88cdeda79,Electronics,424.41,Bank Transfer,Pending,75.39.67.15,Los Angeles,Mobile,1510,No
+00:35.2,ba35725a-66df-4202-b5c7-bf9f21fb6c7e,683af9e5-9e50-4a95-87b0-1dd15b3573ca,c5271d80-39d3-4884-921f-4b347ffec6c3,Groceries,434.03,Credit Card,Failed,112.102.70.151,Chicago,Mobile,373,No
+48:24.3,af090355-19d6-41d9-bd82-0852a5b8950e,069957fc-2c99-48a2-bba0-0eca0dd403fa,81de6457-f745-4964-b729-65926fa29633,Furniture,500.31,PayPal,Completed,67.212.126.27,Chicago,Tablet,3025,Yes
+56:07.1,024587d0-38fe-43a6-9ba4-830870d031c0,c8679b3f-4cfa-45b1-ad40-44f3a3ecdc75,6e8a2b0e-417b-49a0-bde0-d9063f12537a,Toys,471.08,Bank Transfer,Completed,47.214.165.19,Chicago,Desktop,646,Yes
+16:25.0,8eb6f32b-ec28-4299-8099-7116032187fa,df38a7fc-3395-48a8-8b48-d562484d3da3,92e73e17-0839-44c4-b034-a4700881e8c9,Groceries,61.85,Bank Transfer,Completed,18.78.145.187,New York,Tablet,2955,Yes
+55:23.7,fed28036-2afa-4050-a4b6-c5e5b6cfdf1e,2fb90689-7773-491a-ab68-e6712236c14b,7b988894-c071-4dcf-9c0c-20500d30eb4c,Groceries,634.67,Credit Card,Pending,187.255.224.118,Los Angeles,Desktop,3323,Yes
+44:35.2,70b21b1a-8da5-4068-a4b3-5fd76983651d,e2f3edae-d854-4469-aea2-95e835118d84,3f9da46f-4d6c-412b-ab57-c6219bb148a3,Toys,828.09,Credit Card,Pending,208.231.86.1,New York,Desktop,1189,No
+39:53.1,2b06919e-4fd8-4d1b-a6bb-0c63591a7ee9,950285b3-22f7-4cdb-a09b-b71ff9743edb,5acda0b6-52c9-467d-ba21-d1924671a061,Furniture,260.81,PayPal,Failed,145.14.104.221,New York,Desktop,498,Yes
+01:07.1,55209696-4b8d-4eb9-95c2-42576682defa,ee2a9382-0fb5-44b6-817e-b965bbf70317,8d8c1605-8d56-4462-9728-14f16c6a94d7,Apparel,986.97,Debit Card,Failed,141.224.8.189,Phoenix,Tablet,3273,No
+18:35.6,6ec726bb-0530-4eb5-8850-297db3a1cf79,bc8eeba9-6f6a-41dc-a911-7be54a8247d8,3ad0bb7e-9487-4542-82d3-e4733b5738c8,Furniture,25.53,PayPal,Failed,132.187.251.74,Phoenix,Mobile,378,Yes
+50:25.4,993ac30c-eb0b-4e1e-9aff-2a438014199a,2643f011-e6e0-4be1-b3a5-c596d30f1c0e,488c24e6-a634-4a1f-b02f-5050467795d5,Apparel,150.7,PayPal,Failed,148.199.31.191,New York,Mobile,2955,No
+23:17.4,d9b32b79-1d5f-4b9a-852d-649815945538,62dd006f-c98e-4fa4-9691-2f1221d5bff9,be3dcf27-66dc-48cd-adb6-e9077f15a170,Toys,630.62,PayPal,Completed,28.70.7.29,New York,Tablet,2494,Yes
+08:49.9,39dfd5c6-9bc7-4ccc-9875-009588c6be90,a87cfb8e-55e4-4de4-bf4b-11642e570832,5c94613f-eca1-4192-a726-43f2f36f063c,Toys,963.27,Bank Transfer,Completed,201.49.128.87,Phoenix,Mobile,783,No
+18:57.2,03f12c1b-89ee-4ccc-9051-334e5ce48a7f,9754d337-4620-48ed-bcf3-919152c36805,0ee6043f-1589-4ffc-80b2-8647befc4720,Apparel,135.57,Debit Card,Failed,26.158.40.127,Houston,Mobile,2773,Yes
+29:28.2,48647903-c8df-4c56-a74f-9aea1d71c79a,99058fc0-3fa8-433a-95b2-b7a2ae40b15a,780448e2-f106-4da3-876c-832fbf79c57b,Toys,899.63,Debit Card,Failed,166.104.177.106,Los Angeles,Desktop,363,Yes
+29:32.7,5195ffea-a861-42c8-9821-3d045bd4e314,dcdf9ac4-c844-4b29-ab74-75108a8a7983,dae563c5-6060-455b-8b7c-d79b5e34aec5,Toys,266.67,PayPal,Failed,200.123.97.230,Chicago,Tablet,2927,No
+52:12.4,313ad75a-4669-42e4-a903-9ceacfa05778,622bb7a6-3121-4217-abe6-7bd98c98b20f,a9783ecd-cbb4-43ac-86c8-dbbab5d5f812,Apparel,842.24,Bank Transfer,Failed,146.15.80.170,Los Angeles,Desktop,341,Yes
+25:47.8,50ed46c9-8166-4670-9547-7fb6ba930006,86489930-483b-45e1-aee8-9b6b06855057,403e3661-1ade-4b57-a379-e1b812e569b0,Furniture,489.95,PayPal,Failed,26.148.8.193,Chicago,Desktop,663,Yes
+26:45.5,0d820cc9-3a8a-4662-9aaf-b25d13516bc2,9e151571-a69f-413f-8da7-f6fdeeb50908,555b9768-3487-4d06-b626-5216714812bd,Furniture,963.42,Credit Card,Pending,78.61.227.142,Houston,Desktop,2418,No
+10:21.6,d1ab2386-7ec0-4dca-a4b6-e21beb1ca8a0,01ca1891-fef4-42a7-96fb-0bf4e8fcd43f,a99d8550-451d-43d9-9896-e0b4eda8db24,Apparel,971.22,PayPal,Completed,44.128.44.105,New York,Tablet,1842,Yes
+33:33.0,2c190c68-581e-4464-8a22-7b78fae45b87,7f590f54-bff6-443c-923b-5502332231f1,7cffd07d-b7e5-43f1-9362-cdb4d727711e,Apparel,536.03,PayPal,Completed,219.51.189.64,Los Angeles,Mobile,2397,Yes
+41:24.9,4f661563-cfc7-41c7-a8fb-e675068318fc,ffa55aaf-af78-41be-978b-d8a335d321c5,cd283c4b-7629-4540-84cd-ba465d9f5994,Toys,704.45,Bank Transfer,Pending,130.92.156.144,New York,Mobile,340,Yes
+15:34.0,c51e4eed-a151-4753-9287-4a4c36e9145c,b7697c3a-1d3a-48ae-a12f-e95cc3dce1b9,411cbbc8-eb22-4a77-9aa1-71bfa2b72d83,Apparel,480.39,PayPal,Completed,179.233.192.190,New York,Tablet,887,Yes
+55:01.0,254f53fe-f42d-40b9-b4f7-a07f75098875,8c29c441-fb86-48b7-89d7-37a4b609f772,49c03b78-cbfd-4f2a-9cd0-400695c88b78,Electronics,631.13,Bank Transfer,Pending,44.247.158.162,New York,Tablet,579,Yes
+43:20.1,b7c85715-151b-4d11-93a6-31640c812980,72704940-17dc-4102-b584-dc4eb901ca25,7232d7fb-92fe-41f4-9785-063aec06ba22,Groceries,332.7,Debit Card,Pending,93.66.137.4,Chicago,Desktop,3104,Yes
+47:52.0,67e652ba-c9ec-4a04-be1b-6d9aa1814f0d,3cc332ec-f4bc-4ec5-a417-0c8d8b397e1f,e38d61e7-4e52-4176-8a3b-42f0195cc072,Toys,136.67,Credit Card,Completed,171.161.117.121,Chicago,Desktop,1090,No
+25:07.1,7c62f0ad-fc79-43d7-b328-621688b7794e,3916aa3a-0309-4092-a355-34901cf361fb,b2ec7f73-02df-4c2f-9285-f3c05395c36e,Furniture,685.57,Bank Transfer,Completed,164.151.155.128,Phoenix,Tablet,1614,Yes
+00:24.9,53171b46-e827-49c2-9145-00e4245be83a,93fee151-95ce-46f2-a038-74a72061cd07,dba2153c-34a3-4597-8f54-8bae9231aec1,Groceries,563.79,Credit Card,Failed,23.172.139.2,Chicago,Desktop,2365,No
+29:16.9,bd26c2ad-1fbc-445f-9f9d-df99e49c5b15,851f4dc4-d76d-4d3c-945a-827dc377d9aa,f3d9b7d8-5aa3-4621-8143-2ae1934bb207,Electronics,274.32,Credit Card,Completed,221.22.147.85,Houston,Desktop,3381,Yes
+32:56.2,237e138e-d73f-4a21-8417-358771246984,1a471ff0-cf3c-46a0-8013-85ec2dbeeec6,0a9acb59-ac4a-4146-b8c7-f112a4aef9dc,Electronics,647.13,PayPal,Completed,58.204.134.246,Chicago,Tablet,979,No
+45:35.2,8dd0d98f-2e59-4a34-a329-a7e44723330b,8e7be177-40d3-4e81-8d2d-a2c669a38a3e,14848f27-ce9f-46b3-ab03-92e690492d7b,Furniture,943.39,Debit Card,Failed,202.8.149.171,Chicago,Mobile,1534,No
+15:22.8,58f65cf3-2b29-4791-8b86-96feb8cbd821,f6c9fc9c-79a1-4d2d-9d27-4228a3661ee3,6da2db87-e19a-4024-bc1f-4d71d93fa402,Electronics,10.13,PayPal,Pending,52.33.244.61,Chicago,Mobile,3519,No
+52:59.0,c8c61dc7-2a04-4b59-99f9-319655abd236,c0e48929-7a11-470d-bd4f-3806a1d16eab,7a5ab9a4-5c6e-4411-9ca6-83eb688103c2,Groceries,173.26,Bank Transfer,Pending,161.217.73.93,Houston,Tablet,2161,Yes
+10:07.6,f1bc8bb7-39a6-45b7-979f-1f65c4d58138,ead1302f-a105-4dfd-a377-8d7f2603573e,63583555-c1c4-4c76-9e8e-aa854387be59,Apparel,398.18,PayPal,Completed,78.12.29.70,Los Angeles,Tablet,3390,No
+02:24.7,ee4cc754-6e97-45b3-bd57-2b35aa08b2ef,f07fa4c6-3901-43cb-b64b-ad5ffbda4c92,f53c885b-68bb-49d8-89f9-84d8b66d2bd2,Toys,545.18,Bank Transfer,Completed,66.164.57.30,Phoenix,Tablet,2797,Yes
+25:17.1,e4a8434f-452b-4bd9-86fc-e78ba448d57b,b75641d6-8d09-4af0-a2dc-39b82be18dec,0d74f18c-1b60-4161-b704-a9e9bad2f115,Groceries,745.8,Bank Transfer,Failed,211.233.178.157,New York,Mobile,3440,No
+47:54.4,efd322da-58b9-4daf-a849-f17cf0824fb8,dbbc268d-a6f3-4ccf-8af8-5a410187b447,a2c0e907-8ef8-4b3f-9a0e-8bb9061d5460,Furniture,226.22,PayPal,Completed,72.117.24.146,Phoenix,Desktop,165,No
+09:07.9,a192adcb-94c2-463a-8828-97b4150b2746,74459079-b582-4fd5-978f-4c5c14e50559,6012d975-2f56-453b-8feb-8a01e02cc7f0,Toys,450.79,PayPal,Failed,136.240.7.78,Los Angeles,Mobile,2199,Yes
+33:50.8,14dcb0d6-5e21-4164-b18d-a33f79110a0d,c32cb4a0-878b-460f-bf2f-ee13e94d1d79,edab7726-773a-4df0-bddd-9aeb2fae6610,Groceries,605.87,Bank Transfer,Failed,89.209.193.138,Chicago,Desktop,1613,No
+09:27.1,7580ad0e-3315-4b08-aaec-1de255918c7d,79b647aa-c380-4f77-a2b4-060a480fa3de,b4a9921f-a1ef-471f-a731-8499cb353f61,Electronics,681.09,Credit Card,Completed,18.57.50.218,Houston,Mobile,2188,No
+02:08.4,90b227e5-c80c-4755-9fd1-e2d4ea5520a3,1c387974-a043-4c9e-a47f-73831de4e653,f12ad4ed-9333-4446-b100-d963641fe613,Electronics,746.07,Debit Card,Pending,27.191.73.235,Phoenix,Tablet,2479,No
+40:16.7,50a89754-cb77-4f91-b202-58a3c67e5e8f,7d6bec45-0cbe-46c2-9b25-6e41804a1845,af6912ae-c115-4e9f-a8c3-5c10d177951f,Furniture,815.74,Bank Transfer,Failed,192.183.175.116,Phoenix,Tablet,2199,Yes
+32:14.0,eafc1678-4633-4dd0-b449-0fc66130e7db,40526788-c83a-4f99-af3d-453c001b65da,156ee906-a979-4ab1-b030-b106d4721fc2,Toys,572.9,Credit Card,Failed,20.43.134.186,Chicago,Mobile,162,Yes
+01:17.1,66716821-1a9c-4be3-a46f-c3bb6cbb2545,46ce5874-0fb1-4903-b38e-4dc21e9f2127,fe8079ed-3591-48af-955b-c7f57462350e,Toys,438.35,Credit Card,Pending,122.243.88.102,New York,Tablet,2813,No
+36:28.1,0beca9d3-c2d8-4255-a5e8-7d52667e611b,dc501ba0-3d4c-41c4-9110-937782fb5ee5,62c06939-909e-419f-a4dd-6885a07dbb69,Groceries,350.4,Debit Card,Completed,202.146.21.72,Houston,Tablet,3254,Yes
+14:53.5,c2a04d3c-4f44-4bf1-b956-2235adf6f3a9,fd249fa1-b8ea-4eec-a3b8-93ae4b2c6a46,1cea5bec-a228-4f81-aaa6-9a22396118a3,Apparel,248.59,Bank Transfer,Failed,4.221.86.183,Chicago,Tablet,2430,Yes
+11:08.8,3b817db6-bd50-45e2-958a-620718529879,519c0510-4402-4229-95ea-afdf7da2814f,49a6fbaa-5b17-4333-a011-d99986eede35,Toys,783.9,PayPal,Failed,215.184.227.1,Phoenix,Tablet,410,No
+07:30.1,4b0c8a97-aaca-444a-99e2-e841ba1f89a1,a8bddef8-e17e-4aca-9b69-782f925fe4c3,0f2720a2-3bf8-46c9-9398-fff8ca74da73,Electronics,925.06,Debit Card,Completed,42.125.146.16,Los Angeles,Mobile,2945,No
+09:47.9,75bad931-cfd6-4807-a04c-752aa7ec67bc,d22f50e0-6505-4b73-85e6-a0361b7cc4ce,89e852d5-9809-4f1e-8365-f9ca7061cdcd,Toys,876.58,Credit Card,Completed,90.91.195.221,Phoenix,Desktop,2215,Yes
+08:17.0,08398e0a-af9a-4031-87f1-67b4325196d6,c194f520-1fa8-4045-841b-6fce6b5b673a,62690935-43ff-42a9-9737-97d4118ab899,Toys,898.7,Debit Card,Failed,101.133.21.176,Houston,Mobile,1288,Yes
+45:46.6,f57e722d-cec8-4b1a-96bd-0d3327f76d2a,c91d72fb-2bb4-4d5d-8773-c4321a3831b3,7e2efba0-d975-4f92-a066-bdb5883c47df,Toys,18,Bank Transfer,Failed,84.166.91.67,Houston,Desktop,329,No
+05:22.6,50ff2a8e-6f51-427b-8e82-143363f5422c,feefd9a8-23ad-47ce-8f08-c7f8e435e565,b7332273-fa94-4a55-8bee-97fdb6fe1535,Apparel,809.95,Debit Card,Completed,118.141.85.85,New York,Mobile,2400,Yes
+17:57.8,46505832-3e0a-4b6a-b6be-d8716c1ecb89,0c9d8921-6cb3-4138-877a-cf59bb5d0932,6a19dd62-392e-4960-858f-e960eef95372,Toys,390.99,PayPal,Pending,217.64.157.1,Chicago,Mobile,1902,No
+53:42.3,122f90b6-1740-4a1c-81cf-cbe786b7af8a,5070adff-bf6d-487c-a825-1162bad0d3b7,2a3993ff-461e-4b2d-95d8-7e2d93905ef9,Groceries,268.46,PayPal,Failed,143.131.144.53,Houston,Tablet,2277,No
+55:43.8,9149cb0e-e71c-48ef-b0d2-dcd1b664ca37,b910a2a1-e743-449b-98d2-59ecd1d0b75b,8ba926b8-52c3-44c0-b85f-f202f41750de,Groceries,645.99,PayPal,Failed,195.80.66.23,Houston,Mobile,3435,No
+25:46.4,84f7bcc2-4c8a-4bba-af38-5befcb53eb8c,9669962f-41f4-4133-b5a6-bf95e49c31a3,4a262ed9-c24d-46c1-9fb0-dc1aca10e1df,Electronics,367.02,PayPal,Completed,116.1.82.201,Chicago,Mobile,290,No
+20:20.4,eacc7c55-cc4d-49f7-8107-779e2fe9ec3b,f102053a-3b06-4f4c-9eff-ee91fb9db1f7,f51dba56-3244-4dd4-a535-74a508ff0af9,Groceries,765.91,Bank Transfer,Pending,47.203.98.35,New York,Mobile,3273,Yes
+00:20.7,1e929b95-b169-4916-ae78-5046e7cf9ce0,3a3a118e-6a14-4fe9-bd0a-c2b8cb00f9c8,f1a175fb-7460-484a-8239-bcdd43746454,Groceries,489.89,Debit Card,Pending,209.168.208.176,Los Angeles,Desktop,2957,Yes
+11:27.1,f336f008-00c7-4e90-bc8e-141c949486e4,bd905dc4-2183-4a1f-baf5-65ffa0419296,404c1ee2-6252-4ec4-a948-4d1ae4daefc1,Toys,466.55,Bank Transfer,Completed,180.47.33.253,Los Angeles,Tablet,609,Yes
+14:07.5,e1d49ceb-713d-46db-a2c3-e20d862220b8,cb7d2e5a-02fb-40de-bbd0-f5f01436e23a,a7d65a98-6442-4521-a231-d32a80b9e8f5,Groceries,953.6,Debit Card,Failed,46.212.134.153,Chicago,Tablet,2900,No
+19:29.7,6262b7ad-eeaa-43d6-b5e4-8737357a6f69,83fb8242-acfc-414f-93ef-8252434d79ab,ee2002d7-b065-47b9-8a19-d340c55077f5,Electronics,392.22,Debit Card,Completed,23.173.1.107,Chicago,Mobile,158,No
+49:46.4,11a5b7dc-4870-4374-8e4a-e08f365f51be,d9b5f903-07ec-497f-8c66-067e2e52a3ae,22845abb-395f-4eaf-a33b-aed8ba94b9c9,Groceries,489.34,Credit Card,Failed,167.127.205.159,New York,Desktop,2863,Yes
+18:17.5,dccf1bab-a00f-4c03-aaba-41c93ac3d00d,5e83b469-3925-4bd6-aebb-8a8b6888757b,e42b90c5-f6cc-4e09-b7b3-e5c1add75384,Furniture,810.49,PayPal,Failed,218.21.234.241,New York,Desktop,1290,No
+49:29.9,928d4c9a-d09b-404c-8eed-4af57baea7bf,0261729b-5aa6-4032-a5f3-62734d6653d9,b7b4ac26-ed69-47ee-b58b-63d17fff3c8b,Electronics,985.43,Debit Card,Completed,114.124.117.57,Los Angeles,Tablet,1943,Yes
+45:18.9,23253711-e9e6-4262-bd56-3e220d00aa5c,52dd95ac-ac06-4886-9a7a-c0628149b242,fd1e0b9d-2bf0-45e2-ad74-666c35c1cada,Furniture,30.23,PayPal,Completed,222.153.201.113,Phoenix,Desktop,1424,No
+43:08.4,9f323b25-d466-40bb-9bac-c828ec017cd4,b986d5dd-e89d-4749-8e82-0bd53ca8be19,1c4f629f-6c46-49df-8ddb-c44c1f670c41,Apparel,218.47,Debit Card,Failed,147.151.243.132,Phoenix,Desktop,1222,No
+06:08.5,61033c1b-6c23-4783-9885-33669195fc8b,3051ed82-90cc-4446-b42f-044b49b05de5,13c034fb-feb7-44b1-b694-0be11e5a86cb,Electronics,945.16,Debit Card,Failed,222.142.154.81,Phoenix,Mobile,3549,Yes
+09:46.1,f15ef043-d9fa-4ffd-a708-8161c986ceae,12731d2a-561e-4749-8ed9-7c61bbd558fe,32042fcc-ee71-42a6-808e-5773e645eb73,Apparel,642.11,Debit Card,Failed,183.209.74.249,Chicago,Desktop,2851,Yes
+56:29.8,5d642d1e-5f65-4d5d-b267-bdaeecf24be0,f9a1547a-46a0-42d9-b29c-6eb476942a0b,6dd172e0-c576-4caa-9826-17d84b526b3b,Furniture,492.39,PayPal,Pending,188.26.4.88,Los Angeles,Desktop,1759,Yes
+21:28.9,8da67cf6-267a-41e2-b2ea-a4b99864cdf8,3a209c61-694e-4b51-abc8-eeae80f762b4,f6374bb2-308e-4e41-a6d8-3042d7a7ee40,Furniture,478.43,Bank Transfer,Completed,214.125.146.244,Chicago,Mobile,3486,Yes
+15:34.4,ec23dd87-0f2f-4c61-b61b-ac552ed1bccd,82eff247-90fc-4a4d-b2fa-0fef11ade91d,4b2fed34-ab08-4ef0-8767-e78563904df0,Groceries,326.32,PayPal,Pending,92.93.107.213,New York,Mobile,969,Yes
+36:08.2,cdfc8233-dc63-4ceb-9fdc-2308cc35c677,a840865a-36e2-42a2-aca4-99dee1ee858f,f053a93b-99cb-4a2e-9172-7ae0a53cd5df,Groceries,470.27,PayPal,Completed,1.1.171.26,Phoenix,Mobile,803,No
+24:15.6,58549a23-943d-4372-b736-d1edfefa376c,0979e652-cde6-4eab-85b9-57019d0107df,4ee7f1a5-b6a6-4d1a-aa8f-3c5d1d29ef99,Apparel,289.99,PayPal,Completed,166.157.69.94,New York,Desktop,3402,Yes
+08:49.8,1621ec95-f797-4def-a578-828b25968190,3d910211-4e48-4752-a696-95cb44a77f9b,cdc57114-f815-47d0-9e18-265450763ee7,Electronics,760.21,Debit Card,Completed,128.163.190.65,Phoenix,Desktop,106,No
+35:27.3,d6a43587-c613-4d30-956e-b07133cf6823,234982c4-f023-45f8-affe-04d10f8c3d9f,69a72acf-5685-45bf-8d3a-fd9bcbc96469,Electronics,934.47,PayPal,Pending,36.158.178.53,Chicago,Desktop,3221,Yes
+06:34.7,02429919-fea4-4873-8dc4-ef615a48f396,ed1a3415-30e1-4393-b524-e18168d1e4d2,b0773d93-2a07-43ee-b888-b7ee228024c6,Apparel,566.5,PayPal,Failed,145.95.22.99,Los Angeles,Desktop,1802,Yes
+26:40.3,7dab867f-62a9-4446-89c0-33fba92b0950,3d5ca3c1-9919-423e-9ed1-6add2e503b1f,eec45140-e53c-4c8e-9007-78c17697db80,Toys,604.89,PayPal,Failed,50.240.42.159,Chicago,Desktop,1579,No
+56:58.2,8ca03374-bab1-4815-9939-3e78518b49ea,6ff15fe6-ee83-4151-b517-e8eb4d0f9bf3,89f51918-3585-447b-8cc5-869e74364991,Furniture,300.13,Debit Card,Pending,185.165.230.139,Houston,Desktop,1126,Yes
+32:16.7,5cc1320b-7b48-4f1a-abb7-75d57fc44e47,6037a383-186c-4b89-8395-5b08466d640e,797b2a92-0801-4fcd-9fab-5c145be3ebd8,Furniture,932.96,Debit Card,Failed,37.91.163.127,Phoenix,Desktop,1489,Yes
+29:35.2,08bdad25-542a-4213-90ed-4aad0bdbe077,21770fc2-7066-4d35-a27c-bac60537ec67,9a2cd08c-715a-4d0d-950e-7e20142bcbd8,Apparel,112.07,PayPal,Failed,5.18.236.132,New York,Mobile,2616,Yes
+38:16.9,1e16d1cf-92af-46e2-928a-5b8dd23fd6ac,62cb3533-66a8-49e0-86b3-af1da5eaa8a3,ecb08b08-7103-42ba-8f6d-5834a675b555,Groceries,452.63,Debit Card,Pending,31.220.250.75,New York,Mobile,2640,No
+20:32.1,6aa497e9-d04b-4f58-9d91-fe689bbfb2a4,eb7b3416-8254-48b5-91df-29fbe6803f3b,dbf26adb-0fe7-409d-b4ac-09636502ff6f,Toys,118.41,Debit Card,Failed,77.176.87.175,Chicago,Desktop,447,No
